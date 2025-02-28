@@ -1,0 +1,1168 @@
+_id,barcode,category,categoryCode,cpg,name,topBrand,brandCode
+{'$oid': '601ac115be37ce2ead437551'},511111019862,Baking,BAKING,"{'$id': {'$oid': '601ac114be37ce2ead437550'}, '$ref': 'Cogs'}",test brand @1612366101024,False,
+{'$oid': '601c5460be37ce2ead43755f'},511111519928,Beverages,BEVERAGES,"{'$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}, '$ref': 'Cogs'}",Starbucks,False,STARBUCKS
+{'$oid': '601ac142be37ce2ead43755d'},511111819905,Baking,BAKING,"{'$id': {'$oid': '601ac142be37ce2ead437559'}, '$ref': 'Cogs'}",test brand @1612366146176,False,TEST BRANDCODE @1612366146176
+{'$oid': '601ac142be37ce2ead43755a'},511111519874,Baking,BAKING,"{'$id': {'$oid': '601ac142be37ce2ead437559'}, '$ref': 'Cogs'}",test brand @1612366146051,False,TEST BRANDCODE @1612366146051
+{'$oid': '601ac142be37ce2ead43755e'},511111319917,Candy & Sweets,CANDY_AND_SWEETS,"{'$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}, '$ref': 'Cogs'}",test brand @1612366146827,False,TEST BRANDCODE @1612366146827
+{'$oid': '601ac142be37ce2ead43755b'},511111719885,Baking,BAKING,"{'$id': {'$oid': '601ac142be37ce2ead437559'}, '$ref': 'Cogs'}",test brand @1612366146091,False,TEST BRANDCODE @1612366146091
+{'$oid': '601ac142be37ce2ead43755c'},511111219897,Baking,BAKING,"{'$id': {'$oid': '601ac142be37ce2ead437559'}, '$ref': 'Cogs'}",test brand @1612366146133,False,TEST BRANDCODE @1612366146133
+{'$oid': '5cdad0f5166eb33eb7ce0faa'},511111104810,Condiments & Sauces,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",J.L. Kraft,,J.L. KRAFT
+{'$oid': '5ab15636e4b0be0a89bb0b07'},511111504412,Canned Goods & Soups,,"{'$ref': 'Cogs', '$id': {'$oid': '5a734034e4b0d58f376be874'}}",Campbell's Home Style,False,CAMPBELLS HOME STYLE
+{'$oid': '5c408e8bcd244a1fdb47aee7'},511111504788,Baking,,"{'$ref': 'Cogs', '$id': {'$oid': '59ba6f1ce4b092b29c167346'}}",test,,TEST
+{'$oid': '5f4bf556be37ce0b4491554d'},511111516354,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f4bf556be37ce0b44915549'}}",test brand @1598813526777,,TEST BRANDCODE @1598813526777
+{'$oid': '57c08106e4b0718ff5fcb02c'},511111102540,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5f2e4b03c9a25efd0aa'}}",MorningStar,,
+{'$oid': '588ba07be4b02187f85cdadd'},511111201076,Baking,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Calumet,False,CALUMET
+{'$oid': '5d6413156d5f3b23d1bc790a'},511111205012,Magazines,,"{'$ref': 'Cogs', '$id': {'$oid': '5d5d4fd16d5f3b23d1bc7905'}}",Entertainment Weekly,,511111205012
+{'$oid': '585a9611e4b03e62d1ce0e74'},511111801801,Breakfast & Cereal,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",AUNT JEMIMA Syrup,False,AUNT JEMIMA SYRUP
+{'$oid': '57e5820ce4b0ac389136a311'},511111202233,Beer Wine Spirits,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f709e4b03c9a25efd0f1'}}",Molson Canadian,False,MOLSON
+{'$oid': '5fb6adb8be37ce522e165cb8'},511111817376,Health & Wellness,HEALTHY_AND_WELLNESS,"{'$ref': 'Cogs', '$id': {'$oid': '5d9b4f591dda2c6225a284aa'}}",Lotrimin®,False,LOTRIMIN
+{'$oid': '5f358338be37ce443bf9d55a'},511111515319,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f358338be37ce443bf9d557'}}",test brand @1597342520277,,TEST BRANDCODE @1597342520277
+{'$oid': '5fb28549be37ce522e165cb5'},511111317364,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fb28549be37ce522e165cb4'}}",test brand @1605535049181,False,
+{'$oid': '592486bfe410d61fcea3d139'},511111300700,Beauty,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f6e4b03c9a25efd0b4'}}",ST. IVES,False,ST IVES
+{'$oid': '5c4699f387ff3577e203ea29'},511111305125,Baby,,"{'$ref': 'Cogs', '$id': {'$oid': '55b62995e4b0d8e685c14213'}}",Chris Image Test,,CHRISIMAGE
+{'$oid': '5da6071ea60b87376833e34d'},511111005650,Health & Wellness,HEALTHY_AND_WELLNESS,"{'$ref': 'Cogs', '$id': {'$oid': '5d9b4f591dda2c6225a284aa'}}",Alka-Seltzer®,,ALKA SELTZER
+{'$oid': '57ebc011e4b0ac389136a335'},511111802129,Condiments & Sauces,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Jack Daniel's,False,JACK DANIEL'S BARBECUE
+{'$oid': '5332f5fee4b03c9a25efd0bd'},511111303947,,,"{'$ref': 'Cpgs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",Bottled Starbucks,,
+{'$oid': '5332fa7ce4b03c9a25efd22e'},511111802914,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5ebe4b03c9a25efd0a8'}}",Full Throttle,,
+{'$oid': '5e9f18bfbe37ce3e45b6a77f'},511111914549,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5e9f12f5be37ce3e45b6a77e'}}",PopUp Brand A,,
+{'$oid': '592486bee410d61fcea3d133'},511111400769,Frozen,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f6e4b03c9a25efd0b4'}}",MAGNUM Ice Cream,False,MAGNUM Ice Cream
+{'$oid': '5d66d71fa3a018093ab34728'},511111105329,Magazines,,"{'$ref': 'Cogs', '$id': {'$oid': '5d5d4fd16d5f3b23d1bc7905'}}",Elegant Homes Magazine,,511111105329
+{'$oid': '5f493e72be37ce64d0ae36c6'},511111316114,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f493e72be37ce64d0ae36c2'}}",test brand @1598635634882,,TEST BRANDCODE @1598635634882
+{'$oid': '5f4936ddbe37ce52f8314fd9'},511111315957,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f4936dcbe37ce52f8314fd8'}}",test brand @1598633693011,,
+{'$oid': '57ebc2e7e4b0ac389136a34b'},511111201915,Grocery,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Taco Bell,False,TACO BELL
+{'$oid': '5fd2a0aebe37ce49eb72c0ee'},511111518112,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fd2a0aebe37ce49eb72c0ed'}}",test brand @1607639214411,False,
+{'$oid': '5dc03596a60b873d6b0666cd'},511111506249,Breakfast & Cereal,,"{'$ref': 'Cogs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",Frosted Cheerios™,,FROSTED CHEERIOS
+{'$oid': '5f494c5f04db711dd8fe87e6'},511111916161,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f494c5d04db711dd8fe87e2'}}",test brand @1598639199674,,TEST BRANDCODE @1598639199674
+{'$oid': '5332f772e4b03c9a25efd125'},511111103653,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5f3e4b03c9a25efd0ae'}}",Gold Medal,,
+{'$oid': '59dfaad1e4b0a56a2fa69abc'},511111100621,Baking,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",GODIVA Instant Pudding Mix,False,GODIVA DRY PACKAGED DESSERTS
+{'$oid': '5daf33e71dda2c3e1416ae93'},511111305910,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f3e4b03c9a25efd0ae'}}",LÄRABAR™,,LARABAR
+{'$oid': '5f35a0babe37ce6853cff1ff'},511111115366,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f35a0babe37ce6853cff1fd'}}",test brand @1597350074333,,TEST BRANDCODE @1597350074333
+{'$oid': '5fd29590be37ce38bbbefb28'},511111718079,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fd29590be37ce38bbbefb25'}}",test brand @1607636368717,False,TEST BRANDCODE @1607636368717
+{'$oid': '5fd3acb6be37ce0d9386bb40'},511111818182,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fd3acb5be37ce0d9386bb3e'}}",test brand @1607707830095,False,TEST BRANDCODE @1607707830095
+{'$oid': '5bd200a6965c7d66d92731ea'},511111504627,Household,,"{'$ref': 'Cogs', '$id': {'$oid': '550b2565e4b001d5e9e4146f'}}",Cottonelle,False,COTTONELLE
+{'$oid': '585a9675e4b03e62d1ce0e7f'},511111301691,Beverages,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",Izze,False,IZZE
+{'$oid': '5887a17ee4b02187f85cdad3'},511111101178,Beverages,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Mio,False,MIO
+{'$oid': '5332f765e4b03c9a25efd11f'},511111503699,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5ebe4b03c9a25efd0a8'}}",Glaceau vitaminwater,,
+{'$oid': '5d66d94d6d5f3b6188d4f04b'},511111505365,Magazines,,"{'$ref': 'Cogs', '$id': {'$oid': '5d5d4fd16d5f3b23d1bc7905'}}",Magnolia Journal Magazine,,511111505365
+{'$oid': '5d66d2fd6d5f3b6188d4f045'},511111405252,Magazines,,"{'$ref': 'Cogs', '$id': {'$oid': '5d5d4fd16d5f3b23d1bc7905'}}",American Patchwork & Quilting Magazine,,QUILTING SPECIAL EDITION
+{'$oid': '5332f5f3e4b03c9a25efd0ad'},511111104025,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5f3e4b03c9a25efd0ae'}}",Gree Giant,,
+{'$oid': '5fa1c567be37ce402c4618f1'},511111317203,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fa1c567be37ce402c4618ef'}}",test brand @1604437351617,False,TEST BRANDCODE @1604437351617
+{'$oid': '5a5d1e76e4b0db471c2d0425'},511111900337,Beer Wine Spirits,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f709e4b03c9a25efd0f1'}}",Herman Joseph's,,HERMAN
+{'$oid': '55b630d9e4b0d8e685c1421f'},511111302629,,,"{'$ref': 'Cogs', '$id': {'$oid': '55b62995e4b0d8e685c14213'}}",Sundrop,,
+{'$oid': '5d602d9d6d5f3b23d1bc7907'},511111704935,Beverages,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",Kevita Sparkling Drinks,,KEVITA
+{'$oid': '57ebbf75e4b0ac389136a32f'},511111902188,Frozen,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Delimex,False,DELIMEX
+{'$oid': '5d2f68d96d5f3b107e208da4'},511111004844,Personal Care,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f6e4b03c9a25efd0b4'}}",THE RIGHT TO SHOWER,,THE RIGHT TO SHOWER
+{'$oid': '592486bde410d61fcea3d124'},511111100904,Personal Care,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f6e4b03c9a25efd0b4'}}",CARESS,False,CARESS
+{'$oid': '5f16f536be37ce2b30061e27'},511111115083,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f16f535be37ce2b30061e24'}}",test brand @1595340086044,,TEST BRANDCODE @1595340086044
+{'$oid': '5332f6ede4b03c9a25efd0e5'},511111603870,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f6ede4b03c9a25efd0e6'}}",Blue Bunny,,
+{'$oid': '5332fa05e4b03c9a25efd1d6'},511111103141,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5f2e4b03c9a25efd0aa'}}",Krave,,
+{'$oid': '5f3d6f44be37ce4ddbb1bb3e'},511111315513,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f3d6f44be37ce4ddbb1bb3a'}}",test brand @1597861700968,,TEST BRANDCODE @1597861700968
+{'$oid': '5c76d3cd95144c5375687b4f'},511111106876,Grocery,,"{'$ref': 'Cogs', '$id': {'$oid': '5c76d20595144c5375687b4e'}}",DASH-2249 Brand1,True,TEST BRAND CODE
+{'$oid': '5f3ff223be37ce1c81aa1e11'},511111115649,Candy & Sweets,CANDY_AND_SWEETS,"{'$ref': 'Cogs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",test brand @1598026275245,,TEST BRANDCODE @1598026275245
+{'$oid': '5a8c36dbe4b0ccf165fac9e9'},511111204206,Canned Goods & Soups,,"{'$ref': 'Cogs', '$id': {'$oid': '5a734034e4b0d58f376be874'}}",Swanson,False,SWANSON
+{'$oid': '55b630e1e4b0d8e685c14220'},511111102618,,,"{'$ref': 'Cogs', '$id': {'$oid': '55b62995e4b0d8e685c14213'}}",A&W Rootbeer,,
+{'$oid': '5f3ff222be37ce1c81aa1e0f'},511111415626,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f3ff222be37ce1c81aa1e0c'}}",test brand @1598026274668,,TEST BRANDCODE @1598026274668
+{'$oid': '5c76db7295144c5375687b50'},511111306887,Frozen,,"{'$ref': 'Cogs', '$id': {'$oid': '5c76d20595144c5375687b4e'}}",DASH-2249 Brand2,False,DASH-2249 1
+{'$oid': '5da609991dda2c3e1416ae90'},511111805854,Health & Wellness,,"{'$ref': 'Cogs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",ONE A DAY® WOMENS,False,511111805854
+{'$oid': '5afda575e4b0c11cfecd49f9'},511111104537,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '5a734034e4b0d58f376be874'}}",Kettle Brand,False,KETTLE BRAND
+{'$oid': '5ab154dde4b0915382df761f'},511111404392,Canned Goods & Soups,,"{'$ref': 'Cogs', '$id': {'$oid': '5a734034e4b0d58f376be874'}}",Campbell's Soup at Hand,False,CAMPBELLS SOUP AT HAND 
+{'$oid': '5f3e9195be37ce5a0e01b960'},511111615583,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f3e9195be37ce5a0e01b95f'}}",test brand @1597936021514,,
+{'$oid': '5fb82faebe37ce522e165ce9'},511111117841,Grocery,GROCERY,"{'$ref': 'Cogs', '$id': {'$oid': '5fb6b608be37ce522e165cb9'}}",Rainbo,False,RAINBO
+{'$oid': '57e58157e4b0ac389136a30a'},511111602279,Beer Wine Spirits,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f709e4b03c9a25efd0f1'}}",Crispin Cider Company,False,CRISPIN
+{'$oid': '5fd3acb6be37ce0d9386bb41'},511111318194,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fd3acb5be37ce0d9386bb3e'}}",test brand @1607707830137,False,TEST BRANDCODE @1607707830137
+{'$oid': '5e90a545ee7f2d70340f40d7'},511111114413,Health & Wellness,HEALTHY_AND_WELLNESS,"{'$ref': 'Cogs', '$id': {'$oid': '5d9b4f591dda2c6225a284aa'}}",Claritin®,False,CLARITIN®
+{'$oid': '5daf5e94a60b87376833e362'},511111706045,Breakfast & Cereal,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f3e4b03c9a25efd0ae'}}",Cookie Crisp™,,COOKIE CRISP
+{'$oid': '5fb2852cbe37ce522e165caf'},511111717317,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fb2852cbe37ce522e165cae'}}",test brand @1605535020441,False,TEST BRANDCODE @1605535020442
+{'$oid': '5332f743e4b03c9a25efd109'},511111903789,Snacks,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5f2e4b03c9a25efd0aa'}}",Keebler,,
+{'$oid': '5fa98944be37ce239d107100'},511111417262,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fa98944be37ce239d1070ff'}}",test brand @1604946244750,False,TEST BRANDCODE @1604946244750
+{'$oid': '5afda65de4b0c11cfecd49fb'},511111004561,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '5a734034e4b0d58f376be874'}}",SNYDERS OF HANOVER,False,SNYDERS OF HANOVER
+{'$oid': '5332fa7ee4b03c9a25efd230'},511111702894,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5ebe4b03c9a25efd0a8'}}",Powerade,,
+{'$oid': '57ebbfafe4b0ac389136a332'},511111002154,Condiments & Sauces,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Good Seasons,False,GOOD SEASONS
+{'$oid': '5f493682be37ce52f8314fce'},511111115922,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f493682be37ce52f8314fcb'}}",test brand @1598633602279,,TEST BRANDCODE @1598633602279
+{'$oid': '57ace91ae4b057c992a316ac'},511111602552,,,"{'$ref': 'Cpgs', '$id': {'$oid': '57ace90fe4b057c992a316ab'}}",Pizza Pizza Pizza,,
+{'$oid': '5a5d2431e4b06ba572cf24a1'},511111200246,Beer Wine Spirits,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f709e4b03c9a25efd0f1'}}",Revolver,,REVOLVER
+{'$oid': '57e5810ce4b0ac389136a307'},511111802280,Beer Wine Spirits,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f709e4b03c9a25efd0f1'}}",Keystone Light,False,KEYSTONE LIGHT
+{'$oid': '5332f5f2e4b03c9a25efd0ab'},511111604037,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5f3e4b03c9a25efd0ac'}}",Our Family,,
+{'$oid': '5db9f9cca60b87376833e36b'},511111806226,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f3e4b03c9a25efd0ae'}}",Fruit Roll-Ups™,,BETTY CROCKER FRUIT ROLL UPS
+{'$oid': '5fd2a0c0be37ce49eb72c0f4'},511111118169,Candy & Sweets,CANDY_AND_SWEETS,"{'$ref': 'Cogs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",test brand @1607639232356,False,TEST BRANDCODE @1607639232356
+{'$oid': '5aa1b41de4b086c8aad5e096'},511111304265,Condiments & Sauces,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",MOMOFUKU Sauce,False,MOMOFUKU
+{'$oid': '592486bee410d61fcea3d136'},511111500735,Frozen,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f6e4b03c9a25efd0b4'}}",POPSICLE,False,POPSICLE
+{'$oid': '5332f603e4b03c9a25efd0be'},511111103936,Beverages,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",Mug Root Beer,False,MUG Root Beer
+{'$oid': '5afda699e4b0c11cfecd49fd'},511111704584,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '5a734034e4b0d58f376be874'}}",Tom's,False,TOMS
+{'$oid': '5fc54c0bbe37ce1911dbb3b5'},511111017899,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fc54c0abe37ce1911dbb3b1'}}",test brand @1606765579244,False,TEST BRANDCODE @1606765579244
+{'$oid': '5f358338be37ce443bf9d55b'},511111715320,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f358338be37ce443bf9d557'}}",test brand @1597342520305,,TEST BRANDCODE @1597342520305
+{'$oid': '592486bfe410d61fcea3d137'},511111000723,Dairy,,"{'$ref': 'Cogs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",PROMISE,,PROMISE
+{'$oid': '5a4d2295e4b0d5c3fd86b679'},511111200529,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",OFF THE EATEN PATH,,OFF THE EATEN PATH
+{'$oid': '5f628216be37ce78e6e2efaf'},511111116684,Candy & Sweets,CANDY_AND_SWEETS,"{'$ref': 'Cogs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",test brand @1600291350125,,TEST BRANDCODE @1600291350125
+{'$oid': '5332f9fce4b03c9a25efd1cd'},511111003199,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5f2e4b03c9a25efd0aa'}}",Honey Smacks,,
+{'$oid': '5f9770bfbe37ce03d08a2d85'},511111117070,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f9770bfbe37ce03d08a2d83'}}",test brand @1603760319758,,TEST BRANDCODE @1603760319758
+{'$oid': '57ebc293e4b0ac389136a345'},511111301974,Frozen,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Nancy's,False,NANCY'S
+{'$oid': '5f513e9ebe37ce21f1287c00'},511111816492,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f513e9ebe37ce21f1287bff'}}",test brand @1599159966676,,
+{'$oid': '5332f7b8e4b03c9a25efd145'},511111903413,,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f7a7e4b03c9a25efd134'}}",Stella Artois,,
+{'$oid': '5ab153fee4b0915382df761e'},511111704379,Canned Goods & Soups,,"{'$ref': 'Cogs', '$id': {'$oid': '5a734034e4b0d58f376be874'}}",Campbell's Chunky Maxx,False,CAMPBELLS CHUNKY MAXX
+{'$oid': '5aa1b5b9e4b05a92fc9b1631'},511111004288,Condiments & Sauces,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",FOOD NETWORK KITCHEN INSPIRATIONS,False,FOOD NETWORK KITCHEN INSPIRATIONS
+{'$oid': '5f3e9172be37ce5a0e01b954'},511111215547,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f3e9172be37ce5a0e01b952'}}",test brand @1597935986390,,TEST BRANDCODE @1597935986390
+{'$oid': '5f4936ddbe37ce52f8314fdc'},511111015970,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f4936ddbe37ce52f8314fda'}}",test brand @1598633693744,,TEST BRANDCODE @1598633693744
+{'$oid': '57c0829ce4b0718ff5fcb03a'},511111002437,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f7a7e4b03c9a25efd134'}}",Victoria,,
+{'$oid': '5a4d244ae4b0bcb2c74ea77f'},511111500506,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",SABRITAS,,SABRITAS
+{'$oid': '57ebbfa1e4b0ac389136a330'},511111702177,Beverages,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Gevalia,False,GEVALIA KAFFE
+{'$oid': '5f43faabbe37ce3ef3fd3715'},511111115717,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f43faabbe37ce3ef3fd3714'}}",test brand @1598290603501,,TEST BRANDCODE @1598290603501
+{'$oid': '59d550f4e4b090070b009534'},511111600633,Dairy,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}","O, That's Good!",False,O THAT'S GOOD
+{'$oid': '585a9645e4b03e62d1ce0e79'},511111801757,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",Chester's,True,CHESTER'S
+{'$oid': '585a968ee4b03e62d1ce0e82'},511111101666,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",Miss Vickies,,MISS VICKIE'S
+{'$oid': '5d2f6b82a3a01810a2174aed'},511111704867,Condiments & Sauces,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f6e4b03c9a25efd0b4'}}",SIR KENSINGTON'S,,SIR KENSINGTON'S
+{'$oid': '5fa98944be37ce239d1070fe'},511111217251,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fa98944be37ce239d1070fd'}}",test brand @1604946244133,False,
+{'$oid': '5332f9f2e4b03c9a25efd1c8'},511111803232,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5f2e4b03c9a25efd0aa'}}",Crispix,,
+{'$oid': '55a41b55e4b0d0a65b3692ef'},511111502708,,,"{'$ref': 'Cpgs', '$id': {'$oid': '55a41b4be4b0d0a65b3692ee'}}",NessAlla,,
+{'$oid': '5887a372e4b02187f85cdad9'},511111001119,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",Doritos,True,DORITOS
+{'$oid': '57ed0697e4b072ac2294b8f2'},511111101895,Condiments & Sauces,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",A.1.,True,A.1.
+{'$oid': '55b630c2e4b0d8e685c1421d'},511111002642,,,"{'$ref': 'Cpgs', '$id': {'$oid': '55b62995e4b0d8e685c14213'}}",RC Cola,,
+{'$oid': '5332f605e4b03c9a25efd0c0'},511111403913,,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",Amp,,
+{'$oid': '5f43faabbe37ce3ef3fd3716'},511111315728,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f43faabbe37ce3ef3fd3714'}}",test brand @1598290603587,,TEST BRANDCODE @1598290603587
+{'$oid': '5d66de49a3a018093ab3472a'},511111505433,Beverages,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",Looza Fruit Juices,,LOOZA JUICES
+{'$oid': '5da605dc1dda2c3e1416ae83'},511111005582,Health & Wellness,,"{'$ref': 'Cogs', '$id': {'$oid': '5d9b4f591dda2c6225a284aa'}}",Aleve®,,ALEVE
+{'$oid': '5e3876bfee7f2d697e835bd3'},511111613961,Beauty,,"{'$ref': 'Cogs', '$id': {'$oid': '5e28b81cee7f2d697e835bcd'}}",Soft-Sheen Carson - Hair Color,,SOFT-SHEEN CARSON - HAIR COLOR
+{'$oid': '5fa98945be37ce239d107104'},511111217305,Candy & Sweets,CANDY_AND_SWEETS,"{'$ref': 'Cogs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",test brand @1604946245498,False,TEST BRANDCODE @1604946245499
+{'$oid': '57ebc11fe4b0ac389136a33a'},511111802075,Baking,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Kraft Caramels,False,
+{'$oid': '5f494c5f04db711dd8fe87e5'},511111716150,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f494c5d04db711dd8fe87e2'}}",test brand @1598639199117,,TEST BRANDCODE @1598639199117
+{'$oid': '5bd201a990fa074576779a19'},511111104698,Baby,,"{'$ref': 'Cogs', '$id': {'$oid': '550b2565e4b001d5e9e4146f'}}",Pull-Ups,False,PULL UPS
+{'$oid': '5fb2852cbe37ce522e165cb1'},511111417330,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fb2852cbe37ce522e165cae'}}",test brand @1605535020629,False,TEST BRANDCODE @1605535020629
+{'$oid': '5332f60ce4b03c9a25efd0c3'},511111303893,Beverages,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",Brisk Iced Tea,False,BRISK
+{'$oid': '5a7e0604e4b0aedb3b84afd3'},511111504139,Beverages,,"{'$ref': 'Cogs', '$id': {'$oid': '55b62995e4b0d8e685c14213'}}",Chris Brand XYZ,,CHRISXYZ
+{'$oid': '5332f9f2e4b03c9a25efd1c7'},511111003243,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5f2e4b03c9a25efd0aa'}}",All-Bran,,
+{'$oid': '57ebbd44e4b0ac389136a32d'},511111002208,Condiments & Sauces,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Bull's Eye,False,BULL'S-EYE
+{'$oid': '592486bee410d61fcea3d12f'},511111600794,Frozen,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f6e4b03c9a25efd0b4'}}",KLONDIKE,False,KLONDIKE
+{'$oid': '592486bee410d61fcea3d12a'},511111600848,Frozen,,"{'$ref': 'Cogs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",FRUTTARE,,FRUTTARE
+{'$oid': '5da60576a60b87376833e349'},511111305569,Health & Wellness,,"{'$ref': 'Cogs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",AFRIN® NO DRIP PUMP MISTS,,511111305569
+{'$oid': '5332f5f5e4b03c9a25efd0b0'},511111404002,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5f3e4b03c9a25efd0ae'}}",Betty Crocker,,
+{'$oid': '580dff9fe4b0f32b2de21382'},511111701859,Baking,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Knox Gelatin,False,KNOX
+{'$oid': '5da608131dda2c3e1416ae8a'},511111505716,Health & Wellness,,"{'$ref': 'Cogs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",Claritin® ADULTS,,511111505716
+{'$oid': '588b9f8fe4b02187f85cdada'},511111501107,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Planters,False,PLANTERS
+{'$oid': '592486bde410d61fcea3d127'},511111800873,Personal Care,PERSONAL_CARE,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f6e4b03c9a25efd0b4'}}",DEGREE,False,DEGREE
+{'$oid': '5a4d23dae4b0bcb2c74ea77e'},511111000518,Beverages,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",Caleb's Kola,False,CALEB'S KOLA
+{'$oid': '5d66dc946d5f3b6188d4f04e'},511111305408,Beverages,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",Lemon Lemon Sparkling Drinks,,LEMON LEMON
+{'$oid': '592486bfe410d61fcea3d140'},511111300656,Personal Care,PERSONAL_CARE,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f6e4b03c9a25efd0b4'}}",VASELINE,False,VASELINE
+{'$oid': '5d658ff3a3a018514994f432'},511111005216,Magazines,,"{'$ref': 'Cogs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",Cooking Light Magazine,,511111005216
+{'$oid': '5fcda494be37ce688e08b0cc'},511111817932,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fcda494be37ce688e08b0cb'}}",test brand @1607312532178,False,TEST BRANDCODE @1607312532178
+{'$oid': '5ef4f667be37ce2efae842ea'},511111715047,Cleaning & Home Improvement,CLEANING_AND_HOME_IMPROVEMENT,"{'$ref': 'Cogs', '$id': {'$oid': '5eebc5412455c97a877ef382'}}",Pinesol,,PINESOL
+{'$oid': '55b6308ee4b0d8e685c1421a'},511111202677,,,"{'$ref': 'Cogs', '$id': {'$oid': '55b62995e4b0d8e685c14213'}}",Snapple,,
+{'$oid': '5332f760e4b03c9a25efd11b'},511111603719,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5ebe4b03c9a25efd0a8'}}",Honest Ade,,
+{'$oid': '5f16f536be37ce2b30061e29'},511111215103,Candy & Sweets,CANDY_AND_SWEETS,"{'$ref': 'Cogs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",test brand @1595340086791,,TEST BRANDCODE @1595340086791
+{'$oid': '5d642dbfa3a018514994f42e'},511111005148,Magazines,,"{'$ref': 'Cogs', '$id': {'$oid': '5d5d4fd16d5f3b23d1bc7905'}}",Shape,,511111005148
+{'$oid': '5e3875d2ee7f2d697e835bce'},511111013914,Beauty,,"{'$ref': 'Cogs', '$id': {'$oid': '5e28b81cee7f2d697e835bcd'}}",Essie,,ESSIE
+{'$oid': '5332f9f3e4b03c9a25efd1c9'},511111303220,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5f2e4b03c9a25efd0aa'}}",Pop-tarts,,
+{'$oid': '5c45f91b87ff3552f950f027'},511111204923,Grocery,,"{'$ref': 'Cogs', '$id': {'$oid': '5c45f8b087ff3552f950f026'}}",Brand1,True,0987654321
+{'$oid': '58861c7d4e8d0d20bc42c4d6'},511111601449,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Jell-O Refrigerated Pudding & Gelatin,False,
+{'$oid': '55b630fde4b0d8e685c14223'},511111502586,,,"{'$ref': 'Cogs', '$id': {'$oid': '55b62995e4b0d8e685c14213'}}",Diet Dr. Pepper,,
+{'$oid': '5ab158e8e4b0915382df7622'},511111404446,Canned Goods & Soups,,"{'$ref': 'Cogs', '$id': {'$oid': '5a734034e4b0d58f376be874'}}",Campbell's Well Yes!,False,CAMPBELLS WELL YES
+{'$oid': '5fcda494be37ce688e08b0cf'},511111717966,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fcda494be37ce688e08b0cb'}}",test brand @1607312532304,False,TEST BRANDCODE @1607312532304
+{'$oid': '5f3ff222be37ce1c81aa1e0e'},511111215615,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f3ff222be37ce1c81aa1e0c'}}",test brand @1598026274643,,TEST BRANDCODE @1598026274643
+{'$oid': '5f772952be37ce6b592e90d2'},511111816775,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f772951be37ce6b592e90d1'}}",test brand @1601644881995,,TEST BRANDCODE @1601644881995
+{'$oid': '5fa1c568be37ce402c4618f6'},511111717249,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fa1c568be37ce402c4618f5'}}",test brand @1604437352935,False,
+{'$oid': '5fb82236be37ce522e165cdf'},511111217749,,,"{'$ref': 'Cogs', '$id': {'$oid': '5fb6b608be37ce522e165cb9'}}",Beef Steak,False,BEEF STEAK
+{'$oid': '5a02188be4b00d6a5ccb394d'},511111300588,Beauty,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f6e4b03c9a25efd0b4'}}",POND'S,False,POND'S
+{'$oid': '5e387617ee7f2d697e835bd0'},511111713937,Beauty,,"{'$ref': 'Cogs', '$id': {'$oid': '5e28b81cee7f2d697e835bcd'}}",L’Oreal Paris - Cosmetics,,L’OREAL PARIS - COSMETICS
+{'$oid': '57ebc2ace4b0ac389136a346'},511111801962,Deli,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",P3,False,
+{'$oid': '5da6094ca60b87376833e357'},511111605829,Health & Wellness,,"{'$ref': 'Cogs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",ONE A DAY® MENS,,511111605829
+{'$oid': '5f16f536be37ce2b30061e28'},511111615095,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f16f535be37ce2b30061e24'}}",test brand @1595340086078,,TEST BRANDCODE @1595340086078
+{'$oid': '5f872b84be37ce66db5dd97a'},511111917045,Candy & Sweets,CANDY_AND_SWEETS,"{'$ref': 'Cogs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",test brand @1602694020787,,TEST BRANDCODE @1602694020787
+{'$oid': '585a9726e4b03e62d1ce0e95'},511111501497,Beverages,,"{'$ref': 'Cogs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",Tazo,,
+{'$oid': '5f7ba645be37ce23081c528d'},511111516910,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f7ba644be37ce23081c5289'}}",test brand @1601939013649,,TEST BRANDCODE @1601939013649
+{'$oid': '5332f7d3e4b03c9a25efd14e'},511111803393,Snacks,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5f2e4b03c9a25efd0aa'}}",Cheez-It,,
+{'$oid': '5f504acabe37ce0b793c9418'},511111316480,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f504acabe37ce0b793c9417'}}",test brand @1599097546963,,
+{'$oid': '5afda3a8e4b03bf01c2a2967'},511111604525,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '5a734034e4b0d58f376be874'}}",Snack Factory,False,SNACK FACTORY
+{'$oid': '57c08294e4b0718ff5fcb039'},511111202448,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f7a7e4b03c9a25efd134'}}",Jupiler,,
+{'$oid': '5332f77ce4b03c9a25efd12a'},511111703617,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5f3e4b03c9a25efd0ae'}}",Gardetto's,,
+{'$oid': '5332f9ede4b03c9a25efd1c2'},511111403289,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f7ffe4b03c9a25efd16b'}}",Danimals,,
+{'$oid': '58861c7e4e8d0d20bc42c4e2'},511111201403,Beer Wine Spirits,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f709e4b03c9a25efd0f1'}}",Miller 64,False,MILLER64
+{'$oid': '592486bee410d61fcea3d12d'},511111700814,Dairy,,"{'$ref': 'Cogs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",I CAN'T BELIEVE IT'S NOT BUTTER!,,I CAN'T BELIEVE IT'S NOT BUTTER!
+{'$oid': '5da608dfa60b87376833e354'},511111805786,Health & Wellness,,"{'$ref': 'Cogs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",ONE A DAY® ENERGY ,,511111805786
+{'$oid': '5ffe3a87be37ce7aab2d4fd9'},511111419532,Candy & Sweets,CANDY_AND_SWEETS,"{'$ref': 'Cogs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",test brand @1610496647142,False,TEST BRANDCODE @1610496647142
+{'$oid': '5ffe3a87be37ce7aab2d4fdb'},511111619543,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ffe3a87be37ce7aab2d4fda'}}",test brand @1610496647311,False,
+{'$oid': '5ffe3a86be37ce7aab2d4fd7'},511111719519,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ffe3a85be37ce7aab2d4fd4'}}",test brand @1610496646289,False,TEST BRANDCODE @1610496646289
+{'$oid': '5fff3a7abe37ce2bb793010e'},511111119555,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fff3a7abe37ce2bb793010d'}}",test brand @1610562170795,False,
+{'$oid': '5ffe3a86be37ce7aab2d4fd8'},511111919520,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ffe3a85be37ce7aab2d4fd4'}}",test brand @1610496646345,False,TEST BRANDCODE @1610496646345
+{'$oid': '5ffe3a86be37ce7aab2d4fd6'},511111219507,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ffe3a85be37ce7aab2d4fd4'}}",test brand @1610496646232,False,TEST BRANDCODE @1610496646232
+{'$oid': '5ffe35eabe37ce5e01754c47'},511111219385,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ffe35eabe37ce5e01754c45'}}",test brand @1610495466218,False,TEST BRANDCODE @1610495466218
+{'$oid': '5ffe347ebe37ce5e01754c3f'},511111119326,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ffe347ebe37ce5e01754c3d'}}",test brand @1610495102462,False,TEST BRANDCODE @1610495102462
+{'$oid': '5ffe35eabe37ce5e01754c48'},511111719397,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ffe35eabe37ce5e01754c45'}}",test brand @1610495466250,False,TEST BRANDCODE @1610495466250
+{'$oid': '57ebc28be4b0ac389136a344'},511111501985,Condiments & Sauces,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Miracle Whip,False,KRAFT MIRACLE WHIP
+{'$oid': '58b59989e4b0857c2ddb7255'},511111400998,Beer Wine Spirits,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f709e4b03c9a25efd0f1'}}",Redd's Wicked,False,
+{'$oid': '5f403232be37ce5f78d9ed19'},511111015697,Candy & Sweets,CANDY_AND_SWEETS,"{'$ref': 'Cogs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",test brand @1598042674173,,TEST BRANDCODE @1598042674173
+{'$oid': '5f493e72be37ce64d0ae36c4'},511111216094,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f493e72be37ce64d0ae36c2'}}",test brand @1598635634796,,TEST BRANDCODE @1598635634796
+{'$oid': '5a5d257fe4b06ba572cf24a3'},511111300212,Beer Wine Spirits,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f709e4b03c9a25efd0f1'}}",Sheaf Stout,,SHEAF STOUT
+{'$oid': '585a963ce4b03e62d1ce0e78'},511111001768,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",Cheetos,True,CHEETOS
+{'$oid': '5fb82a68be37ce522e165ce6'},511111217817,Grocery,GROCERY,"{'$ref': 'Cogs', '$id': {'$oid': '5fb6b608be37ce522e165cb9'}}",Nature's Harvest,False,NATURES HARVEST
+{'$oid': '5d6415d5a3a018514994f429'},511111605058,Magazines,,"{'$ref': 'Cogs', '$id': {'$oid': '5d5d4fd16d5f3b23d1bc7905'}}",Health Magazine,,511111605058
+{'$oid': '5332fa7ae4b03c9a25efd229'},511111402961,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5ebe4b03c9a25efd0a8'}}",Fanta,,
+{'$oid': '5f494c5e04db711dd8fe87e4'},511111216148,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f494c5d04db711dd8fe87e2'}}",test brand @1598639198570,,TEST BRANDCODE @1598639198570
+{'$oid': '5f772951be37ce6b592e90d0'},511111316763,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f772951be37ce6b592e90cf'}}",test brand @1601644881253,,
+{'$oid': '5f504ac2be37ce0b793c9415'},511111616467,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f504ac2be37ce0b793c9411'}}",test brand @1599097538609,,TEST BRANDCODE @1599097538609
+{'$oid': '5bd201cc965c7d66d92731ee'},511111704706,Household,,"{'$ref': 'Cogs', '$id': {'$oid': '550b2565e4b001d5e9e4146f'}}",Scott,False,SCOTT
+{'$oid': '5fd2a0bfbe37ce49eb72c0f1'},511111218135,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fd2a0bfbe37ce49eb72c0ef'}}",test brand @1607639231674,False,TEST BRANDCODE @1607639231674
+{'$oid': '5daf3507a60b87376833e35c'},511111505921,Health & Wellness,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f3e4b03c9a25efd0ae'}}",EPIC™,,EPIC
+{'$oid': '58861c7e4e8d0d20bc42c4de'},511111901426,Beer Wine Spirits,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f709e4b03c9a25efd0f1'}}",Grolsch Lager,False,GROLSCH
+{'$oid': '5f9770c0be37ce03d08a2d88'},511111417101,Candy & Sweets,CANDY_AND_SWEETS,"{'$ref': 'Cogs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",test brand @1603760320407,,TEST BRANDCODE @1603760320407
+{'$oid': '5a5e32c3e4b06ba572cf24aa'},511111400042,Beer Wine Spirits,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f709e4b03c9a25efd0f1'}}",Magnum,,MAGNUM
+{'$oid': '5f99f71bbe37ce13da9eade9'},511111817147,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f99f71bbe37ce13da9eade6'}}",test brand @1603925787411,,TEST BRANDCODE @1603925787411
+{'$oid': '5ffe35eabe37ce5e01754c4a'},511111819417,Candy & Sweets,CANDY_AND_SWEETS,"{'$ref': 'Cogs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",test brand @1610495466861,False,TEST BRANDCODE @1610495466861
+{'$oid': '5ffe3682be37ce5e01754c55'},511111519430,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ffe3681be37ce5e01754c54'}}",test brand @1610495618015,False,
+{'$oid': '5ffe347ebe37ce5e01754c41'},511111819349,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ffe347ebe37ce5e01754c3d'}}",test brand @1610495102526,False,TEST BRANDCODE @1610495102526
+{'$oid': '5ffe347ebe37ce5e01754c40'},511111619338,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ffe347ebe37ce5e01754c3d'}}",test brand @1610495102491,False,TEST BRANDCODE @1610495102491
+{'$oid': '5ffe3480be37ce5e01754c44'},511111519362,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ffe3480be37ce5e01754c43'}}",test brand @1610495104441,False,
+{'$oid': '5ffe35eabe37ce5e01754c46'},511111019374,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ffe35eabe37ce5e01754c45'}}",test brand @1610495466174,False,TEST BRANDCODE @1610495466175
+{'$oid': '5ffe35f9be37ce5e01754c4c'},511111019428,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ffe35f9be37ce5e01754c4b'}}",test brand @1610495481412,False,
+{'$oid': '5ffe347fbe37ce5e01754c42'},511111319351,Candy & Sweets,CANDY_AND_SWEETS,"{'$ref': 'Cogs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",test brand @1610495103255,False,TEST BRANDCODE @1610495103255
+{'$oid': '5ffe35eabe37ce5e01754c49'},511111319405,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ffe35eabe37ce5e01754c45'}}",test brand @1610495466285,False,TEST BRANDCODE @1610495466285
+{'$oid': '5ff768e3be37ce1e961f32a0'},511111118886,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ff768e3be37ce1e961f329f'}}",test brand @1610049763071,False,
+{'$oid': '5ff768d4be37ce1e961f329b'},511111718840,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ff768d4be37ce1e961f3299'}}",test brand @1610049748118,False,TEST BRANDCODE @1610049748118
+{'$oid': '5ff768d4be37ce1e961f329d'},511111418863,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ff768d4be37ce1e961f3299'}}",test brand @1610049748181,False,TEST BRANDCODE @1610049748181
+{'$oid': '5ff768d4be37ce1e961f329c'},511111218852,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ff768d4be37ce1e961f3299'}}",test brand @1610049748154,False,TEST BRANDCODE @1610049748154
+{'$oid': '5ff768d4be37ce1e961f329e'},511111918875,Candy & Sweets,CANDY_AND_SWEETS,"{'$ref': 'Cogs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",test brand @1610049748724,False,TEST BRANDCODE @1610049748724
+{'$oid': '5ff77857be37ce58ce50083a'},511111618898,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ff77857be37ce58ce500839'}}",test brand @1610053719706,False,TEST BRANDCODE @1610053719707
+{'$oid': '5fd7f2b3be37ce733975586c'},511111518327,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fd7f2b3be37ce7339755868'}}",test brand @1607987891932,False,TEST BRANDCODE @1607987891932
+{'$oid': '5fd7f2b3be37ce733975586b'},511111318316,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fd7f2b3be37ce7339755868'}}",test brand @1607987891893,False,TEST BRANDCODE @1607987891893
+{'$oid': '5fd7f2b3be37ce733975586a'},511111818304,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fd7f2b3be37ce7339755868'}}",test brand @1607987891852,False,TEST BRANDCODE @1607987891852
+{'$oid': '5fd7f2b8be37ce733975586f'},511111218340,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fd7f2b8be37ce733975586e'}}",test brand @1607987896065,False,
+{'$oid': '5fd7f2b4be37ce733975586d'},511111018339,Candy & Sweets,CANDY_AND_SWEETS,"{'$ref': 'Cogs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",test brand @1607987892540,False,TEST BRANDCODE @1607987892541
+{'$oid': '5fd3acb6be37ce0d9386bb3f'},511111618171,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fd3acb5be37ce0d9386bb3e'}}",test brand @1607707829961,False,TEST BRANDCODE @1607707829962
+{'$oid': '5332fa7be4b03c9a25efd22b'},511111702948,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5ebe4b03c9a25efd0a8'}}",Diet Cherry Coke,,
+{'$oid': '58861c7e4e8d0d20bc42c4e0'},511111701415,Beer Wine Spirits,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f709e4b03c9a25efd0f1'}}",Killians,False,KILLIAN'S
+{'$oid': '5332f775e4b03c9a25efd127'},511111403630,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5f3e4b03c9a25efd0ae'}}",Cheerios,,
+{'$oid': '581ce962e4b058c71f74c443'},511111301813,,,"{'$ref': 'Cpgs', '$id': {'$oid': '581ce8d5e4b058c71f74c442'}}",.,,
+{'$oid': '5332fa08e4b03c9a25efd1d8'},511111903130,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5f2e4b03c9a25efd0aa'}}",Frosted Flakes,,
+{'$oid': '5f3d6f44be37ce4ddbb1bb3b'},511111715481,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f3d6f44be37ce4ddbb1bb3a'}}",test brand @1597861700880,,TEST BRANDCODE @1597861700880
+{'$oid': '5f628235be37ce78e6e2efb1'},511111616696,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f628235be37ce78e6e2efb0'}}",test brand @1600291381675,,
+{'$oid': '58b5988ce4b0857c2ddb7252'},511111301028,Beer Wine Spirits,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f709e4b03c9a25efd0f1'}}",Henry's Hard Sparkling,False,
+{'$oid': '5f3ff200be37ce1c81aa1e0b'},511111115595,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f3ff200be37ce1c81aa1e0a'}}",test brand @1598026240846,,
+{'$oid': '57ebc125e4b0ac389136a33b'},511111302063,Grocery,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Kraft Macaroni & Cheese,False,
+{'$oid': '5332f7c8e4b03c9a25efd148'},511111403401,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5f3e4b03c9a25efd0ae'}}",Cascadian Farm,,
+{'$oid': '57ebc2c8e4b0ac389136a349'},511111901938,Grocery,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Shake N' Bake,False,KRAFT SHAKE 'N BAKE
+{'$oid': '588ba032e4b02187f85cdadc'},511111401087,Condiments & Sauces,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",HP Sauce,False,HP
+{'$oid': '5f493665be37ce52f8314fca'},511111815891,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f493665be37ce52f8314fc9'}}",test brand @1598633573683,,
+{'$oid': '5dc0773ea60b873d6b0666ce'},511111206262,Breakfast & Cereal,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f3e4b03c9a25efd0ae'}}",Drumstick™ Cereal,,DRUMSTICK CEREAL
+{'$oid': '5da60649a60b87376833e34b'},511111105602,Health & Wellness,,"{'$ref': 'Cogs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",ALEVE® D SINUS & COLD,,ALEVE D SINUS & COLD
+{'$oid': '580dff84e4b0f32b2de2137f'},511111601883,Dairy,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Cheez Whiz,False,CHEEZ WHIZ
+{'$oid': '5fcff305be37ce6d53dfc688'},511111818021,Candy & Sweets,CANDY_AND_SWEETS,"{'$ref': 'Cogs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",test brand @1607463685522,False,TEST BRANDCODE @1607463685522
+{'$oid': '5d66961cee7f2d201c7281cc'},511111812449,Magazines,,"{'$ref': 'Cogs', '$id': {'$oid': '5c4f20b01b4181298aacffc1'}}",Test brand1,True,
+{'$oid': '57d957f2e4b0ac389136a2b4'},511111502371,Frozen,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Cool Whip,False,COOL WHIP
+{'$oid': '5daf59751dda2c3e1416ae99'},511111006022,Breakfast & Cereal,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f3e4b03c9a25efd0ae'}}",Trix™,,TRIX
+{'$oid': '5da60859a60b87376833e352'},511111405740,Health & Wellness,,"{'$ref': 'Cogs', '$id': {'$oid': '5d9b4f591dda2c6225a284aa'}}",Flintstones™ Vitamins,False,FLINTSTONES
+{'$oid': '5fb81935be37ce522e165cda'},511111217695,Beer Wine Spirits,BEER_WINE_SPIRITS,"{'$id': {'$oid': '5fb6d381be37ce522e165cbd'}, '$ref': 'Cogs'}",Absolut® Grapefruit,False,ABSOLUT® GRAPEFRUIT
+{'$oid': '5fb6d726be37ce522e165cc0'},511111317432,Beer Wine Spirits,BEER_WINE_SPIRITS,"{'$id': {'$oid': '5fb6d381be37ce522e165cbd'}, '$ref': 'Cogs'}",Altos®,False,ALTOS
+{'$oid': '5fb800f1be37ce522e165ccb'},511111417545,Beer Wine Spirits,BEER_WINE_SPIRITS,"{'$id': {'$oid': '5fb6d381be37ce522e165cbd'}, '$ref': 'Cogs'}",Del Maguey® Vida,False,DEL MAGUEY 
+{'$oid': '5fb80b63be37ce522e165cd1'},511111917601,Beer Wine Spirits,BEER_WINE_SPIRITS,"{'$id': {'$oid': '5fb6d381be37ce522e165cbd'}, '$ref': 'Cogs'}",Jameson® Black Barrel ,False,JAMESON® BLACK BARREL 
+{'$oid': '5fb808a1be37ce522e165ccf'},511111817581,Beer Wine Spirits,BEER_WINE_SPIRITS,"{'$id': {'$oid': '5fb6d381be37ce522e165cbd'}, '$ref': 'Cogs'}",Jameson® ,False,JAMESON
+{'$oid': '5fb7e62dbe37ce522e165cc3'},511111217466,Beer Wine Spirits,BEER_WINE_SPIRITS,"{'$id': {'$oid': '5fb6d381be37ce522e165cbd'}, '$ref': 'Cogs'}",Monkey 47®,False,MONKEY 47
+{'$oid': '5fb80d7cbe37ce522e165cd2'},511111417613,Beer Wine Spirits,BEER_WINE_SPIRITS,"{'$id': {'$oid': '5fb6d381be37ce522e165cbd'}, '$ref': 'Cogs'}",Malibu® Original,False,MALIBU
+{'$oid': '5fb7e962be37ce522e165cc6'},511111417491,Beer Wine Spirits,BEER_WINE_SPIRITS,"{'$id': {'$oid': '5fb6d381be37ce522e165cbd'}, '$ref': 'Cogs'}",Lillet®,False,LILLET
+{'$oid': '5d642de76d5f3b23d1bc7911'},511111705161,Magazines,,"{'$ref': 'Cogs', '$id': {'$oid': '5d5d4fd16d5f3b23d1bc7905'}}",Traditional Home,,511111705161
+{'$oid': '57c0827de4b0718ff5fcb037'},511111902461,Baby,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f7a7e4b03c9a25efd134'}}",Antarctica,True,AMP2
+{'$oid': '5f3d6f44be37ce4ddbb1bb3d'},511111815501,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f3d6f44be37ce4ddbb1bb3a'}}",test brand @1597861700940,,TEST BRANDCODE @1597861700940
+{'$oid': '5fa1c567be37ce402c4618f0'},511111717195,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fa1c567be37ce402c4618ef'}}",test brand @1604437351567,False,TEST BRANDCODE @1604437351567
+{'$oid': '5332fa03e4b03c9a25efd1d5'},511111603153,,,"{'$ref': 'Cpgs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",Fruit Flavored Snacks,,
+{'$oid': '5a8c3577e4b07f0a2dac8945'},511111404163,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '5a734034e4b0d58f376be874'}}",Kelsen,False,KELSEN
+{'$oid': '5da60932a60b87376833e356'},511111405818,Health & Wellness,,"{'$ref': 'Cogs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",ONE A DAY® KIDS AND TEENS,,511111405818
+{'$oid': '5da606581dda2c3e1416ae85'},511111605614,Health & Wellness,,"{'$ref': 'Cogs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",ALEVE® DIRECT THERAPY PAIN RELIEF DEVICES,,ALEVE DIRECT THERAPY PAIN RELIEF DEVICES
+{'$oid': '5a5d1ba9e4b0db471c2d0422'},511111600404,Beer Wine Spirits,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f709e4b03c9a25efd0f1'}}",Colorado Native,,COLORADO NATIVE
+{'$oid': '585a9714e4b03e62d1ce0e92'},511111801528,Beverages,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",SoBe,,SOBE
+{'$oid': '57ebc026e4b0ac389136a338'},511111502098,Dairy,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Knudsen,False,KNUDSEN
+{'$oid': '5da608a8a60b87376833e353'},511111105763,Health & Wellness,,"{'$ref': 'Cogs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",MiraLAX® Laxatives,,511111105763
+{'$oid': '5fcda47cbe37ce688e08b0c3'},511111317920,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fcda47cbe37ce688e08b0c2'}}",test brand @1607312508610,False,
+{'$oid': '5d66dda06d5f3b6188d4f050'},511111005421,Magazines,,"{'$ref': 'Cogs', '$id': {'$oid': '5d5d4fd16d5f3b23d1bc7905'}}",Pillsbury Magazine,,511111005421
+{'$oid': '585a9637e4b03e62d1ce0e77'},511111501770,Breakfast & Cereal,,"{'$ref': 'Cogs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",Cap'n Crunch,True,CAP'N CRUNCH
+{'$oid': '5332fa79e4b03c9a25efd226'},511111602996,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5ebe4b03c9a25efd0a8'}}",Mello Yello,,
+{'$oid': '5fb82359be37ce522e165ce1'},511111917762,Grocery,GROCERY,"{'$ref': 'Cogs', '$id': {'$oid': '5fb6b608be37ce522e165cb9'}}",Mrs Baird's ,False,MRS BAIRD'S
+{'$oid': '592486bfe410d61fcea3d13f'},511111500667,Personal Care,PERSONAL_CARE,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f6e4b03c9a25efd0b4'}}",TRESEMME,False,TRESEMME
+{'$oid': '552ecca1e4b02ff29f99b215'},511111202721,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5459429be4b0bfcb1e864082'}}",Top Care,,
+{'$oid': '5a5e3615e4b06ba572cf24ab'},511111700029,Beverages,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",PURE LEAF Iced Tea Beverages,False,PURE LEAF Iced Tea Beverages
+{'$oid': '5e5ff1f7ee7f2d0b35b2a18e'},511111414049,Health & Wellness,HEALTHY_AND_WELLNESS,"{'$ref': 'Cogs', '$id': {'$oid': '5d9b4f591dda2c6225a284aa'}}",ONE A DAY® KIDS,,ONE A DAY KIDS
+{'$oid': '585a967fe4b03e62d1ce0e80'},511111801689,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",Lay's Kettle Cooked,True,
+{'$oid': '5f513ea1be37ce21f1287c02'},511111416500,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f513ea0be37ce21f1287c01'}}",test brand @1599159968998,,TEST BRANDCODE @1599159968998
+{'$oid': '5d66dd526d5f3b6188d4f04f'},511111805410,Beverages,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",LIFEWTR,False,LIFEWTR
+{'$oid': '5d6412f86d5f3b23d1bc7909'},511111804994,Magazines,,"{'$ref': 'Cogs', '$id': {'$oid': '5d5d4fd16d5f3b23d1bc7905'}}",Eating Well Magazine,,511111804994
+{'$oid': '5332f608e4b03c9a25efd0c1'},511111903901,,,"{'$ref': 'Cpgs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",Sierra Mist,,
+{'$oid': '5c49d161f0276e7719673719'},511111904731,Baby,,"{'$ref': 'Cogs', '$id': {'$oid': '59b96571e4b0bf7c7980588b'}}",SIMILAC,,SIMILAC
+{'$oid': '5da60843a60b87376833e351'},511111205739,Health & Wellness,HEALTHY_AND_WELLNESS,"{'$ref': 'Cogs', '$id': {'$oid': '5d9b4f591dda2c6225a284aa'}}",Coricidin® HBP,False,CORICIDIN HBP
+{'$oid': '5f7ba648be37ce23081c528e'},511111716921,Candy & Sweets,CANDY_AND_SWEETS,"{'$ref': 'Cogs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",test brand @1601939016290,,TEST BRANDCODE @1601939016290
+{'$oid': '5a5d29fde4b0db471c2d0433'},511111400110,Beauty & Personal Care,,"{'$ref': 'Cogs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",Badedas,,BADEDAS
+{'$oid': '54594387e4b0bfcb1e864083'},511111902744,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5459429be4b0bfcb1e864082'}}",Shurfine,,
+{'$oid': '585a96d2e4b03e62d1ce0e89'},511111001607,Beverages,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",Pepsi Diet,False,
+{'$oid': '5332f9fee4b03c9a25efd1d0'},511111803164,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5f2e4b03c9a25efd0aa'}}",Apple Jacks/Cinnamon Jacks,,
+{'$oid': '5332fa73e4b03c9a25efd21c'},511111703051,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5ebe4b03c9a25efd0a8'}}",Diet Coke,,
+{'$oid': '5fa98944be37ce239d107103'},511111617297,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fa98944be37ce239d1070ff'}}",test brand @1604946244876,False,TEST BRANDCODE @1604946244876
+{'$oid': '5332f7afe4b03c9a25efd13d'},511111203483,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f7a7e4b03c9a25efd134'}}",Shock Top,,
+{'$oid': '5d540e65a3a018514994f41f'},511111404880,Frozen,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Benihana Frozen Entrees,,BENIHANA
+{'$oid': '5daf46261dda2c3e1416ae96'},511111905967,Dairy,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f3e4b03c9a25efd0ae'}}",Mountain High™,,MOUNTAIN HIGH
+{'$oid': '585a972de4b03e62d1ce0e96'},511111001485,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",Tostitos,,TOSTITOS
+{'$oid': '5f9770bfbe37ce03d08a2d86'},511111317081,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f9770bfbe37ce03d08a2d83'}}",test brand @1603760319788,,TEST BRANDCODE @1603760319788
+{'$oid': '580e015be4b0f32b2de21385'},511111501824,Condiments & Sauces,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Kraft BBQ Sauce,False,
+{'$oid': '5f5900d4be37ce21f1287c11'},511111516569,Baby,BABY,"{'$ref': 'Cogs', '$id': {'$oid': '5f58fa84be37ce21f1287c0f'}}",Gerber Baby Food,,GERBER BABY FOOD
+{'$oid': '5a8c33f3e4b07f0a2dac8943'},511111504139,Grocery,,"{'$ref': 'Cogs', '$id': {'$oid': '5a734034e4b0d58f376be874'}}",Pace,False,PACE
+{'$oid': '5ab1589ae4b0915382df7621'},511111204435,Canned Goods & Soups,,"{'$ref': 'Cogs', '$id': {'$oid': '5a734034e4b0d58f376be874'}}",Campbell's Slow Kettle,False,CAMPBELLS SLOW KETTLE 
+{'$oid': '5afda22ee4b03bf01c2a2965'},511111304494,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '5a734034e4b0d58f376be874'}}",Archway,False,ARCHWAY
+{'$oid': '588b9ff4e4b02187f85cdadb'},511111901099,Condiments & Sauces,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Kraft Salad Dressing,False,
+{'$oid': '5ec2dde7be37ce5234ec36bb'},511111314653,Health & Wellness,HEALTHY_AND_WELLNESS,"{'$ref': 'Cogs', '$id': {'$oid': '5d9b4f591dda2c6225a284aa'}}",Bayer® Aspirin,False,BAYER® ASPIRIN
+{'$oid': '5ff78071be37ce6a424ca0e9'},511111818977,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ff78071be37ce6a424ca0e7'}}",test brand @1610055793449,False,TEST BRANDCODE @1610055793449
+{'$oid': '5ff78071be37ce6a424ca0e8'},511111318965,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ff78071be37ce6a424ca0e7'}}",test brand @1610055793411,False,TEST BRANDCODE @1610055793411
+{'$oid': '5ff78071be37ce6a424ca0ea'},511111018988,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ff78071be37ce6a424ca0e7'}}",test brand @1610055793500,False,TEST BRANDCODE @1610055793500
+{'$oid': '5ff78072be37ce6a424ca0ec'},511111719007,Candy & Sweets,CANDY_AND_SWEETS,"{'$ref': 'Cogs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",test brand @1610055794196,False,TEST BRANDCODE @1610055794196
+{'$oid': '5ff78071be37ce6a424ca0eb'},511111518990,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ff78071be37ce6a424ca0e7'}}",test brand @1610055793537,False,TEST BRANDCODE @1610055793537
+{'$oid': '5ff789c5be37ce786ba0f6a3'},511111219019,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ff789c5be37ce786ba0f6a2'}}",test brand @1610058181548,False,TEST BRANDCODE @1610058181549
+{'$oid': '5ff77857be37ce58ce50083c'},511111718918,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ff77857be37ce58ce500839'}}",test brand @1610053719944,False,TEST BRANDCODE @1610053719944
+{'$oid': '5ff77858be37ce58ce50083d'},511111918929,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ff77857be37ce58ce500839'}}",test brand @1610053719998,False,TEST BRANDCODE @1610053719998
+{'$oid': '5ff78070be37ce6a424ca0e6'},511111118954,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ff78070be37ce6a424ca0e5'}}",test brand @1610055792794,False,
+{'$oid': '5ff77857be37ce58ce50083b'},511111218906,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ff77857be37ce58ce500839'}}",test brand @1610053719869,False,TEST BRANDCODE @1610053719869
+{'$oid': '5ff77859be37ce58ce500840'},511111618942,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ff77859be37ce58ce50083f'}}",test brand @1610053721248,False,
+{'$oid': '5ff77859be37ce58ce50083e'},511111418931,Candy & Sweets,CANDY_AND_SWEETS,"{'$ref': 'Cogs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",test brand @1610053721033,False,TEST BRANDCODE @1610053721033
+{'$oid': '5bd200c690fa074576779a16'},511111004639,Personal Care,PERSONAL_CARE,"{'$ref': 'Cogs', '$id': {'$oid': '550b2565e4b001d5e9e4146f'}}",Depend,False,DEPEND
+{'$oid': '5fdce9eabe37ce5fa8ba59db'},511111318521,Candy & Sweets,CANDY_AND_SWEETS,"{'$ref': 'Cogs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",test brand @1608313322283,False,TEST BRANDCODE @1608313322283
+{'$oid': '5fdce9e9be37ce5fa8ba59da'},511111118510,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fdce9e9be37ce5fa8ba59d6'}}",test brand @1608313321374,False,TEST BRANDCODE @1608313321374
+{'$oid': '5fdce9e9be37ce5fa8ba59d7'},511111518488,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fdce9e9be37ce5fa8ba59d6'}}",test brand @1608313321191,False,TEST BRANDCODE @1608313321191
+{'$oid': '5fdce9e9be37ce5fa8ba59d9'},511111618508,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fdce9e9be37ce5fa8ba59d6'}}",test brand @1608313321301,False,TEST BRANDCODE @1608313321301
+{'$oid': '5fdce9e9be37ce5fa8ba59d8'},511111018490,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fdce9e9be37ce5fa8ba59d6'}}",test brand @1608313321222,False,TEST BRANDCODE @1608313321222
+{'$oid': '5daf35a8a60b87376833e35d'},511111005933,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f3e4b03c9a25efd0ae'}}",Nature Valley™,,NATURE VALLEY
+{'$oid': '5f4936ddbe37ce52f8314fdd'},511111215981,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f4936ddbe37ce52f8314fda'}}",test brand @1598633693767,,TEST BRANDCODE @1598633693767
+{'$oid': '5f4936ddbe37ce52f8314fde'},511111715993,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f4936ddbe37ce52f8314fda'}}",test brand @1598633693791,,TEST BRANDCODE @1598633693791
+{'$oid': '5fb6b82dbe37ce522e165cbc'},511111117407,Bread & Bakery,BREAD_AND_BAKERY,"{'$ref': 'Cogs', '$id': {'$oid': '5fb6b608be37ce522e165cb9'}}",Anzio ,False,ANZIO
+{'$oid': '5d641306a3a018514994f427'},511111705000,Magazines,,"{'$ref': 'Cogs', '$id': {'$oid': '5d5d4fd16d5f3b23d1bc7905'}}",Family Circle,,511111705000
+{'$oid': '55b630f5e4b0d8e685c14222'},511111002598,,,"{'$ref': 'Cogs', '$id': {'$oid': '55b62995e4b0d8e685c14213'}}",Diet Rite,,
+{'$oid': '5db780a6a60b87376833e369'},511111806172,Dairy,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Hershey's Whipped Topping,,HERSHEY'S WHIPPED TOPPING
+{'$oid': '5f4936ddbe37ce52f8314fdb'},511111515968,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f4936ddbe37ce52f8314fda'}}",test brand @1598633693720,,TEST BRANDCODE @1598633693720
+{'$oid': '5332f5f2e4b03c9a25efd0a9'},511111804048,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5f2e4b03c9a25efd0aa'}}",Eggo,,
+{'$oid': '5fb2852cbe37ce522e165cb2'},511111617341,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fb2852cbe37ce522e165cae'}}",test brand @1605535020671,False,TEST BRANDCODE @1605535020671
+{'$oid': '592486bee410d61fcea3d12e'},511111200802,Dairy,,"{'$ref': 'Cogs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",IMPERIAL,,IMPERIAL
+{'$oid': '57c082a6e4b0718ff5fcb03b'},511111502425,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f7a7e4b03c9a25efd134'}}",Modelo Especial,,
+{'$oid': '5da606ae1dda2c3e1416ae86'},511111305637,Health & Wellness,,"{'$ref': 'Cogs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",ALEVE® PM NIGHT TIME,,ALEVE PM NIGHT TIME
+{'$oid': '5f99f71bbe37ce13da9eade7'},511111117124,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f99f71bbe37ce13da9eade6'}}",test brand @1603925787294,,TEST BRANDCODE @1603925787294
+{'$oid': '5a8c5e74e4b07f0a2dac8947'},511111904229,Personal Care,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f6e4b03c9a25efd0b4'}}",ApotheCARE Essentials,False,APOTHECARE ESSENTIALS
+{'$oid': '57e5817ae4b0ac389136a30c'},511111902256,Beer Wine Spirits,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f709e4b03c9a25efd0f1'}}",Henry's Hard Soda,False,HENRY WEINHARD'S
+{'$oid': '5ab15392e4b0915382df761d'},511111204367,Canned Goods & Soups,,"{'$ref': 'Cogs', '$id': {'$oid': '5a734034e4b0d58f376be874'}}",Campbell's Chunky,False,CAMPBELLS CHUNKY 
+{'$oid': '5e5ff265ee7f2d0b35b2a18f'},511111914051,Health & Wellness,,"{'$ref': 'Cogs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",ONE A DAY® WOMENS,,ONE A DAY® WOMENS
+{'$oid': '5f16f536be37ce2b30061e25'},511111415060,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f16f535be37ce2b30061e24'}}",test brand @1595340085980,,TEST BRANDCODE @1595340085980
+{'$oid': '5332fb83e4b03c9a25efd24a'},511111502869,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5f2e4b03c9a25efd0aa'}}",Town House,,
+{'$oid': '5ef38672be37ce02da95b72f'},511111515036,Outdoor,OUTDOOR,"{'$ref': 'Cogs', '$id': {'$oid': '5eebc5412455c97a877ef382'}}",Kingsford Charcoal,,KINGSFORD
+{'$oid': '5daf6baaa60b87376833e364'},511111206101,Dairy,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f3e4b03c9a25efd0ae'}}",Yoplait® Go-GURT®,,YOPLAIT GO-GURT
+{'$oid': '5a4d1f06e4b0d5c3fd86b678'},511111700531,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",FRITO-LAY,True,FRITO-LAY
+{'$oid': '57ebc003e4b0ac389136a333'},511111502142,Condiments & Sauces,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Grey Poupon,False,GREY POUPON
+{'$oid': '5f441280be37ce5dbe9b7c80'},511111915799,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f441280be37ce5dbe9b7c7d'}}",test brand @1598296704763,,TEST BRANDCODE @1598296704763
+{'$oid': '5ec2dda8be37ce5234ec36ba'},511111814641,Health & Wellness,HEALTHY_AND_WELLNESS,"{'$ref': 'Cogs', '$id': {'$oid': '5d9b4f591dda2c6225a284aa'}}",Berroca®,,BERROCA®
+{'$oid': '58861c7f4e8d0d20bc42c4f9'},511111301301,Beverages,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",Propel,False,PROPEL
+{'$oid': '58b59a68e4b0857c2ddb7257'},511111700975,Beer Wine Spirits,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f709e4b03c9a25efd0f1'}}",Milwaukee's Best Ice,False,MILWAUKEE'S BEST
+{'$oid': '5332f753e4b03c9a25efd10f'},511111703778,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5ebe4b03c9a25efd0a8'}}",NOS,,
+{'$oid': '5a4d250ce4b0d5c3fd86b67b'},511111400486,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",SPITZ,,SPITZ
+{'$oid': '5d9d0270a60b87376833e347'},511111405535,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",IMAGINE,,IMAGINE
+{'$oid': '5d658fd1a3a018514994f431'},511111905196,,,"{'$ref': 'Cogs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",BETTER HOMES AND GARDENS Special Edition Magazine - Food ,,
+{'$oid': '5f358338be37ce443bf9d55c'},511111215332,Candy & Sweets,CANDY_AND_SWEETS,"{'$ref': 'Cogs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",test brand @1597342520969,,TEST BRANDCODE @1597342520969
+{'$oid': '58b599fee4b0857c2ddb7256'},511111900986,Beer Wine Spirits,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f709e4b03c9a25efd0f1'}}",Steel Reserve Alloy Series,False,
+{'$oid': '5a5d278de4b0db471c2d042f'},511111800156,Beer Wine Spirits,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f709e4b03c9a25efd0f1'}}",Tusk & Grain,,TUSK & GRAIN
+{'$oid': '5332f7eee4b03c9a25efd15e'},511111103370,Beer Wine Spirits,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f709e4b03c9a25efd0f1'}}",Redd's Apple Ale,False,REDD'S ALE
+{'$oid': '5afda18ee4b0c11cfecd49f5'},511111104469,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '5a734034e4b0d58f376be874'}}",Lance,False,LANCE
+{'$oid': '5a8c363ce4b0ccf165fac9e7'},511111104186,Grocery,,"{'$ref': 'Cogs', '$id': {'$oid': '5a734034e4b0d58f376be874'}}",Pacific Foods,False,PACIFIC FOODS
+{'$oid': '5dd557081dda2c1971449a7a'},511111606376,Dairy,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f3e4b03c9a25efd0ae'}}",Yoplait® Dunkers,,YOPLAIT DUNKERS
+{'$oid': '5332f774e4b03c9a25efd126'},511111603641,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5f3e4b03c9a25efd0ae'}}",Fiber One,,
+{'$oid': '5f4802bdbe37ce0c8303373f'},511111415855,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f4802bdbe37ce0c8303373c'}}",test brand @1598554813705,,TEST BRANDCODE @1598554813705
+{'$oid': '5a021703e4b00efe02b02a58'},511111800590,Canned Goods & Soups,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f6e4b03c9a25efd0b4'}}",LIPTON Soup,False,LIPTON Soup
+{'$oid': '5dc2da1fa60b873d6b0666d3'},511111406341,Breakfast & Cereal,,"{'$ref': 'Cogs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",Minions™ Cereal,,MINIONS CEREAL
+{'$oid': '5d2f69a6a3a01810a2174aec'},511111504856,Household,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f6e4b03c9a25efd0b4'}}",LOVE HOME AND PLANET,,LOVE HOME AND PLANET
+{'$oid': '5f208dafbe37ce7958c59522'},511111015185,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f208daebe37ce7958c59520'}}",test brand @1595968943012,,TEST BRANDCODE @1595968943012
+{'$oid': '5f2336cfbe37ce7958c5952c'},511111715276,Health & Wellness,HEALTHY_AND_WELLNESS,"{'$ref': 'Cogs', '$id': {'$oid': '5f036ccc2455c947fde9362f'}}",OneTouch®,,ONETOUCH
+{'$oid': '5f3e9172be37ce5a0e01b953'},511111015536,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f3e9172be37ce5a0e01b952'}}",test brand @1597935986247,,TEST BRANDCODE @1597935986248
+{'$oid': '55a41b88e4b0d0a65b3692f0'},511111902690,Dairy,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Kraft,False,KRAFT
+{'$oid': '5daf70071dda2c3e1416ae9e'},511111906124,Breakfast & Cereal,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f3e4b03c9a25efd0ae'}}",Basic 4™,,BASIC 4
+{'$oid': '5a8c31bfe4b0ccf165fac9e4'},511111804116,Canned Goods & Soups,,"{'$ref': 'Cogs', '$id': {'$oid': '5a734034e4b0d58f376be874'}}",Wolfgang Puck,False,WOLFGANG PUCK
+{'$oid': '5f7760f0be37ce1d26d7b7a5'},511111516842,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f7760f0be37ce1d26d7b7a2'}}",test brand @1601659120828,,TEST BRANDCODE @1601659120828
+{'$oid': '5f99f71bbe37ce13da9eadea'},511111317159,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f99f71bbe37ce13da9eade6'}}",test brand @1603925787441,,TEST BRANDCODE @1603925787441
+{'$oid': '5a8c378ce4b07f0a2dac8946'},511111704218,Breakfast & Cereal,,"{'$ref': 'Cogs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",The Soulfull Project,,THE SOULFUL PROJECT
+{'$oid': '5f493682be37ce52f8314fd0'},511111815945,Candy & Sweets,CANDY_AND_SWEETS,"{'$ref': 'Cogs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",test brand @1598633602924,,TEST BRANDCODE @1598633602924
+{'$oid': '580dff97e4b0f32b2de21381'},511111901860,Baking,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Dream Whip,False,DREAM WHIP
+{'$oid': '5f38578fbe37ce5178517ad7'},511111815457,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f38578fbe37ce5178517ad3'}}",test brand @1597527951461,,TEST BRANDCODE @1597527951461
+{'$oid': '5fd2a0bfbe37ce49eb72c0f0'},511111718123,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fd2a0bfbe37ce49eb72c0ef'}}",test brand @1607639231623,False,TEST BRANDCODE @1607639231623
+{'$oid': '5332fa6be4b03c9a25efd217'},511111903062,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",Brew Pub,,
+{'$oid': '5a8f64c6e4b0a2e2844f5695'},511111104254,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '5a734034e4b0d58f376be874'}}",Kjeldsen,False,KJELDSEN
+{'$oid': '5f493dabbe37ce64d0ae36bd'},511111316046,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f493dabbe37ce64d0ae36ba'}}",test brand @1598635435896,,TEST BRANDCODE @1598635435896
+{'$oid': '57ebc134e4b0ac389136a33d'},511111602040,Dairy,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Kraft Cheese,False,
+{'$oid': '5f5bc4f1be37ce17125ac0ea'},511111316602,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f5bc4f1be37ce17125ac0e8'}}",test brand @1599849713772,,TEST BRANDCODE @1599849713773
+{'$oid': '5fd29591be37ce38bbbefb2a'},511111418092,Candy & Sweets,CANDY_AND_SWEETS,"{'$ref': 'Cogs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",test brand @1607636369405,False,TEST BRANDCODE @1607636369405
+{'$oid': '5f77274bbe37ce6b592e90bc'},511111916727,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f77274bbe37ce6b592e90b9'}}",test brand @1601644363827,,TEST BRANDCODE @1601644363827
+{'$oid': '5a8c35dde4b0ccf165fac9e6'},511111904175,Grocery,,"{'$ref': 'Cogs', '$id': {'$oid': '5a734034e4b0d58f376be874'}}",Pepperidge Farm,False,PEPPERIDGE FARM
+{'$oid': '5332f760e4b03c9a25efd11a'},511111803720,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5ebe4b03c9a25efd0a8'}}",Honest Tea,,
+{'$oid': '5f4802d2be37ce0c83033743'},511111315889,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f4802d2be37ce0c83033742'}}",test brand @1598554834882,,
+{'$oid': '60074277be37ce360be639ff'},511111919803,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '60074277be37ce360be639fe'}}",test brand @1611088503689,False,TEST BRANDCODE @1611088503689
+{'$oid': '5332f9f0e4b03c9a25efd1c3'},511111203278,Snacks,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5f2e4b03c9a25efd0aa'}}",Pringles,,
+{'$oid': '5fb2852cbe37ce522e165cb0'},511111917328,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fb2852cbe37ce522e165cae'}}",test brand @1605535020580,False,TEST BRANDCODE @1605535020580
+{'$oid': '58861c7e4e8d0d20bc42c4e3'},511111601395,Beer Wine Spirits,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f709e4b03c9a25efd0f1'}}",Miller High Life,False,MILLER HIGH LIFE
+{'$oid': '585b0b23e4b03e62d1ce0e99'},511111101451,Breakfast & Cereal,,"{'$ref': 'Cogs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",Quaker,False,QUAKER
+{'$oid': '5332f7ffe4b03c9a25efd16a'},511111703334,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f7ffe4b03c9a25efd16b'}}",All Natural,,
+{'$oid': '5da608291dda2c3e1416ae8b'},511111705727,Health & Wellness,,"{'$ref': 'Cogs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",Claritin® KIDS,,511111705727
+{'$oid': '57d848efe4b0ac389136a2aa'},511111302414,Dairy,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Athenos,False,ATHENOS
+{'$oid': '5f513ea1be37ce21f1287c03'},511111916512,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f513ea0be37ce21f1287c01'}}",test brand @1599159969028,,TEST BRANDCODE @1599159969028
+{'$oid': '5f35a0babe37ce6853cff201'},511111815389,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f35a0babe37ce6853cff1fd'}}",test brand @1597350074404,,TEST BRANDCODE @1597350074404
+{'$oid': '5a5d2c1fe4b06ba572cf24a8'},511111100065,Beauty & Personal Care,,"{'$ref': 'Cogs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",Sedal,,SEDAL
+{'$oid': '5d603537a3a018514994f424'},511111404958,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",Red Rock Deli Chips,False,RED ROCK DELI
+{'$oid': '5da607a9a60b87376833e34f'},511111905684,Health & Wellness,,"{'$ref': 'Cogs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",ALKA SELTZER PLUS® SINUS CAP/ GEL/ TAB,,ALKA SELTZER PLUS SINUS CAP/ GEL/ TAB
+{'$oid': '5f493682be37ce52f8314fcd'},511111915911,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f493682be37ce52f8314fcb'}}",test brand @1598633602253,,TEST BRANDCODE @1598633602253
+{'$oid': '585a970ee4b03e62d1ce0e91'},511111301530,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",Smartfood,,SMARTFOOD
+{'$oid': '5f403231be37ce5f78d9ed18'},511111515685,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f403231be37ce5f78d9ed14'}}",test brand @1598042673532,,TEST BRANDCODE @1598042673532
+{'$oid': '5f7ba932be37ce2f290fb252'},511111916956,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f7ba932be37ce2f290fb251'}}",test brand @1601939762881,,TEST BRANDCODE @1601939762881
+{'$oid': '58863e1ee4b02187f85cdace'},511111101222,Deli,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Oscar Mayer,False,OSCAR MAYER
+{'$oid': '5a5d234be4b06ba572cf249f'},511111400271,Beer Wine Spirits,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f709e4b03c9a25efd0f1'}}",Lech,,LECH PREMIUM
+{'$oid': '5d642d946d5f3b23d1bc7910'},511111805137,Magazines,,"{'$ref': 'Cogs', '$id': {'$oid': '5d5d4fd16d5f3b23d1bc7905'}}",Real Simple,,511111805137
+{'$oid': '5fb8292abe37ce522e165ce3'},511111617785,Grocery,GROCERY,"{'$ref': 'Cogs', '$id': {'$oid': '5fb6b608be37ce522e165cb9'}}",Heiners,False,HEINERS
+{'$oid': '5d6419346d5f3b23d1bc790e'},511111005094,Magazines,,"{'$ref': 'Cogs', '$id': {'$oid': '5d5d4fd16d5f3b23d1bc7905'}}",Parents,,PARENTS
+{'$oid': '5332fa0ae4b03c9a25efd1dd'},511111203117,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5f2e4b03c9a25efd0aa'}}",Smart Start,,
+{'$oid': '5ccb2ece166eb31bbbadccbe'},511111504788,Condiments & Sauces,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",The Pioneer Woman,,PIONEER WOMAN
+{'$oid': '60074278be37ce360be63a03'},511111319849,Candy & Sweets,CANDY_AND_SWEETS,"{'$ref': 'Cogs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",test brand @1611088504474,False,TEST BRANDCODE @1611088504474
+{'$oid': '5d6419746d5f3b23d1bc790f'},511111605102,Magazines,,"{'$ref': 'Cogs', '$id': {'$oid': '5d5d4fd16d5f3b23d1bc7905'}}",People en Espanol,,511111605102
+{'$oid': '5a5d1fbfe4b0db471c2d0428'},511111100294,Beer Wine Spirits,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f709e4b03c9a25efd0f1'}}",Hop Valley,,HOP VALLEY
+{'$oid': '5f3d6f44be37ce4ddbb1bb3c'},511111215493,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f3d6f44be37ce4ddbb1bb3a'}}",test brand @1597861700914,,TEST BRANDCODE @1597861700914
+{'$oid': '580dffade4b0f32b2de21384'},511111001836,Beverages,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Yuban Coffee,False,YUBAN
+{'$oid': '5d6423ffa3a018514994f42c'},511111105114,Magazines,,"{'$ref': 'Cogs', '$id': {'$oid': '5d5d4fd16d5f3b23d1bc7905'}}",People Magazine,,511111105114
+{'$oid': '5f9770bfbe37ce03d08a2d84'},511111617068,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f9770bfbe37ce03d08a2d83'}}",test brand @1603760319682,,TEST BRANDCODE @1603760319682
+{'$oid': '5f4a7a5dbe37ce2d95e65ca3'},511111516286,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f4a7a5bbe37ce2d95e65c9f'}}",test brand @1598716509394,,TEST BRANDCODE @1598716509394
+{'$oid': '5f35834dbe37ce443bf9d565'},511111415343,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f35834dbe37ce443bf9d564'}}",test brand @1597342541226,,
+{'$oid': '592486bfe410d61fcea3d13d'},511111000679,Personal Care,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f6e4b03c9a25efd0b4'}}",TIGI,False,TIGI
+{'$oid': '5daf3365a60b87376833e35b'},511111805908,Breakfast & Cereal,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f3e4b03c9a25efd0ae'}}",Autumn's Gold™,,AUTUMN'S GOLD
+{'$oid': '5a5d2a86e4b06ba572cf24a6'},511111900108,Beauty & Personal Care,,"{'$ref': 'Cogs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",Brooke Bond,,BROOKE BOND
+{'$oid': '5d6415c66d5f3b23d1bc790c'},511111105046,Magazines,,"{'$ref': 'Cogs', '$id': {'$oid': '5d5d4fd16d5f3b23d1bc7905'}}",Food & Wine Magazine,,511111105046
+{'$oid': '57c08285e4b0718ff5fcb038'},511111702450,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f7a7e4b03c9a25efd134'}}",Quilmes,,
+{'$oid': '5f208dafbe37ce7958c59523'},511111515197,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f208daebe37ce7958c59520'}}",test brand @1595968943049,,TEST BRANDCODE @1595968943049
+{'$oid': '5c9a975495144c182bbc7270'},511111208532,Grocery,,"{'$ref': 'Cogs', '$id': {'$oid': '5c7470c895144c124ecd5c09'}}",Test FRS-920 again1,True,AMPTEST
+{'$oid': '5332f709e4b03c9a25efd0f0'},511111903857,Beer Wine Spirits,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f709e4b03c9a25efd0f1'}}",Coors Light,False,COORS
+{'$oid': '5dc1aaf51dda2c0ad7da64ad'},511111506317,Beverages,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",BOLT24,,BOLT 24
+{'$oid': '58861c7f4e8d0d20bc42c4f8'},511111801313,Beverages,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",Mist Twst,False,MIST TWST
+{'$oid': '5fda3724be37ce09e3515970'},511111918363,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fda3724be37ce09e351596f'}}",test brand @1608136484526,False,TEST BRANDCODE @1608136484526
+{'$oid': '5fda3725be37ce09e3515974'},511111718406,Candy & Sweets,CANDY_AND_SWEETS,"{'$ref': 'Cogs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",test brand @1608136485398,False,TEST BRANDCODE @1608136485398
+{'$oid': '5fda3724be37ce09e3515971'},511111418375,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fda3724be37ce09e351596f'}}",test brand @1608136484574,False,TEST BRANDCODE @1608136484574
+{'$oid': '5fd28f0cbe37ce6d53dfc692'},511111518044,Dairy & Refrigerated,DAIRY_AND_REFRIGERATED,"{'$ref': 'Cogs', '$id': {'$oid': '5e7cf838f221c312e698a628'}}",Sargento® Cheese,False,SARGENTO
+{'$oid': '5fda3724be37ce09e3515972'},511111618386,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fda3724be37ce09e351596f'}}",test brand @1608136484633,False,TEST BRANDCODE @1608136484633
+{'$oid': '5fda3724be37ce09e3515973'},511111118398,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fda3724be37ce09e351596f'}}",test brand @1608136484689,False,TEST BRANDCODE @1608136484689
+{'$oid': '5ff73cffbe37ce1e961f325d'},511111918646,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ff73cffbe37ce1e961f325c'}}",test brand @1610038527809,False,
+{'$oid': '5ff73cf9be37ce1e961f3258'},511111518600,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ff73cf9be37ce1e961f3256'}}",test brand @1610038521565,False,TEST BRANDCODE @1610038521565
+{'$oid': '5ff73cf9be37ce1e961f325a'},511111218623,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ff73cf9be37ce1e961f3256'}}",test brand @1610038521677,False,TEST BRANDCODE @1610038521677
+{'$oid': '5ff74123be37ce1e961f3266'},511111418658,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ff74123be37ce1e961f3265'}}",test brand @1610039587818,False,
+{'$oid': '5ff73cf9be37ce1e961f3259'},511111018612,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ff73cf9be37ce1e961f3256'}}",test brand @1610038521624,False,TEST BRANDCODE @1610038521624
+{'$oid': '5ff73cfabe37ce1e961f325b'},511111718635,Candy & Sweets,CANDY_AND_SWEETS,"{'$ref': 'Cogs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",test brand @1610038522559,False,TEST BRANDCODE @1610038522559
+{'$oid': '5ff74500be37ce1e961f3279'},511111818748,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ff74500be37ce1e961f3276'}}",test brand @1610040576117,False,TEST BRANDCODE @1610040576117
+{'$oid': '5ff74500be37ce1e961f327b'},511111518761,Candy & Sweets,CANDY_AND_SWEETS,"{'$ref': 'Cogs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",test brand @1610040576672,False,TEST BRANDCODE @1610040576672
+{'$oid': '5ff75cdebe37ce1e961f328b'},511111018773,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ff75cdebe37ce1e961f328a'}}",test brand @1610046686560,False,
+{'$oid': '5ff74500be37ce1e961f3278'},511111618737,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ff74500be37ce1e961f3276'}}",test brand @1610040576088,False,TEST BRANDCODE @1610040576088
+{'$oid': '5ff74500be37ce1e961f327a'},511111318750,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ff74500be37ce1e961f3276'}}",test brand @1610040576148,False,TEST BRANDCODE @1610040576148
+{'$oid': '5ff74500be37ce1e961f3277'},511111118725,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ff74500be37ce1e961f3276'}}",test brand @1610040576053,False,TEST BRANDCODE @1610040576053
+{'$oid': '5da60785a60b87376833e34e'},511111705673,Health & Wellness,HEALTHY_AND_WELLNESS,"{'$ref': 'Cogs', '$id': {'$oid': '5d9b4f591dda2c6225a284aa'}}",Alka-Seltzer Plus®,False,ALKA SELTZER PLUS
+{'$oid': '6000a0c9be37ce2bb7930121'},511111019657,Candy & Sweets,CANDY_AND_SWEETS,"{'$ref': 'Cogs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",test brand @1610653897113,False,TEST BRANDCODE @1610653897113
+{'$oid': '6000a0c6be37ce2bb793011f'},511111319634,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '6000a0c6be37ce2bb793011c'}}",test brand @1610653894519,False,TEST BRANDCODE @1610653894519
+{'$oid': '6000b8c3be37ce321363c6c0'},511111719670,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '6000b8c3be37ce321363c6bf'}}",test brand @1610660035659,False,TEST BRANDCODE @1610660035659
+{'$oid': '6000a0c6be37ce2bb7930120'},511111519645,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '6000a0c6be37ce2bb793011c'}}",test brand @1610653894662,False,TEST BRANDCODE @1610653894662
+{'$oid': '6000a0f3be37ce2bb793012a'},511111219668,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '6000a0f3be37ce2bb7930129'}}",test brand @1610653939508,False,
+{'$oid': '6000a0c6be37ce2bb793011e'},511111819622,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '6000a0c6be37ce2bb793011c'}}",test brand @1610653894371,False,TEST BRANDCODE @1610653894371
+{'$oid': '5f7760f2be37ce1d26d7b7a7'},511111216865,Candy & Sweets,CANDY_AND_SWEETS,"{'$ref': 'Cogs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",test brand @1601659122798,,TEST BRANDCODE @1601659122798
+{'$oid': '5332f7ace4b03c9a25efd13a'},511111803515,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f7a7e4b03c9a25efd134'}}",Michelob Ultra,,
+{'$oid': '5daf5d1aa60b87376833e361'},511111506034,Breakfast & Cereal,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f3e4b03c9a25efd0ae'}}",Cocoa Puffs™,,COCOA PUFFS
+{'$oid': '5f7760f0be37ce1d26d7b7a4'},511111316831,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f7760f0be37ce1d26d7b7a2'}}",test brand @1601659120793,,TEST BRANDCODE @1601659120793
+{'$oid': '5afda26ce4b0c11cfecd49f8'},511111904502,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '5a734034e4b0d58f376be874'}}",Jay's,False,JAYS
+{'$oid': '592486bee410d61fcea3d130'},511111100782,Grocery,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f6e4b03c9a25efd0b4'}}",KNORR,False,KNORR
+{'$oid': '57c0812de4b0718ff5fcb02e'},511111402527,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5f2e4b03c9a25efd0aa'}}",Crunchy Nut,,
+{'$oid': '5a5d1c62e4b0db471c2d0424'},511111500384,Beer Wine Spirits,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f709e4b03c9a25efd0f1'}}",Cristal,,CRISTAL
+{'$oid': '5fcda494be37ce688e08b0d0'},511111217978,Candy & Sweets,CANDY_AND_SWEETS,"{'$ref': 'Cogs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",test brand @1607312532874,False,TEST BRANDCODE @1607312532874
+{'$oid': '57ebbcc2e4b0ac389136a32c'},511111502210,Frozen,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Boca,False,BOCA
+{'$oid': '5c409ab4cd244a3539b84162'},511111004790,Baking,,"{'$ref': 'Cogs', '$id': {'$oid': '55b62995e4b0d8e685c14213'}}",alexa,True,ALEXA
+{'$oid': '5daf54ec1dda2c3e1416ae98'},511111806011,Breakfast & Cereal,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f3e4b03c9a25efd0ae'}}",KIX™,,KIX
+{'$oid': '5f19e054be37ce33f74a166f'},511111715115,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f19e054be37ce33f74a166e'}}",test brand @1595531348245,,TEST BRANDCODE @1595531348246
+{'$oid': '5d658fc0a3a018514994f430'},511111205173,,,"{'$ref': 'Cogs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",Allrecipes Special Edition Magazine,,
+{'$oid': '585a966be4b03e62d1ce0e7e'},511111901709,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",Grandma's,True,GRANDMA'S
+{'$oid': '5f872b7fbe37ce66db5dd976'},511111517009,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f872b7fbe37ce66db5dd975'}}",test brand @1602694015177,,TEST BRANDCODE @1602694015178
+{'$oid': '5a5d24c2e4b0db471c2d042b'},511111500223,Beer Wine Spirits,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f709e4b03c9a25efd0f1'}}",Sharp's,,SHARP'S NEAR BEER
+{'$oid': '5332f7e0e4b03c9a25efd151'},511111303381,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5f3e4b03c9a25efd0ae'}}",Good Earth,,
+{'$oid': '5db77d891dda2c3e1416ae9f'},511111106159,Beverages,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Baileys Coffee Products,,BAILEYS
+{'$oid': '5f21c852be37ce7958c59529'},511111515241,Cleaning & Home Improvement,CLEANING_AND_HOME_IMPROVEMENT,"{'$ref': 'Cogs', '$id': {'$oid': '5f10c05cbe37ce238c6cabaf'}}",FINISH®,,FINISH
+{'$oid': '5bcdfc5a965c7d66d92731e9'},511111304616,Beverages,,"{'$ref': 'Cogs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",V8 Hydrate,,
+{'$oid': '5f494c5e04db711dd8fe87e3'},511111016137,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f494c5d04db711dd8fe87e2'}}",test brand @1598639197925,,TEST BRANDCODE @1598639197926
+{'$oid': '5f872b7fbe37ce66db5dd978'},511111217022,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f872b7fbe37ce66db5dd975'}}",test brand @1602694015743,,TEST BRANDCODE @1602694015743
+{'$oid': '57ebc017e4b0ac389136a336'},511111602118,Baking,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Jell-O,False,JELL-O
+{'$oid': '5f77274cbe37ce6b592e90be'},511111616740,Candy & Sweets,CANDY_AND_SWEETS,"{'$ref': 'Cogs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",test brand @1601644364536,,TEST BRANDCODE @1601644364536
+{'$oid': '5f99f71bbe37ce13da9eadeb'},511111517160,Candy & Sweets,CANDY_AND_SWEETS,"{'$ref': 'Cogs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",test brand @1603925787997,,TEST BRANDCODE @1603925787997
+{'$oid': '5ab15207e4b0be0a89bb0b04'},511111304333,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '5a734034e4b0d58f376be874'}}",Goldfish,False,GOLDFISH
+{'$oid': '5332f5f6e4b03c9a25efd0b2'},511111703983,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5ebe4b03c9a25efd0a8'}}",Coca-Cola,,
+{'$oid': '5f493682be37ce52f8314fcf'},511111615934,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f493682be37ce52f8314fcb'}}",test brand @1598633602304,,TEST BRANDCODE @1598633602304
+{'$oid': '5f7760f0be37ce1d26d7b7a3'},511111816829,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f7760f0be37ce1d26d7b7a2'}}",test brand @1601659120693,,TEST BRANDCODE @1601659120694
+{'$oid': '58861c7f4e8d0d20bc42c500'},511111801245,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",Quaker Rice Cakes,False,
+{'$oid': '5cc725bd166eb31bbbadccbd'},511111304777,Beer Wine Spirits,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f709e4b03c9a25efd0f1'}}",Cape Line,,CAPE LINE
+{'$oid': '5f3e9173be37ce5a0e01b957'},511111415572,Candy & Sweets,CANDY_AND_SWEETS,"{'$ref': 'Cogs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",test brand @1597935987233,,TEST BRANDCODE @1597935987233
+{'$oid': '585a96b3e4b03e62d1ce0e85'},511111201632,Grocery,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",Near East,,NEAR EAST
+{'$oid': '5332f6f4e4b03c9a25efd0ed'},511111103868,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5ebe4b03c9a25efd0a8'}}",Peace Tea,,
+{'$oid': '5d642dd1a3a018514994f42f'},511111505150,Magazines,,"{'$ref': 'Cogs', '$id': {'$oid': '5d5d4fd16d5f3b23d1bc7905'}}",Southern Living,,511111505150
+{'$oid': '5332f802e4b03c9a25efd16d'},511111003311,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f7ffe4b03c9a25efd16b'}}",Light & Fit,,
+{'$oid': '5ef3860fbe37ce02da95b72e'},511111015024,Cleaning & Home Improvement,CLEANING_AND_HOME_IMPROVEMENT,"{'$ref': 'Cogs', '$id': {'$oid': '5eebc5412455c97a877ef382'}}",Clorox,,CLOROX
+{'$oid': '585a9698e4b03e62d1ce0e83'},511111901655,Beverages,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",Mountain Dew Diet,False,
+{'$oid': '5a5e36d6e4b06ba572cf24ac'},511111500018,Dairy,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",May-Bud,False,MAY-BUD
+{'$oid': '5f5bc4f1be37ce17125ac0eb'},511111816614,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f5bc4f1be37ce17125ac0e8'}}",test brand @1599849713798,,TEST BRANDCODE @1599849713798
+{'$oid': '55bf8c6ce4b0d8e685c1489d'},511111802563,Beverages,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",Gatorade,False,GATORADE
+{'$oid': '5f358338be37ce443bf9d558'},511111415299,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f358338be37ce443bf9d557'}}",test brand @1597342520131,,TEST BRANDCODE @1597342520132
+{'$oid': '5a8c3140e4b07f0a2dac8941'},511111304104,Grocery,,"{'$ref': 'Cogs', '$id': {'$oid': '5a734034e4b0d58f376be874'}}",Garden Fresh Gourmet,False,GARDEN FRESH GOURMET
+{'$oid': '5a5d17ede4b06ba572cf2498'},511111000440,Breakfast & Cereal,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",AUNT JEMIMA Dry Breakfast Mixes,False,AUNT JEMIMA DRY BREAKFAST MIXES
+{'$oid': '5a5d23f1e4b06ba572cf24a0'},511111700258,Beer Wine Spirits,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f709e4b03c9a25efd0f1'}}",Olde English,,OLDE ENGLISH
+{'$oid': '5f628215be37ce78e6e2efad'},511111416661,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f628214be37ce78e6e2efaa'}}",test brand @1600291349255,,TEST BRANDCODE @1600291349255
+{'$oid': '58861c7e4e8d0d20bc42c4f6'},511111501336,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",Matador Snacks,,MATADOR
+{'$oid': '580dff8fe4b0f32b2de21380'},511111401872,Dairy,,"{'$ref': 'Cpgs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",DiGiorno Cheese,,
+{'$oid': '5d66d516a3a018093ab34725'},511111305286,Magazines,,"{'$ref': 'Cogs', '$id': {'$oid': '5d5d4fd16d5f3b23d1bc7905'}}",Country Home Magazine,,511111305286
+{'$oid': '5daf4f9ca60b87376833e360'},511111105992,Breakfast & Cereal,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f3e4b03c9a25efd0ae'}}",Reese's® Puffs,,REESE'S PUFFS
+{'$oid': '5daf6e31a60b87376833e365'},511111706113,Breakfast & Cereal,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f3e4b03c9a25efd0ae'}}",Golden Grahams™,,GOLDEN GRAHAMS
+{'$oid': '5332f7ace4b03c9a25efd13b'},511111303503,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f7a7e4b03c9a25efd134'}}",Bacardi,,
+{'$oid': '5f3ff222be37ce1c81aa1e10'},511111915638,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f3ff222be37ce1c81aa1e0c'}}",test brand @1598026274692,,TEST BRANDCODE @1598026274692
+{'$oid': '5d66d8c86d5f3b6188d4f049'},511111805342,Magazines,,"{'$ref': 'Cogs', '$id': {'$oid': '5d5d4fd16d5f3b23d1bc7905'}}",LIFE Special Edition Magazine ,,511111805342
+{'$oid': '5fcff319be37ce6d53dfc691'},511111318033,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fcff319be37ce6d53dfc690'}}",test brand @1607463705032,False,
+{'$oid': '5332fa74e4b03c9a25efd21e'},511111003038,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5ebe4b03c9a25efd0a8'}}",Sprite,,
+{'$oid': '5f4802bdbe37ce0c83033740'},511111615866,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f4802bdbe37ce0c8303373c'}}",test brand @1598554813744,,TEST BRANDCODE @1598554813744
+{'$oid': '585a96e9e4b03e62d1ce0e8b'},511111901587,Grocery,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",Rice A Roni,,RICE-A-RONI
+{'$oid': '5332f756e4b03c9a25efd113'},511111503743,,,"{'$ref': 'Cpgs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",Murray,,
+{'$oid': '5afda67de4b0c11cfecd49fc'},511111504573,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '5a734034e4b0d58f376be874'}}",STELLA D'ORO,False,STELLA DORO
+{'$oid': '5f4bf556be37ce0b4491554c'},511111016342,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f4bf556be37ce0b44915549'}}",test brand @1598813526686,,TEST BRANDCODE @1598813526686
+{'$oid': '5fa1c567be37ce402c4618f3'},511111017226,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fa1c567be37ce402c4618ef'}}",test brand @1604437351678,False,TEST BRANDCODE @1604437351678
+{'$oid': '5ab15669e4b0be0a89bb0b08'},511111704423,Grocery,,"{'$ref': 'Cogs', '$id': {'$oid': '5a734034e4b0d58f376be874'}}",Campbell's Ready Meals,False,CAMPBELLS READY MEALS
+{'$oid': '5332f612e4b03c9a25efd0c4'},511111803881,,,"{'$ref': 'Cpgs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",Kickstart,,
+{'$oid': '5f21ca86be37ce7958c5952b'},511111215264,Cleaning & Home Improvement,CLEANING_AND_HOME_IMPROVEMENT,"{'$ref': 'Cogs', '$id': {'$oid': '5f10c05cbe37ce238c6cabaf'}}",RESOLVE®,,RESOLVE
+{'$oid': '57e580e8e4b0ac389136a304'},511111302292,Beer Wine Spirits,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f709e4b03c9a25efd0f1'}}",Coors Banquet,False,
+{'$oid': '58861c7e4e8d0d20bc42c4f7'},511111001324,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",Maui Style Chips,,MAUI STYLE
+{'$oid': '5332fa84e4b03c9a25efd232'},511111002871,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5ebe4b03c9a25efd0a8'}}",Powerade Zero,,
+{'$oid': '5d2f3eada3a01810a2174aeb'},511111804833,Frozen,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f6e4b03c9a25efd0b4'}}",CULTURE REPUBLICK ,,CULTURE REPUBLICK 
+{'$oid': '5daf63151dda2c3e1416ae9b'},511111906070,Breakfast & Cereal,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f3e4b03c9a25efd0ae'}}",Wheaties™,,WHEATIES
+{'$oid': '5f772952be37ce6b592e90d5'},511111116806,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f772951be37ce6b592e90d1'}}",test brand @1601644882062,,TEST BRANDCODE @1601644882062
+{'$oid': '55bf8c15e4b0d8e685c1489c'},511111302575,Breakfast & Cereal,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",Quaker Life,False,
+{'$oid': '5f7ba645be37ce23081c528c'},511111016908,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f7ba644be37ce23081c5289'}}",test brand @1601939013444,,TEST BRANDCODE @1601939013444
+{'$oid': '5da605bea60b87376833e34a'},511111805571,Health & Wellness,,"{'$ref': 'Cogs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",AFRIN® ORIGINAL NASAL SPRAY,,511111805571
+{'$oid': '5f493e72be37ce64d0ae36c5'},511111816102,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f493e72be37ce64d0ae36c2'}}",test brand @1598635634821,,TEST BRANDCODE @1598635634821
+{'$oid': '5fd3acb6be37ce0d9386bb43'},511111418214,Candy & Sweets,CANDY_AND_SWEETS,"{'$ref': 'Cogs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",test brand @1607707830844,False,TEST BRANDCODE @1607707830844
+{'$oid': '5952a596e4b08f39def64d03'},511111800644,Beer Wine Spirits,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f709e4b03c9a25efd0f1'}}",Zima,,ZIMA
+{'$oid': '5f3ff222be37ce1c81aa1e0d'},511111715603,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f3ff222be37ce1c81aa1e0c'}}",test brand @1598026274609,,TEST BRANDCODE @1598026274609
+{'$oid': '5d6027f46d5f3b23d1bc7906'},511111204923,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",CHESTER'S,,CHESTERS
+{'$oid': '5f77274bbe37ce6b592e90bb'},511111716716,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f77274bbe37ce6b592e90b9'}}",test brand @1601644363784,,TEST BRANDCODE @1601644363784
+{'$oid': '5afda1dae4b0c11cfecd49f6'},511111604471,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '5a734034e4b0d58f376be874'}}",Cape Cod,False,CAPE COD
+{'$oid': '5e710dbeee7f2d0b35b2a192'},511111814085,Dairy & Refrigerated,DAIRY_AND_REFRIGERATED,"{'$ref': 'Cogs', '$id': {'$oid': '5e5ea9cc9c50da1291a6d074'}}",COUNTRY CROCK PLANT BUTTER,,COUNTRY CROCK PLANT BUTTER
+{'$oid': '5d66dad8a3a018093ab34729'},511111205388,Magazines,,"{'$ref': 'Cogs', '$id': {'$oid': '5d5d4fd16d5f3b23d1bc7905'}}",National Geographic Special Edition Magazine ,,511111205388
+{'$oid': '5daf5f65a60b87376833e363'},511111206057,Breakfast & Cereal,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f3e4b03c9a25efd0ae'}}",Chocolate Lucky Charms™,,CHOCOLATE LUCKY CHARMS
+{'$oid': '5f4802bdbe37ce0c8303373d'},511111715832,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f4802bdbe37ce0c8303373c'}}",test brand @1598554813534,,TEST BRANDCODE @1598554813535
+{'$oid': '5ffe3381be37ce5e01754c35'},511111419303,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ffe3381be37ce5e01754c34'}}",test brand @1610494849657,False,
+{'$oid': '5ffe2e38be37ce5e01754c23'},511111019213,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ffe2e38be37ce5e01754c21'}}",test brand @1610493496975,False,TEST BRANDCODE @1610493496975
+{'$oid': '5ffe347ebe37ce5e01754c3e'},511111919315,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ffe347ebe37ce5e01754c3d'}}",test brand @1610495102410,False,TEST BRANDCODE @1610495102411
+{'$oid': '5ffe336fbe37ce5e01754c31'},511111119272,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ffe336ebe37ce5e01754c2e'}}",test brand @1610494831056,False,TEST BRANDCODE @1610494831056
+{'$oid': '5ffe336fbe37ce5e01754c32'},511111319283,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ffe336ebe37ce5e01754c2e'}}",test brand @1610494831082,False,TEST BRANDCODE @1610494831082
+{'$oid': '5ffe336fbe37ce5e01754c30'},511111619260,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ffe336ebe37ce5e01754c2e'}}",test brand @1610494831023,False,TEST BRANDCODE @1610494831023
+{'$oid': '5ffe2e39be37ce5e01754c24'},511111219224,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ffe2e38be37ce5e01754c21'}}",test brand @1610493497005,False,TEST BRANDCODE @1610493497005
+{'$oid': '5ffe2e39be37ce5e01754c26'},511111919247,Candy & Sweets,CANDY_AND_SWEETS,"{'$ref': 'Cogs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",test brand @1610493497517,False,TEST BRANDCODE @1610493497517
+{'$oid': '5ffe2e39be37ce5e01754c25'},511111719236,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ffe2e38be37ce5e01754c21'}}",test brand @1610493497034,False,TEST BRANDCODE @1610493497034
+{'$oid': '5ffe336fbe37ce5e01754c2f'},511111419259,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ffe336ebe37ce5e01754c2e'}}",test brand @1610494830985,False,TEST BRANDCODE @1610494830985
+{'$oid': '5ffe336fbe37ce5e01754c33'},511111819295,Candy & Sweets,CANDY_AND_SWEETS,"{'$ref': 'Cogs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",test brand @1610494831583,False,TEST BRANDCODE @1610494831583
+{'$oid': '5fdce8dbbe37ce5fa8ba59c2'},511111118442,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fdce8dabe37ce5fa8ba59be'}}",test brand @1608313051339,False,TEST BRANDCODE @1608313051339
+{'$oid': '5fdce8dbbe37ce5fa8ba59c1'},511111918431,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fdce8dabe37ce5fa8ba59be'}}",test brand @1608313051291,False,TEST BRANDCODE @1608313051291
+{'$oid': '5fdce8dcbe37ce5fa8ba59c3'},511111618454,Candy & Sweets,CANDY_AND_SWEETS,"{'$ref': 'Cogs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",test brand @1608313052049,False,TEST BRANDCODE @1608313052049
+{'$oid': '5fdce9cabe37ce5fa8ba59ce'},511111318477,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fdce9cabe37ce5fa8ba59cd'}}",test brand @1608313290565,False,
+{'$oid': '5fdce8edbe37ce5fa8ba59cc'},511111818465,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fdce8edbe37ce5fa8ba59cb'}}",test brand @1608313069400,False,
+{'$oid': '5fdce8dbbe37ce5fa8ba59bf'},511111218418,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fdce8dabe37ce5fa8ba59be'}}",test brand @1608313051132,False,TEST BRANDCODE @1608313051133
+{'$oid': '5fdce8dbbe37ce5fa8ba59c0'},511111418429,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fdce8dabe37ce5fa8ba59be'}}",test brand @1608313051244,False,TEST BRANDCODE @1608313051244
+{'$oid': '5fb8216ebe37ce522e165cdd'},511111517726,Bread & Bakery,BREAD_AND_BAKERY,"{'$ref': 'Cogs', '$id': {'$oid': '5fb6b608be37ce522e165cb9'}}",Ball Park,False,BALL PARK
+{'$oid': '5332f765e4b03c9a25efd120'},511111003687,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5ebe4b03c9a25efd0a8'}}",Glaceau fruitwater,,
+{'$oid': '5f43faabbe37ce3ef3fd3717'},511111815730,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f43faabbe37ce3ef3fd3714'}}",test brand @1598290603618,,TEST BRANDCODE @1598290603618
+{'$oid': '5a5d1f46e4b0db471c2d0427'},511111700302,Beer Wine Spirits,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f709e4b03c9a25efd0f1'}}",Hidden Barrel Collection,,HIDDEL BARREL COLLECTION
+{'$oid': '5db9e8db1dda2c3e1416aea1'},511111506195,Frozen,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Launch Box,,LAUNCH BOX
+{'$oid': '57ebc2bde4b0ac389136a348'},511111101949,Frozen,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Poppers,False,
+{'$oid': '5a02196ce4b00efe02b02a5a'},511111600565,Beauty,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f6e4b03c9a25efd0b4'}}",SIMPLE,False,SIMPLE
+{'$oid': '5a5d2bcbe4b0db471c2d0435'},511111600077,Beauty & Personal Care,,"{'$ref': 'Cogs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",Salon Selectives,,SALON SELECTIVES
+{'$oid': '57d9580ee4b0ac389136a2b6'},511111802358,Dairy,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Cracker Barrel Cheese,False,CRACKER BARREL
+{'$oid': '5c112616315a241ba1716511'},511111404729,Baby,BABY,"{'$ref': 'Cogs', '$id': {'$oid': '550b2565e4b001d5e9e4146f'}}",Huggies Little Swimmers,False,HUGGIES LITTLE SWIMMERS
+{'$oid': '5f403231be37ce5f78d9ed17'},511111315674,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f403231be37ce5f78d9ed14'}}",test brand @1598042673502,,TEST BRANDCODE @1598042673502
+{'$oid': '5fd3acb6be37ce0d9386bb42'},511111918202,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fd3acb5be37ce0d9386bb3e'}}",test brand @1607707830173,False,TEST BRANDCODE @1607707830173
+{'$oid': '5db20be5a60b87376833e366'},511111406136,Breakfast & Cereal,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f3e4b03c9a25efd0ae'}}",Blasted Shreds™,,SHREDS
+{'$oid': '5d9d08d1a60b87376833e348'},511111605546,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",Baken-Ets,,BAKEN ETS
+{'$oid': '5daf54491dda2c3e1416ae97'},511111306009,Breakfast & Cereal,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f3e4b03c9a25efd0ae'}}",Honey Nut Cheerios™,,HONEY NUT CHEERIOS
+{'$oid': '5332f734e4b03c9a25efd103'},511111003809,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f734e4b03c9a25efd104'}}",Johnsonville,,
+{'$oid': '53501d29b9237fd7718f9e15'},511111302858,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332fa58e4b03c9a25efd215'}}",Tombstone,,
+{'$oid': '5332f775e4b03c9a25efd128'},511111903628,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5f3e4b03c9a25efd0ae'}}",Chex,,
+{'$oid': '5f38576ebe37ce5178517acb'},511111415411,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f38576ebe37ce5178517aca'}}",test brand @1597527918397,,
+{'$oid': '5c76dd4d95144c5375687b52'},511111806899,Baby,,"{'$ref': 'Cogs', '$id': {'$oid': '5c76dd1095144c5375687b51'}}",DASH-2249 1 brand 1,True,DASH-2249 1 BRAND 1
+{'$oid': '585a964ce4b03e62d1ce0e7a'},511111301745,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",Cracker Jack,True,CRACKER JACK
+{'$oid': '5f59002dbe37ce21f1287c10'},511111316558,Baby,BABY,"{'$ref': 'Cogs', '$id': {'$oid': '5f58fa84be37ce21f1287c0f'}}",Gerber Good Start,,GERBER GOOD START
+{'$oid': '5f4802bdbe37ce0c8303373e'},511111915843,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f4802bdbe37ce0c8303373c'}}",test brand @1598554813654,,TEST BRANDCODE @1598554813654
+{'$oid': '5f493dacbe37ce64d0ae36bf'},511111016069,Candy & Sweets,CANDY_AND_SWEETS,"{'$ref': 'Cogs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",test brand @1598635436505,,TEST BRANDCODE @1598635436505
+{'$oid': '5f38578fbe37ce5178517ad6'},511111315445,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f38578fbe37ce5178517ad3'}}",test brand @1597527951436,,TEST BRANDCODE @1597527951436
+{'$oid': '5332fa7be4b03c9a25efd22c'},511111502937,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5ebe4b03c9a25efd0a8'}}",Fresca,,
+{'$oid': '5d6412e9a3a018514994f426'},511111304982,Magazines,,"{'$ref': 'Cogs', '$id': {'$oid': '5d5d4fd16d5f3b23d1bc7905'}}",Better Homes & Gardens Magazine,,BETTER HOMES & GARDENS
+{'$oid': '5332f7b4e4b03c9a25efd140'},511111303459,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f7a7e4b03c9a25efd134'}}",Bud Light Platinum,,
+{'$oid': '5fb821d1be37ce522e165cde'},511111017738,Grocery,GROCERY,"{'$ref': 'Cogs', '$id': {'$oid': '5fb6b608be37ce522e165cb9'}}",Bimbo,False,BIMBO
+{'$oid': '5457a0cde4b05a46170caebc'},511111402756,,,"{'$ref': 'Cpgs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",Fetch Rewards,,
+{'$oid': '5332f7f5e4b03c9a25efd163'},511111403357,Beer Wine Spirits,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f709e4b03c9a25efd0f1'}}",Leinenkugel's,False,LEINENKUGEL'S
+{'$oid': '5f590184be37ce21f1287c12'},511111016571,Baby,BABY,"{'$ref': 'Cogs', '$id': {'$oid': '5f58fa84be37ce21f1287c0f'}}",Nestle NAN,,NESTLE NAN
+{'$oid': '5f403231be37ce5f78d9ed16'},511111815662,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f403231be37ce5f78d9ed14'}}",test brand @1598042673466,,TEST BRANDCODE @1598042673466
+{'$oid': '57ebc01fe4b0ac389136a337'},511111102106,Baking,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Jet-Puffed,False,JET-PUFFED
+{'$oid': '5f772952be37ce6b592e90d6'},511111616818,Candy & Sweets,CANDY_AND_SWEETS,"{'$ref': 'Cogs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",test brand @1601644882548,,TEST BRANDCODE @1601644882548
+{'$oid': '5f298852be37ce7958c5952d'},511111915287,Magazines,MAGAZINES,"{'$ref': 'Cogs', '$id': {'$oid': '5d66b9dcee7f2d201c7281cd'}}",Health Magazine,,HEALTH
+{'$oid': '57ebc144e4b0ac389136a33f'},511111902027,Dairy,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Kraft Singles,False,
+{'$oid': '5f772952be37ce6b592e90d3'},511111016786,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f772951be37ce6b592e90d1'}}",test brand @1601644882019,,TEST BRANDCODE @1601644882019
+{'$oid': '5332fa7ce4b03c9a25efd22d'},511111002925,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5ebe4b03c9a25efd0a8'}}",Diet Coke Lime,,
+{'$oid': '5f77274bbe37ce6b592e90bd'},511111416739,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f77274bbe37ce6b592e90b9'}}",test brand @1601644363876,,TEST BRANDCODE @1601644363876
+{'$oid': '5f19e062be37ce33f74a1675'},511111315162,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f19e062be37ce33f74a1674'}}",test brand @1595531362667,,
+{'$oid': '5d66def56d5f3b6188d4f051'},511111705444,Magazines,,"{'$ref': 'Cogs', '$id': {'$oid': '5d5d4fd16d5f3b23d1bc7905'}}",Rolling Stone Special Collectors Edition Magazine,,511111705444
+{'$oid': '5a5d1a67e4b06ba572cf2499'},511111800439,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",MUNCHIES,,MUNCHIES
+{'$oid': '5da608c91dda2c3e1416ae8d'},511111605775,Health & Wellness,,"{'$ref': 'Cogs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",ONE A DAY® 50+,,511111605775
+{'$oid': '5fcff304be37ce6d53dfc687'},511111618010,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fcff304be37ce6d53dfc683'}}",test brand @1607463684816,False,TEST BRANDCODE @1607463684816
+{'$oid': '5f4936debe37ce52f8314fdf'},511111916000,Candy & Sweets,CANDY_AND_SWEETS,"{'$ref': 'Cogs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",test brand @1598633694347,,TEST BRANDCODE @1598633694347
+{'$oid': '5f441280be37ce5dbe9b7c7e'},511111215776,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f441280be37ce5dbe9b7c7d'}}",test brand @1598296704638,,TEST BRANDCODE @1598296704639
+{'$oid': '5daf329ca60b87376833e35a'},511111205890,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",Annie's Homegrown,,ANNIE'S
+{'$oid': '5f4cff1ba475f1050a66b568'},511111416388,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f4cff1aa475f1050a66b566'}}",test brand @1598881562991,,TEST BRANDCODE @1598881562991
+{'$oid': '5f4bf556be37ce0b4491554b'},511111816331,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f4bf556be37ce0b44915549'}}",test brand @1598813526656,,TEST BRANDCODE @1598813526656
+{'$oid': '5db6fb28a60b87376833e367'},511111606147,Health & Wellness,HEALTHY_AND_WELLNESS,"{'$ref': 'Cogs', '$id': {'$oid': '5d9b4f591dda2c6225a284aa'}}",Midol® ,,MIDOL
+{'$oid': '5f3d6f43be37ce4ddbb1bb39'},511111515470,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f3d6f43be37ce4ddbb1bb38'}}",test brand @1597861699811,,
+{'$oid': '5cdacf1c166eb33eb7ce0fa9'},511111604808,Condiments & Sauces,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Twisted Ranch,,TWISTED RANCH
+{'$oid': '53501d29b9237fd7718f9e17'},511111602835,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332fa58e4b03c9a25efd215'}}",Jacks,,
+{'$oid': '5afda00ce4b0c11cfecd49f4'},511111904458,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",Emerald,False,EMERALD
+{'$oid': '5f4cff1aa475f1050a66b567'},511111216377,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f4cff1aa475f1050a66b566'}}",test brand @1598881562499,,TEST BRANDCODE @1598881562500
+{'$oid': '5332f9fde4b03c9a25efd1cf'},511111303176,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5f2e4b03c9a25efd0aa'}}",Froot Loops,,
+{'$oid': '5f4a64e7be37ce17d23b317b'},511111216216,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f4a64e7be37ce17d23b3178'}}",test brand @1598711015538,,TEST BRANDCODE @1598711015538
+{'$oid': '5db77f7aa60b87376833e368'},511111306160,Beverages,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Hershey's Hot Cocoa Mix,,HERSHEYS HOT COCOA
+{'$oid': '592486bee410d61fcea3d135'},511111700746,Beverages,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f6e4b03c9a25efd0b4'}}",PG TIPS,,PG TIPS
+{'$oid': '58861c7f4e8d0d20bc42c4fd'},511111501268,Breakfast & Cereal,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",Quaker Puffed,False,
+{'$oid': '5a5d1a8ce4b0db471c2d0420'},511111300427,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",MUNCHOS,,MUNCHOS
+{'$oid': '57ebc15fe4b0ac389136a342'},511111202004,Deli,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Lunchables,False,LUNCHABLES
+{'$oid': '5332f9fce4b03c9a25efd1cc'},511111603207,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5f2e4b03c9a25efd0aa'}}",Nutri-Grain,,
+{'$oid': '57c08250e4b0718ff5fcb033'},511111702504,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f7a7e4b03c9a25efd134'}}",Leffe,,
+{'$oid': '5f21c99dbe37ce7958c5952a'},511111015253,Cleaning & Home Improvement,CLEANING_AND_HOME_IMPROVEMENT,"{'$ref': 'Cogs', '$id': {'$oid': '5f10c05cbe37ce238c6cabaf'}}",WOOLITE®,,WOOLITE
+{'$oid': '5d6412d36d5f3b23d1bc7908'},511111104971,Magazines,,"{'$ref': 'Cogs', '$id': {'$oid': '5d5d4fd16d5f3b23d1bc7905'}}",Travel and Leisure Magazine,,511111104971
+{'$oid': '5bd2011f90fa074576779a17'},511111704652,Baby,,"{'$ref': 'Cogs', '$id': {'$oid': '550b2565e4b001d5e9e4146f'}}",Huggies,False,HUGGIES
+{'$oid': '5f4a64e7be37ce17d23b3179'},511111116196,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f4a64e7be37ce17d23b3178'}}",test brand @1598711015353,,TEST BRANDCODE @1598711015353
+{'$oid': '5332fa7de4b03c9a25efd22f'},511111302902,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5ebe4b03c9a25efd0a8'}}",Sprite Zero,,
+{'$oid': '5fb2852dbe37ce522e165cb3'},511111117353,Candy & Sweets,CANDY_AND_SWEETS,"{'$ref': 'Cogs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",test brand @1605535021531,False,TEST BRANDCODE @1605535021531
+{'$oid': '5a8c2e5ee4b0ccf165fac9e1'},511111004073,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '5a734034e4b0d58f376be874'}}",Bisca,False,BISCA
+{'$oid': '5f4cff1ca475f1050a66b56a'},511111516408,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f4cff1aa475f1050a66b566'}}",test brand @1598881563900,,TEST BRANDCODE @1598881563900
+{'$oid': '5f7ba932be37ce2f290fb253'},511111116967,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f7ba932be37ce2f290fb251'}}",test brand @1601939762909,,TEST BRANDCODE @1601939762909
+{'$oid': '58861c7e4e8d0d20bc42c4e9'},511111901372,Beer Wine Spirits,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f709e4b03c9a25efd0f1'}}",Peroni Italy,False,PERONI
+{'$oid': '5f4802bebe37ce0c83033741'},511111115878,Candy & Sweets,CANDY_AND_SWEETS,"{'$ref': 'Cogs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",test brand @1598554814581,,TEST BRANDCODE @1598554814581
+{'$oid': '5332fa67e4b03c9a25efd216'},511111403074,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",Orv's,,
+{'$oid': '55a41a9de4b0d0a65b3692ed'},511111002710,,,"{'$ref': 'Cpgs', '$id': {'$oid': '55a41a91e4b0d0a65b3692ec'}}",RPs,,
+{'$oid': '5fcff304be37ce6d53dfc685'},511111917991,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fcff304be37ce6d53dfc683'}}",test brand @1607463684722,False,TEST BRANDCODE @1607463684722
+{'$oid': '5db9f8c5a60b87376833e36a'},511111106203,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f3e4b03c9a25efd0ae'}}",Fruit Gushers™,,BETTY CROCKER GUSHERS
+{'$oid': '5332f789e4b03c9a25efd12c'},511111603597,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5f3e4b03c9a25efd0ae'}}",Bugles,,
+{'$oid': '5f3d6f45be37ce4ddbb1bb3f'},511111515524,Candy & Sweets,CANDY_AND_SWEETS,"{'$ref': 'Cogs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",test brand @1597861701615,,TEST BRANDCODE @1597861701615
+{'$oid': '5332f762e4b03c9a25efd11e'},511111103707,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5ebe4b03c9a25efd0a8'}}",Glaceau vitaminwater zero,,
+{'$oid': '5f16f512be37ce2b30061e1e'},511111215059,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f16f512be37ce2b30061e1d'}}",test brand @1595340050104,,
+{'$oid': '5daf2baea60b87376833e359'},511111505877,Breakfast & Cereal,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f3e4b03c9a25efd0ae'}}",Lucky Charms®,False,LUCKY CHARMS
+{'$oid': '57d95741e4b0ac389136a2b1'},511111802402,Grocery,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Back to Nature Meals,False,BACK TO NATURE DINNERS
+{'$oid': '5332f7b2e4b03c9a25efd13f'},511111503460,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f7a7e4b03c9a25efd134'}}",Budweiser Select 55,,
+{'$oid': '5f35a0babe37ce6853cff200'},511111615378,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f35a0babe37ce6853cff1fd'}}",test brand @1597350074366,,TEST BRANDCODE @1597350074366
+{'$oid': '537b7ec2892471241348d70a'},511111302780,,,"{'$ref': 'Cpgs', '$id': {'$oid': '537b7ec2892471241348d709'}}",Cedar Crest,,
+{'$oid': '5fc54c0abe37ce1911dbb3b3'},511111317876,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fc54c0abe37ce1911dbb3b1'}}",test brand @1606765578747,False,TEST BRANDCODE @1606765578747
+{'$oid': '5d642d65a3a018514994f42d'},511111305125,Magazines,,"{'$ref': 'Cogs', '$id': {'$oid': '5d5d4fd16d5f3b23d1bc7905'}}",Rachael Ray Everyday,,511111305125
+{'$oid': '5fb829c0be37ce522e165ce4'},511111117797,Grocery,GROCERY,"{'$ref': 'Cogs', '$id': {'$oid': '5fb6b608be37ce522e165cb9'}}",Grandma Sycamore,False,GRANDMA SYCAMORE
+{'$oid': '5dc2db051dda2c0ad7da64b0'},511111106364,Breakfast & Cereal,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f3e4b03c9a25efd0ae'}}",Mermaid Cereal,,MERMAID CEREAL
+{'$oid': '5f35a0babe37ce6853cff1fe'},511111915355,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f35a0babe37ce6853cff1fd'}}",test brand @1597350074236,,TEST BRANDCODE @1597350074237
+{'$oid': '5332f5fde4b03c9a25efd0bc'},511111803959,Beverages,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",Aquafina,False,AQUAFINA
+{'$oid': '5d66e20b6d5f3b6188d4f055'},511111705512,Beverages,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",SoBe Drinks,, SOBE
+{'$oid': '5332f9f4e4b03c9a25efd1ca'},511111103219,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5f2e4b03c9a25efd0aa'}}",Rice Krispies,,
+{'$oid': '5d6594a2a3a018514994f434'},511111905240,Magazines,,"{'$ref': 'Cogs', '$id': {'$oid': '5d5d4fd16d5f3b23d1bc7905'}}",Kitchen and Baths,,511111905240
+{'$oid': '5f5bc4f1be37ce17125ac0ec'},511111016625,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f5bc4f1be37ce17125ac0e8'}}",test brand @1599849713825,,TEST BRANDCODE @1599849713825
+{'$oid': '55b630d3e4b0d8e685c1421e'},511111802631,,,"{'$ref': 'Cogs', '$id': {'$oid': '55b62995e4b0d8e685c14213'}}",Sunkist,,
+{'$oid': '5ab154eae4b0915382df7620'},511111004400,Condiments & Sauces,,"{'$ref': 'Cogs', '$id': {'$oid': '5a734034e4b0d58f376be874'}}",Campbell's Dinner Sauces,False,CAMPBELLS DINNER SAUCES 
+{'$oid': '55b630ece4b0d8e685c14221'},511111602606,,,"{'$ref': 'Cogs', '$id': {'$oid': '55b62995e4b0d8e685c14213'}}",Squirt,,
+{'$oid': '5cdad1daca6a4c76f3f8c515'},511111304821,Condiments & Sauces,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Wild Style Sauce,,WILD STYLE
+{'$oid': '592486bee410d61fcea3d128'},511111300861,Personal Care,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f6e4b03c9a25efd0b4'}}",DOVE,False,DOVE BODY
+{'$oid': '5f7ba645be37ce23081c528a'},511111916888,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f7ba644be37ce23081c5289'}}",test brand @1601939012949,,TEST BRANDCODE @1601939012950
+{'$oid': '5f358338be37ce443bf9d559'},511111015307,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f358338be37ce443bf9d557'}}",test brand @1597342520238,,TEST BRANDCODE @1597342520238
+{'$oid': '5f494cf904db711dd8fe87f0'},511111616184,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f494cf904db711dd8fe87ef'}}",test brand @1598639353768,,
+{'$oid': '57d96124e4b0ac389136a2b9'},511111602323,Frozen,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Smart Ones,False,WEIGHT WATCHERS SMART ONES
+{'$oid': '5da60696a60b87376833e34c'},511111805625,Health & Wellness,,"{'$ref': 'Cogs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",ALEVE® LIQUID GELS,,ALEVE LIQUID GELS
+{'$oid': '5332f603e4b03c9a25efd0bf'},511111603924,,,"{'$ref': 'Cpgs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",Lipton,,
+{'$oid': '591325cde4b0cddf4ebb6a69'},511111200963,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",SANTITAS Tortilla Chips,,SANTITAS
+{'$oid': '5d4880ca6d5f3b105d1bc8dc'},511111204879,Dairy,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Fruit Love Spoonable Smoothies,,FRUIT LOVE
+{'$oid': '585a9744e4b03e62d1ce0e98'},511111301462,Beverages,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",Tropicana,False,TROPICANA
+{'$oid': '585a96fbe4b03e62d1ce0e8e'},511111001553,,,"{'$ref': 'Cpgs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",Sabra,,
+{'$oid': '5daf68751dda2c3e1416ae9c'},511111106081,Breakfast & Cereal,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f3e4b03c9a25efd0ae'}}",Raisin Nut Bran,,RAISIN NUT BRAN
+{'$oid': '5da607daa60b87376833e350'},511111405696,Health & Wellness,,"{'$ref': 'Cogs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",Bayer® ASPRIN EXTRA STRENGTH ,,511111405696
+{'$oid': '5332f9f1e4b03c9a25efd1c5'},511111503255,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5f2e4b03c9a25efd0aa'}}",Corn Flakes,,
+{'$oid': '5887a28ae4b02187f85cdad6'},511111901143,Dairy,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Velveeta,False,VELVEETA
+{'$oid': '592486bee410d61fcea3d12b'},511111400837,Frozen,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f6e4b03c9a25efd0b4'}}",GOOD HUMOR,False,GOOD HUMOR
+{'$oid': '5aa1b53ae4b086c8aad5e097'},511111804277,Breakfast & Cereal,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",JUST CRACK AN EGG Scramble Kit,False,JUST CRACK AN EGG
+{'$oid': '5fa98944be37ce239d107101'},511111917274,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fa98944be37ce239d1070ff'}}",test brand @1604946244789,False,TEST BRANDCODE @1604946244789
+{'$oid': '5d6417f56d5f3b23d1bc790d'},511111305071,Magazines,,"{'$ref': 'Cogs', '$id': {'$oid': '5d5d4fd16d5f3b23d1bc7905'}}",MARTHA STEWART LIVING MAGAZINE,False,511111305071
+{'$oid': '592486bee410d61fcea3d129'},511111100850,Personal Care,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f6e4b03c9a25efd0b4'}}",DOVE MEN+CARE,False,
+{'$oid': '588ba0f5e4b02187f85cdade'},511111701064,Grocery,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Cracker Barrel Macaroni & Cheese Dinners,False,
+{'$oid': '5f4bf556be37ce0b4491554a'},511111316329,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f4bf556be37ce0b44915549'}}",test brand @1598813526618,,TEST BRANDCODE @1598813526618
+{'$oid': '5f7760ffbe37ce1d26d7b7a9'},511111716877,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f7760ffbe37ce1d26d7b7a8'}}",test brand @1601659135935,,
+{'$oid': '5332f5fbe4b03c9a25efd0b9'},511111503972,Beverages,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",Pepsi,False,PEPSI
+{'$oid': '5daf2e2a1dda2c3e1416ae92'},511111705888,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f3e4b03c9a25efd0ae'}}",Mott's® Fruit Snacks,,MOTT'S
+{'$oid': '5332f9fde4b03c9a25efd1ce'},511111503187,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5f2e4b03c9a25efd0aa'}}",Corn Pops,,
+{'$oid': '5a8f6461e4b02d0314ffa208'},511111604242,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '5a734034e4b0d58f376be874'}}",Riberhus,False,RIBERHUS
+{'$oid': '58861d07e4b02187f85cdacd'},511111601234,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Hershey's Pudding,False,HERSHEY'S PUDDING
+{'$oid': '5f504ac2be37ce0b793c9412'},511111716433,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f504ac2be37ce0b793c9411'}}",test brand @1599097538394,,TEST BRANDCODE @1599097538395
+{'$oid': '5332f7aae4b03c9a25efd139'},511111003526,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f7a7e4b03c9a25efd134'}}",Busch,,
+{'$oid': '53501d29b9237fd7718f9e16'},511111802846,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332fa58e4b03c9a25efd215'}}",Digiorno,,
+{'$oid': '5fd29590be37ce38bbbefb27'},511111218067,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fd29590be37ce38bbbefb25'}}",test brand @1607636368260,False,TEST BRANDCODE @1607636368260
+{'$oid': '5c49d4c5315a247b580d50fb'},511111604754,Baby,,"{'$ref': 'Cogs', '$id': {'$oid': '59b96571e4b0bf7c7980588b'}}",GO & GROW,,GO & GROW
+{'$oid': '5f208dafbe37ce7958c59524'},511111115205,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f208daebe37ce7958c59520'}}",test brand @1595968943087,,TEST BRANDCODE @1595968943087
+{'$oid': '592486bde410d61fcea3d126'},511111000884,Dairy,,"{'$ref': 'Cogs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",COUNTRY CROCK,,COUNTRY CROCK
+{'$oid': '585a971ae4b03e62d1ce0e93'},511111601517,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",Stacy's,,STACY'S
+{'$oid': '5332f7a9e4b03c9a25efd137'},511111703549,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f7a7e4b03c9a25efd134'}}",Budweiser Select,,
+{'$oid': '5a5d1e5fe4b06ba572cf249d'},511111100348,Condiments & Sauces,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",MR. YOSHIDA'S,False,MR. YOSHIDA'S
+{'$oid': '5332f77de4b03c9a25efd12b'},511111203605,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5f3e4b03c9a25efd0ae'}}",Bisquick,,
+{'$oid': '57dd5a50e4b0ac389136a2d9'},511111902300,,,"{'$ref': 'Cpgs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",Austin,,
+{'$oid': '5fa1c568be37ce402c4618f4'},511111517238,Candy & Sweets,CANDY_AND_SWEETS,"{'$ref': 'Cogs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",test brand @1604437352151,False,TEST BRANDCODE @1604437352151
+{'$oid': '5f4a7a60be37ce2d95e65cad'},511111616306,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f4a7a60be37ce2d95e65cac'}}",test brand @1598716512038,,
+{'$oid': '5f19e054be37ce33f74a1671'},511111415138,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f19e054be37ce33f74a166e'}}",test brand @1595531348410,,TEST BRANDCODE @1595531348410
+{'$oid': '5fd29591be37ce38bbbefb2c'},511111018100,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fd29591be37ce38bbbefb2b'}}",test brand @1607636369580,False,
+{'$oid': '5332fa7ae4b03c9a25efd228'},511111902973,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5ebe4b03c9a25efd0a8'}}",Barq's,,
+{'$oid': '5f441281be37ce5dbe9b7c82'},511111015819,Candy & Sweets,CANDY_AND_SWEETS,"{'$ref': 'Cogs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",test brand @1598296705444,,TEST BRANDCODE @1598296705444
+{'$oid': '57ebc158e4b0ac389136a341'},511111702016,Condiments & Sauces,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Lea & Perrins,False,LEA & PERRINS
+{'$oid': '5332fa73e4b03c9a25efd21d'},511111203049,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5ebe4b03c9a25efd0a8'}}",Caffeine-free Diet Coke,,
+{'$oid': '57ebc009e4b0ac389136a334'},511111302131,Condiments & Sauces,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Heinz,False,HEINZ
+{'$oid': '5fb6b695be37ce522e165cba'},511111017387,Grocery,GROCERY,"{'$ref': 'Cogs', '$id': {'$oid': '5fb6b608be37ce522e165cb9'}}",Sara Lee,False,SARA LEE 
+{'$oid': '5f872b7fbe37ce66db5dd977'},511111017011,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f872b7fbe37ce66db5dd975'}}",test brand @1602694015481,,TEST BRANDCODE @1602694015481
+{'$oid': '5a5d1e8fe4b06ba572cf249e'},511111400325,Grocery,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",OVEN FRY,False,OVEN FRY
+{'$oid': '5d658fde6d5f3b23d1bc7913'},511111505204,,,"{'$ref': 'Cogs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",BETTY CROCKER SPECIAL EDITION MAGAZINE,,
+{'$oid': '5f4a7a5ebe37ce2d95e65ca4'},511111016298,Candy & Sweets,CANDY_AND_SWEETS,"{'$ref': 'Cogs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",test brand @1598716510157,,TEST BRANDCODE @1598716510157
+{'$oid': '57c08268e4b0718ff5fcb035'},511111602484,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f7a7e4b03c9a25efd134'}}",Skol,,
+{'$oid': '5a5d2856e4b0db471c2d0430'},511111300144,Beer Wine Spirits,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f709e4b03c9a25efd0f1'}}",Two Hats,,TWO HATS
+{'$oid': '591b7682e4b0cddf4ebb6a6a'},511111000952,Beverages,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",Starbucks Ready-To-Drink Beverages,False,STARBUCKS Bottled Drinks
+{'$oid': '585a965be4b03e62d1ce0e7c'},511111601722,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",Fritos,True,FRITOS
+{'$oid': '585a96c2e4b03e62d1ce0e87'},511111701620,Grocery,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",Pasta Roni,,PASTA RONI
+{'$oid': '55b6309ce4b0d8e685c1421b'},511111702665,Beverages,,"{'$ref': 'Cogs', '$id': {'$oid': '55b62995e4b0d8e685c14213'}}",7 up,True,BRAND CODE
+{'$oid': '5d641257a3a018514994f425'},511111604969,Magazines,,"{'$ref': 'Cogs', '$id': {'$oid': '5d5d4fd16d5f3b23d1bc7905'}}",Allrecipes Magazine,,ALLRECIPES
+{'$oid': '5a7e0c1ae4b0782f27c68d4e'},511111504061,Grocery,,"{'$ref': 'Cogs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",1_KRAFT Hockeyville,,
+{'$oid': '5fc54c17be37ce1911dbb3b8'},511111117919,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fc54c17be37ce1911dbb3b7'}}",test brand @1606765591455,False,
+{'$oid': '5ab130e2e4b0915382df7619'},511111504290,Beverages,,"{'$ref': 'Cogs', '$id': {'$oid': '5a734034e4b0d58f376be874'}}",V8V Fusion,False,V8 V FUSION 
+{'$oid': '5f504ac2be37ce0b793c9413'},511111916444,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f504ac2be37ce0b793c9411'}}",test brand @1599097538537,,TEST BRANDCODE @1599097538537
+{'$oid': '5d66dbf36d5f3b6188d4f04d'},511111705390,Beverages,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",H2OH! Sparkling Water,,H20H
+{'$oid': '5332f7f0e4b03c9a25efd160'},511111603368,Beer Wine Spirits,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f709e4b03c9a25efd0f1'}}",Miller Genuine Draft,False,MILLER GENUINE DRAFT
+{'$oid': '5f9770bfbe37ce03d08a2d87'},511111817093,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f9770bfbe37ce03d08a2d83'}}",test brand @1603760319814,,TEST BRANDCODE @1603760319814
+{'$oid': '5332f9f1e4b03c9a25efd1c4'},511111703266,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5f2e4b03c9a25efd0aa'}}",Special K,,
+{'$oid': '5332f7a8e4b03c9a25efd136'},511111203551,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f7a7e4b03c9a25efd134'}}",Busch Light,,
+{'$oid': '5d5abca1a3a018514994f421'},511111504900,Grocery,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Amazing Grains,,AMAZING GRAINS
+{'$oid': '5f19e054be37ce33f74a1670'},511111915126,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f19e054be37ce33f74a166e'}}",test brand @1595531348374,,TEST BRANDCODE @1595531348374
+{'$oid': '5dc07de6a60b873d6b0666d0'},511111406297,Breakfast & Cereal,,"{'$ref': 'Cogs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",Chocolate Cheerios™,,CHOCOLATE CHEERIOS
+{'$oid': '5d66dfec6d5f3b6188d4f053'},511111105480,Beverages,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",O.N.E. Coconut Water,,ONE
+{'$oid': '5a5d209ae4b0db471c2d0429'},511111600282,Beer Wine Spirits,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f709e4b03c9a25efd0f1'}}",Keystone Ice,,KEYSTONE ICE
+{'$oid': '5a5d1d05e4b06ba572cf249b'},511111800361,Dairy,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",DIGIORNO CHEESE,False,DIGIORNO CHEESE
+{'$oid': '5d601d74a3a018514994f422'},511111004912,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",Caleb's Kola,,CALEBS KOLA
+{'$oid': '60074277be37ce360be63a01'},511111619826,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '60074277be37ce360be639fe'}}",test brand @1611088503776,False,TEST BRANDCODE @1611088503776
+{'$oid': '58861c7e4e8d0d20bc42c4ea'},511111401360,Beer Wine Spirits,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f709e4b03c9a25efd0f1'}}",Pilsner Urquell,False,PILSNER URQUELL
+{'$oid': '5f3e9172be37ce5a0e01b956'},511111915560,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f3e9172be37ce5a0e01b952'}}",test brand @1597935986474,,TEST BRANDCODE @1597935986474
+{'$oid': '540f241c68abd3c7065097d5'},511111602767,,,"{'$ref': 'Cpgs', '$id': {'$oid': '540f215de4b09fb9af4b49f1'}}",Prairie Farms,,
+{'$oid': '5ab13217e4b0915382df761b'},511111804321,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '5a734034e4b0d58f376be874'}}",Milano,False, MILANO
+{'$oid': '5fd3acb9be37ce0d9386bb4c'},511111618225,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fd3acb9be37ce0d9386bb4b'}}",test brand @1607707833391,False,
+{'$oid': '53501e6cb9237fd7718f9e25'},511111402800,,,"{'$ref': 'Cpgs', '$id': {'$oid': '53501d2ab9237fd7718f9e1a'}}",Palermo,,
+{'$oid': '5f208db0be37ce7958c59527'},511111815228,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f208db0be37ce7958c59526'}}",test brand @1595968944654,,
+{'$oid': '5dc07e2aa60b873d6b0666d1'},511111006305,,,"{'$ref': 'Cogs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}","General Mills ""Big G"" Cereal",,GENERAL MILLS CEREAL
+{'$oid': '5f493e73be37ce64d0ae36c7'},511111516125,Candy & Sweets,CANDY_AND_SWEETS,"{'$ref': 'Cogs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",test brand @1598635635448,,TEST BRANDCODE @1598635635448
+{'$oid': '592486bde410d61fcea3d125'},511111500896,Personal Care,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f6e4b03c9a25efd0b4'}}",CLEAR,False,CLEAR
+{'$oid': '5a5d10b5e4b06ba572cf2497'},511111700463,Beer Wine Spirits,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f709e4b03c9a25efd0f1'}}",Arnold Palmer Spiked,False,ARNOLD PALMER SPIKED HALF & HALF ORIGINAL
+{'$oid': '5fb81985be37ce522e165cdb'},511111817703,Beer Wine Spirits,BEER_WINE_SPIRITS,"{'$id': {'$oid': '5fb6d381be37ce522e165cbd'}, '$ref': 'Cogs'}",Absolut® Lime,False,ABSOLUT® LIME
+{'$oid': '5fb81718be37ce522e165cd6'},511111817659,Beer Wine Spirits,BEER_WINE_SPIRITS,"{'$id': {'$oid': '5fb6d381be37ce522e165cbd'}, '$ref': 'Cogs'}",Absolut® Juice Strawberry,False,ABSOLUT® JUICE STRAWBERRY
+{'$oid': '5fb817e8be37ce522e165cd8'},511111517672,Beer Wine Spirits,BEER_WINE_SPIRITS,"{'$id': {'$oid': '5fb6d381be37ce522e165cbd'}, '$ref': 'Cogs'}",Absolut® Original,False,ABSOLUT® ORIGINAL
+{'$oid': '5fb818abbe37ce522e165cd9'},511111717683,Beer Wine Spirits,BEER_WINE_SPIRITS,"{'$id': {'$oid': '5fb6d381be37ce522e165cbd'}, '$ref': 'Cogs'}",Absolut® Mandrin,False,ABSOLUT® MANDRIN
+{'$oid': '5fb7f9c2be37ce522e165cc8'},511111517511,Beer Wine Spirits,BEER_WINE_SPIRITS,"{'$id': {'$oid': '5fb6d381be37ce522e165cbd'}, '$ref': 'Cogs'}",Absolut® Elyx,False,ABSOLUT ELYX
+{'$oid': '5fb81796be37ce522e165cd7'},511111017660,Beer Wine Spirits,BEER_WINE_SPIRITS,"{'$id': {'$oid': '5fb6d381be37ce522e165cbd'}, '$ref': 'Cogs'}",Absolut® Juice Apple,False,ABSOLUT® JUICE APPLE
+{'$oid': '5fb7f8febe37ce522e165cc7'},511111017509,Beer Wine Spirits,BEER_WINE_SPIRITS,"{'$id': {'$oid': '5fb6d381be37ce522e165cbd'}, '$ref': 'Cogs'}",Aberlour®,False,ABERLOUR
+{'$oid': '5fb80a6bbe37ce522e165cd0'},511111317593,Beer Wine Spirits,BEER_WINE_SPIRITS,"{'$id': {'$oid': '5fb6d381be37ce522e165cbd'}, '$ref': 'Cogs'}",Jameson® Cold Brew ,False,JAMESON COLD BREW 
+{'$oid': '5fb6d68abe37ce522e165cbf'},511111817420,Beer Wine Spirits,BEER_WINE_SPIRITS,"{'$id': {'$oid': '5fb6d381be37ce522e165cbd'}, '$ref': 'Cogs'}",Jefferson’s Reserve®,False,JEFFERSON’S RESERVE
+{'$oid': '5fb6d5e4be37ce522e165cbe'},511111617419,Beer Wine Spirits,BEER_WINE_SPIRITS,"{'$id': {'$oid': '5fb6d381be37ce522e165cbd'}, '$ref': 'Cogs'}",Campo Viejo®,False,CAMPO VIEJO
+{'$oid': '5fb7e90fbe37ce522e165cc5'},511111917489,Beer Wine Spirits,BEER_WINE_SPIRITS,"{'$id': {'$oid': '5fb6d381be37ce522e165cbd'}, '$ref': 'Cogs'}",Kahlua®,False,KAHLUA
+{'$oid': '5fb7e52abe37ce522e165cc2'},511111017455,Beer Wine Spirits,BEER_WINE_SPIRITS,"{'$id': {'$oid': '5fb6d381be37ce522e165cbd'}, '$ref': 'Cogs'}",Mumm Napa®,False,MUMM NAPA 
+{'$oid': '5fb7e7aebe37ce522e165cc4'},511111717478,Beer Wine Spirits,BEER_WINE_SPIRITS,"{'$id': {'$oid': '5fb6d381be37ce522e165cbd'}, '$ref': 'Cogs'}",Malfy®,False,MALFY
+{'$oid': '5fb80e12be37ce522e165cd4'},511111117636,Beer Wine Spirits,BEER_WINE_SPIRITS,"{'$id': {'$oid': '5fb6d381be37ce522e165cbd'}, '$ref': 'Cogs'}",Malibu® Lime,False,MALIBU® LIME
+{'$oid': '5fb80e70be37ce522e165cd5'},511111317647,Beer Wine Spirits,BEER_WINE_SPIRITS,"{'$id': {'$oid': '5fb6d381be37ce522e165cbd'}, '$ref': 'Cogs'}",Malibu® Strawberry,False,MALIBU® STRAWBERRY
+{'$oid': '5fb7fae8be37ce522e165cca'},511111217534,Beer Wine Spirits,BEER_WINE_SPIRITS,"{'$id': {'$oid': '5fb6d381be37ce522e165cbd'}, '$ref': 'Cogs'}",Redbreast 12YO ,False,REDBREAST 12YO 
+{'$oid': '5f38578fbe37ce5178517ad5'},511111115434,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f38578fbe37ce5178517ad3'}}",test brand @1597527951412,,TEST BRANDCODE @1597527951412
+{'$oid': '5f441281be37ce5dbe9b7c84'},511111215820,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f441281be37ce5dbe9b7c83'}}",test brand @1598296705593,,
+{'$oid': '5a5d25b6e4b0db471c2d042c'},511111800200,Beer Wine Spirits,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f709e4b03c9a25efd0f1'}}",Sol,False,SOL
+{'$oid': '5332f807e4b03c9a25efd16f'},511111903291,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f7ffe4b03c9a25efd16b'}}",Activia,,
+{'$oid': '585a9618e4b03e62d1ce0e75'},511111201793,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",Baked!,True,
+{'$oid': '5f513ea1be37ce21f1287c06'},511111816546,Candy & Sweets,CANDY_AND_SWEETS,"{'$ref': 'Cogs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",test brand @1599159969725,,TEST BRANDCODE @1599159969725
+{'$oid': '5f4cffbba475f1050a66b574'},511111216421,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f4cffbaa475f1050a66b573'}}",test brand @1598881723241,,
+{'$oid': '57ebc2f0e4b0ac389136a34c'},511111701903,Grocery,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Wyler's,False,WYLER'S
+{'$oid': '5f7ba932be37ce2f290fb254'},511111616979,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f7ba932be37ce2f290fb251'}}",test brand @1601939762943,,TEST BRANDCODE @1601939762943
+{'$oid': '5db9e6551dda2c3e1416aea0'},511111006183,Frozen,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Fat Rabbit,,FAT RABBIT
+{'$oid': '5daf60021dda2c3e1416ae9a'},511111406068,Breakfast & Cereal,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f3e4b03c9a25efd0ae'}}",Total™,,TOTAL
+{'$oid': '5f493e72be37ce64d0ae36c1'},511111516071,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f493e72be37ce64d0ae36c0'}}",test brand @1598635634169,,
+{'$oid': '5f493dabbe37ce64d0ae36bb'},511111616023,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f493dabbe37ce64d0ae36ba'}}",test brand @1598635435829,,TEST BRANDCODE @1598635435829
+{'$oid': '55a58727e4b0d0a65b3693cd'},511111402688,,,"{'$ref': 'Cpgs', '$id': {'$oid': '55a58719e4b0d0a65b3693cc'}}",Nature's Bakery,,
+{'$oid': '5fd3ae1fbe37ce0d9386bb55'},511111118237,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fd3ae1fbe37ce0d9386bb54'}}",test brand @1607708191092,False,TEST BRANDCODE @1607708191093
+{'$oid': '5332fa75e4b03c9a25efd220'},511111503026,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5ebe4b03c9a25efd0a8'}}",Coca-Cola Zero,,
+{'$oid': '5fb80dd6be37ce522e165cd3'},511111617624,Beer Wine Spirits,BEER_WINE_SPIRITS,"{'$id': {'$oid': '5fb6d381be37ce522e165cbd'}, '$ref': 'Cogs'}",Malibu® Pineapple,False,MALIBU® PINEAPPLE
+{'$oid': '5c49d24df0276e771967371a'},511111104742,Baby,,"{'$ref': 'Cogs', '$id': {'$oid': '59b96571e4b0bf7c7980588b'}}",PURE BLISS,,PURE BLISS
+{'$oid': '5a8c36a1e4b0ccf165fac9e8'},511111604198,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '5a734034e4b0d58f376be874'}}",Royal Dansk,False,ROYAL DANSK
+{'$oid': '5f4a64e7be37ce17d23b317c'},511111416227,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f4a64e7be37ce17d23b3178'}}",test brand @1598711015578,,TEST BRANDCODE @1598711015578
+{'$oid': '57ebc13de4b0ac389136a33e'},511111402039,Dairy,,"{'$ref': 'Cpgs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",Kraft Shredded Cheese,,
+{'$oid': '57d9612be4b0ac389136a2ba'},511111402312,Frozen,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Devour,False,DEVOUR
+{'$oid': '5a8c2f7ce4b0ccf165fac9e3'},511111704096,Canned Goods & Soups,,"{'$ref': 'Cogs', '$id': {'$oid': '5a734034e4b0d58f376be874'}}",Campbell's,False,CAMPBELLS
+{'$oid': '5f16f536be37ce2b30061e26'},511111915072,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f16f535be37ce2b30061e24'}}",test brand @1595340086011,,TEST BRANDCODE @1595340086011
+{'$oid': '5a4d254ce4b0bcb2c74ea780'},511111200475,Beverages,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",STUBBORN SODA,False,STUBBORN SODA
+{'$oid': '5fb6d83cbe37ce522e165cc1'},511111517443,Beer Wine Spirits,BEER_WINE_SPIRITS,"{'$id': {'$oid': '5fb6d381be37ce522e165cbd'}, '$ref': 'Cogs'}",Avion® Silver,False,AVION
+{'$oid': '5ff74126be37ce1e961f3271'},511111318682,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ff74126be37ce1e961f326e'}}",test brand @1610039590413,False,TEST BRANDCODE @1610039590413
+{'$oid': '5ff74126be37ce1e961f326f'},511111618669,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ff74126be37ce1e961f326e'}}",test brand @1610039590349,False,TEST BRANDCODE @1610039590349
+{'$oid': '5ff74126be37ce1e961f3272'},511111818694,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ff74126be37ce1e961f326e'}}",test brand @1610039590443,False,TEST BRANDCODE @1610039590443
+{'$oid': '5ff744ffbe37ce1e961f3275'},511111918714,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ff744ffbe37ce1e961f3274'}}",test brand @1610040575410,False,
+{'$oid': '5ff74126be37ce1e961f3270'},511111118671,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ff74126be37ce1e961f326e'}}",test brand @1610039590383,False,TEST BRANDCODE @1610039590383
+{'$oid': '5ff74126be37ce1e961f3273'},511111418702,Candy & Sweets,CANDY_AND_SWEETS,"{'$ref': 'Cogs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",test brand @1610039590990,False,TEST BRANDCODE @1610039590990
+{'$oid': '5ffe3686be37ce5e01754c5e'},511111719441,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ffe3686be37ce5e01754c5d'}}",test brand @1610495622485,False,TEST BRANDCODE @1610495622485
+{'$oid': '5ffe3a86be37ce7aab2d4fd5'},511111619499,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ffe3a85be37ce7aab2d4fd4'}}",test brand @1610496646103,False,TEST BRANDCODE @1610496646104
+{'$oid': '5ffe3686be37ce5e01754c5f'},511111219453,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ffe3686be37ce5e01754c5d'}}",test brand @1610495622510,False,TEST BRANDCODE @1610495622510
+{'$oid': '5ffe3687be37ce5e01754c62'},511111119487,Candy & Sweets,CANDY_AND_SWEETS,"{'$ref': 'Cogs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",test brand @1610495623019,False,TEST BRANDCODE @1610495623019
+{'$oid': '5ffe3686be37ce5e01754c60'},511111419464,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ffe3686be37ce5e01754c5d'}}",test brand @1610495622536,False,TEST BRANDCODE @1610495622536
+{'$oid': '5ffe3686be37ce5e01754c61'},511111919476,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ffe3686be37ce5e01754c5d'}}",test brand @1610495622560,False,TEST BRANDCODE @1610495622560
+{'$oid': '5e5ff158ee7f2d0b35b2a18d'},511111214038,Health & Wellness,HEALTHY_AND_WELLNESS,"{'$ref': 'Cogs', '$id': {'$oid': '5d9b4f591dda2c6225a284aa'}}",ONE A DAY®,False,ONE A DAY
+{'$oid': '5332fa77e4b03c9a25efd225'},511111803003,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5ebe4b03c9a25efd0a8'}}",Cherry Coke,,
+{'$oid': '5d659490a3a018514994f433'},511111705239,Magazines,,"{'$ref': 'Cogs', '$id': {'$oid': '5d5d4fd16d5f3b23d1bc7905'}}",Happy Paws,,511111705239
+{'$oid': '5e710da7ee7f2d0b35b2a191'},511111614074,Dairy & Refrigerated,DAIRY_AND_REFRIGERATED,"{'$ref': 'Cogs', '$id': {'$oid': '5e5ea9cc9c50da1291a6d074'}}",COUNTRY CROCK ORIGINAL,,COUNTRY CROCK ORIGINAL
+{'$oid': '592486bee410d61fcea3d12c'},511111900825,Condiments & Sauces,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f6e4b03c9a25efd0b4'}}",Mayo by HELLMANN'S/BEST FOODS,False,HELLMANN'S/BEST FOODS
+{'$oid': '5f38578fbe37ce5178517ad4'},511111615422,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f38578fbe37ce5178517ad3'}}",test brand @1597527951382,,TEST BRANDCODE @1597527951382
+{'$oid': '5f772952be37ce6b592e90d4'},511111516798,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f772951be37ce6b592e90d1'}}",test brand @1601644882040,,TEST BRANDCODE @1601644882040
+{'$oid': '5f385790be37ce5178517ad8'},511111015468,Candy & Sweets,CANDY_AND_SWEETS,"{'$ref': 'Cogs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",test brand @1597527952048,,TEST BRANDCODE @1597527952048
+{'$oid': '5f4a650bbe37ce17d23b317f'},511111116240,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f4a650bbe37ce17d23b317e'}}",test brand @1598711051957,,
+{'$oid': '5f43faadbe37ce3ef3fd371b'},511111715764,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f43faadbe37ce3ef3fd371a'}}",test brand @1598290605359,,
+{'$oid': '5f208dafbe37ce7958c59525'},511111615217,Candy & Sweets,CANDY_AND_SWEETS,"{'$ref': 'Cogs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",test brand @1595968943787,,TEST BRANDCODE @1595968943787
+{'$oid': '592486bfe410d61fcea3d13c'},511111200680,Frozen,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f6e4b03c9a25efd0b4'}}",TALENTI,False,TALENTI
+{'$oid': '5f493e72be37ce64d0ae36c3'},511111716082,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f493e72be37ce64d0ae36c2'}}",test brand @1598635634767,,TEST BRANDCODE @1598635634767
+{'$oid': '5da6097ea60b87376833e358'},511111305842,Health & Wellness,,"{'$ref': 'Cogs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",ONE A DAY® VITACRAVES ADULT MULTIVITAMINS,,511111305842
+{'$oid': '58b59950e4b0857c2ddb7254'},511111601005,Beer Wine Spirits,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f709e4b03c9a25efd0f1'}}",Red Dog,,RED DOG
+{'$oid': '58861c7e4e8d0d20bc42c4ee'},511111201359,Beer Wine Spirits,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f709e4b03c9a25efd0f1'}}",Smith & Forge Hard Cider,False,SMITH & FORGE
+{'$oid': '5a5e34fee4b0db471c2d0436'},511111200031,Beverages,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",LIPTON Iced Tea Beverages,False,LIPTON Iced Tea Beverages
+{'$oid': '585a96f5e4b03e62d1ce0e8d'},511111201564,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",Ruffles,,RUFFLES
+{'$oid': '5ab13165e4b0be0a89bb0b03'},511111604310,Beverages,,"{'$ref': 'Cogs', '$id': {'$oid': '5a734034e4b0d58f376be874'}}",V8 Plus Energy,False,V8 PLUS ENERGY 
+{'$oid': '5afda618e4b0c11cfecd49fa'},511111804550,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '5a734034e4b0d58f376be874'}}",POP SECRET,False,POP SECRET
+{'$oid': '5f7ba933be37ce2f290fb256'},511111316992,Candy & Sweets,CANDY_AND_SWEETS,"{'$ref': 'Cogs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",test brand @1601939763539,,TEST BRANDCODE @1601939763539
+{'$oid': '5332f800e4b03c9a25efd16c'},511111203322,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f7ffe4b03c9a25efd16b'}}",Fruit on the Bottom,,
+{'$oid': '5887a0fde4b02187f85cdad1'},511111801191,Beverages,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Capri Sun,False,CAPRI SUN
+{'$oid': '5a5d1acce4b0db471c2d0421'},511111100416,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",NUT HARVEST,,NUT HARVEST
+{'$oid': '5f4cff1ba475f1050a66b569'},511111916390,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f4cff1aa475f1050a66b566'}}",test brand @1598881563437,,TEST BRANDCODE @1598881563437
+{'$oid': '57c0810fe4b0718ff5fcb02d'},511111902539,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5f2e4b03c9a25efd0aa'}}",Famous Amos,,
+{'$oid': '5f628215be37ce78e6e2efac'},511111216650,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f628214be37ce78e6e2efaa'}}",test brand @1600291349208,,TEST BRANDCODE @1600291349208
+{'$oid': '53501d2ab9237fd7718f9e19'},511111102823,,,"{'$ref': 'Cpgs', '$id': {'$oid': '53501d2ab9237fd7718f9e18'}}",Emils,,
+{'$oid': '5b184cdbe4b0d159a5b66e2b'},511111204596,Beer Wine Spirits,,"{'$ref': 'Cogs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",Henry Weinhard's,,HENRY WEINHARDS
+{'$oid': '5f504ac3be37ce0b793c9416'},511111116479,Candy & Sweets,CANDY_AND_SWEETS,"{'$ref': 'Cogs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",test brand @1599097539366,,TEST BRANDCODE @1599097539367
+{'$oid': '5d6415b3a3a018514994f428'},511111905035,Magazines,,"{'$ref': 'Cogs', '$id': {'$oid': '5d5d4fd16d5f3b23d1bc7905'}}",People Special Edition Magazine,,511111905035
+{'$oid': '5dc07880a60b873d6b0666cf'},511111706274,Breakfast & Cereal,,"{'$ref': 'Cogs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",Fruity Cheerios™,,FRUITY CHEERIOS
+{'$oid': '5da608821dda2c3e1416ae8c'},511111905752,Health & Wellness,,"{'$ref': 'Cogs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",Flintstones™ MULTIVITAMIN GUMMY,,FLINTSTONES MULTIVITAMIN GUMMY
+{'$oid': '57e58166e4b0ac389136a30b'},511111102267,Beer Wine Spirits,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f709e4b03c9a25efd0f1'}}",Foster's,False,FOSTER'S
+{'$oid': '5d5411eda3a018514994f420'},511111904892,Condiments & Sauces,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",F. Whitlock & Sons BBQ Sauce,,F WHITLOCK AND SONS
+{'$oid': '5ff75cdfbe37ce1e961f328f'},511111318804,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ff75cdebe37ce1e961f328c'}}",test brand @1610046687007,False,TEST BRANDCODE @1610046687007
+{'$oid': '5ff75cdfbe37ce1e961f3290'},511111818816,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ff75cdebe37ce1e961f328c'}}",test brand @1610046687035,False,TEST BRANDCODE @1610046687035
+{'$oid': '5ff75cdebe37ce1e961f328e'},511111718796,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ff75cdebe37ce1e961f328c'}}",test brand @1610046686980,False,TEST BRANDCODE @1610046686980
+{'$oid': '5f504ac2be37ce0b793c9414'},511111416456,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f504ac2be37ce0b793c9411'}}",test brand @1599097538571,,TEST BRANDCODE @1599097538572
+{'$oid': '5e710dd5ee7f2d0b35b2a193'},511111314097,Dairy & Refrigerated,DAIRY_AND_REFRIGERATED,"{'$ref': 'Cogs', '$id': {'$oid': '5e5ea9cc9c50da1291a6d074'}}",I CAN'T BELIEVE IT'S NOT BUTTER!,,I CAN'T BELIEVE IT'S NOT BUTTER
+{'$oid': '5fcff304be37ce6d53dfc686'},511111118008,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fcff304be37ce6d53dfc683'}}",test brand @1607463684777,False,TEST BRANDCODE @1607463684777
+{'$oid': '585a961fe4b03e62d1ce0e76'},511111701781,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",Baken-Ets,True,BAKEN-ETS
+{'$oid': '5daf472da60b87376833e35e'},511111405979,Dairy,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f3e4b03c9a25efd0ae'}}",LIBERTÉ®,,LIBERTE
+{'$oid': '5dc076e41dda2c0ad7da64ab'},511111006251,Breakfast & Cereal,,"{'$ref': 'Cogs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",Apple Cinnamon Cheerios™,,APPLE CINNAMON CHEERIOS
+{'$oid': '5a5d2695e4b0db471c2d042d'},511111700180,Beer Wine Spirits,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f709e4b03c9a25efd0f1'}}",St. Stefanus,,ST STEFANUS
+{'$oid': '5332f5ebe4b03c9a25efd0a7'},511111304050,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5ebe4b03c9a25efd0a8'}}",Monster,,
+{'$oid': '585a9653e4b03e62d1ce0e7b'},511111101734,Beverages,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",Dole Chilled Fruit Juices,False,DOLE CHILLED FRUIT JUICES
+{'$oid': '5f35a0bcbe37ce6853cff20b'},511111915409,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f35a0bcbe37ce6853cff20a'}}",test brand @1597350076586,,
+{'$oid': '5332f70ee4b03c9a25efd0f7'},511111703822,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5f3e4b03c9a25efd0ae'}}",Haagen-Dazs,,
+{'$oid': '592486bfe410d61fcea3d13a'},511111700692,Personal Care,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f6e4b03c9a25efd0b4'}}",SUAVE,False,SUAVE
+{'$oid': '57ebbed8e4b0ac389136a32e'},511111402190,Condiments & Sauces,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Classico,False,CLASSICO
+{'$oid': '57c08275e4b0718ff5fcb036'},511111402473,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f7a7e4b03c9a25efd134'}}",Brahma,,
+{'$oid': '5fb82a34be37ce522e165ce5'},511111717805,Grocery,GROCERY,"{'$ref': 'Cogs', '$id': {'$oid': '5fb6b608be37ce522e165cb9'}}",Stroehmann,False,STROEHMANN
+{'$oid': '5d66d9016d5f3b6188d4f04a'},511111305354,Beverages,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",Bubly Sparkling Water,False,BUBLY
+{'$oid': '5ab152fae4b0be0a89bb0b05'},511111004356,Grocery,,"{'$ref': 'Cogs', '$id': {'$oid': '5a734034e4b0d58f376be874'}}",1915 Bolthouse Farms,False,1915 BOLTHOUSE FARMS
+{'$oid': '5ff75cdfbe37ce1e961f3291'},511111018827,Candy & Sweets,CANDY_AND_SWEETS,"{'$ref': 'Cogs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",test brand @1610046687624,False,TEST BRANDCODE @1610046687624
+{'$oid': '5ff75cdebe37ce1e961f328d'},511111218784,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ff75cdebe37ce1e961f328c'}}",test brand @1610046686954,False,TEST BRANDCODE @1610046686954
+{'$oid': '5ff768d4be37ce1e961f329a'},511111518839,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ff768d4be37ce1e961f3299'}}",test brand @1610049748078,False,TEST BRANDCODE @1610049748079
+{'$oid': '5e5ff32bee7f2d0b35b2a190'},511111114062,Health & Wellness,HEALTHY_AND_WELLNESS,"{'$ref': 'Cogs', '$id': {'$oid': '5d9b4f591dda2c6225a284aa'}}",MIRALAX®LAXATIVES,False,MIRALAX LAXATIVES
+{'$oid': '5fd3ae1fbe37ce0d9386bb56'},511111318248,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fd3ae1fbe37ce0d9386bb54'}}",test brand @1607708191128,False,TEST BRANDCODE @1607708191128
+{'$oid': '5fd3ae1fbe37ce0d9386bb57'},511111818250,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fd3ae1fbe37ce0d9386bb54'}}",test brand @1607708191160,False,TEST BRANDCODE @1607708191160
+{'$oid': '5fd3ae1fbe37ce0d9386bb58'},511111018261,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fd3ae1fbe37ce0d9386bb54'}}",test brand @1607708191197,False,TEST BRANDCODE @1607708191197
+{'$oid': '5fd3ae1fbe37ce0d9386bb59'},511111518273,Candy & Sweets,CANDY_AND_SWEETS,"{'$ref': 'Cogs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",test brand @1607708191721,False,TEST BRANDCODE @1607708191721
+{'$oid': '5fd3ae20be37ce0d9386bb5b'},511111718284,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fd3ae20be37ce0d9386bb5a'}}",test brand @1607708192160,False,
+{'$oid': '5fff3aa0be37ce2bb793011a'},511111519591,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fff3aa0be37ce2bb7930116'}}",test brand @1610562208718,False,TEST BRANDCODE @1610562208718
+{'$oid': '6000a0c6be37ce2bb793011d'},511111619611,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '6000a0c6be37ce2bb793011c'}}",test brand @1610653894219,False,TEST BRANDCODE @1610653894219
+{'$oid': '5fff3aa0be37ce2bb7930117'},511111319566,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fff3aa0be37ce2bb7930116'}}",test brand @1610562208600,False,TEST BRANDCODE @1610562208600
+{'$oid': '5fff3aa0be37ce2bb7930118'},511111819578,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fff3aa0be37ce2bb7930116'}}",test brand @1610562208645,False,TEST BRANDCODE @1610562208645
+{'$oid': '5fff3aa1be37ce2bb793011b'},511111119609,Candy & Sweets,CANDY_AND_SWEETS,"{'$ref': 'Cogs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",test brand @1610562209325,False,TEST BRANDCODE @1610562209325
+{'$oid': '5fff3aa0be37ce2bb7930119'},511111019589,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fff3aa0be37ce2bb7930116'}}",test brand @1610562208680,False,TEST BRANDCODE @1610562208680
+{'$oid': '6000b8c3be37ce321363c6c3'},511111019701,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '6000b8c3be37ce321363c6bf'}}",test brand @1610660035827,False,TEST BRANDCODE @1610660035827
+{'$oid': '6000b8c3be37ce321363c6c2'},511111419693,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '6000b8c3be37ce321363c6bf'}}",test brand @1610660035788,False,TEST BRANDCODE @1610660035788
+{'$oid': '6000b8c4be37ce321363c6c4'},511111519713,Candy & Sweets,CANDY_AND_SWEETS,"{'$ref': 'Cogs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",test brand @1610660036398,False,TEST BRANDCODE @1610660036398
+{'$oid': '60019b82be37ce4f17e558d2'},511111219736,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '60019b82be37ce4f17e558d1'}}",test brand @1610718082493,False,TEST BRANDCODE @1610718082494
+{'$oid': '585a973ee4b03e62d1ce0e97'},511111801474,Beverages,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",Tropicana Trop 50,False,
+{'$oid': '552ecc9be4b02ff29f99b214'},511111702733,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5459429be4b0bfcb1e864082'}}",Valu Time,,
+{'$oid': '580dffa7e4b0f32b2de21383'},511111201847,Frozen,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",TGI Fridays,False,T.G.I. FRIDAY'S
+{'$oid': '5a5d1d71e4b06ba572cf249c'},511111600350,Beer Wine Spirits,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f709e4b03c9a25efd0f1'}}",Cusquena,,CUSQUENA
+{'$oid': '5fb6b6e1be37ce522e165cbb'},511111517399,Bread & Bakery,BREAD_AND_BAKERY,"{'$ref': 'Cogs', '$id': {'$oid': '5fb6b608be37ce522e165cb9'}}",Arnold ,False,ARNOLD
+{'$oid': '57ebc188e4b0ac389136a343'},511111001997,Beverages,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",McCafé,False,MC CAFE
+{'$oid': '5afda307e4b03bf01c2a2966'},511111404514,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '5a734034e4b0d58f376be874'}}",O-Ke-Doke,False,O-KE-DOKE
+{'$oid': '5fcda494be37ce688e08b0ce'},511111517955,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fcda494be37ce688e08b0cb'}}",test brand @1607312532260,False,TEST BRANDCODE @1607312532260
+{'$oid': '5da606c61dda2c3e1416ae87'},511111505648,Health & Wellness,,"{'$ref': 'Cogs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",ALKA SELTZER® ADULT HEARTBURN CHEWS/ GUMMY/ TAB,,ALKA SELTZER ADULT HEARTBURN CHEWS/ GUMMY/ TAB
+{'$oid': '5f19e054be37ce33f74a1672'},511111615149,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f19e054be37ce33f74a166e'}}",test brand @1595531348450,,TEST BRANDCODE @1595531348450
+{'$oid': '5f493dabbe37ce64d0ae36be'},511111816058,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f493dabbe37ce64d0ae36ba'}}",test brand @1598635435926,,TEST BRANDCODE @1598635435926
+{'$oid': '5fd29590be37ce38bbbefb26'},511111018056,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fd29590be37ce38bbbefb25'}}",test brand @1607636368135,False,TEST BRANDCODE @1607636368136
+{'$oid': '5f493d85be37ce64d0ae36b2'},511111416012,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f493d85be37ce64d0ae36b1'}}",test brand @1598635397611,,
+{'$oid': '58861c7f4e8d0d20bc42c4fb'},511111201281,Breakfast & Cereal,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",Quaker Oatmeal Squares,False,
+{'$oid': '5dd59806a60b870fc613f7ca'},511111806387,Breakfast & Cereal,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f3e4b03c9a25efd0ae'}}",Oatmeal Crisp™ Cereal,,OATMEAL CRISP
+{'$oid': '58861c7e4e8d0d20bc42c4e4'},511111101383,Beer Wine Spirits,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f709e4b03c9a25efd0f1'}}",Milwaukee's Best Light,,
+{'$oid': '5ff3842abe37ce2c56dacbac'},511111818533,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ff3842abe37ce2c56dacbab'}}",test brand @1609794602668,False,
+{'$oid': '5ff3842bbe37ce2c56dacbaf'},511111518556,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ff3842bbe37ce2c56dacbad'}}",test brand @1609794603283,False,TEST BRANDCODE @1609794603283
+{'$oid': '5ec2dd58be37ce5234ec36b9'},511111614630,Health & Wellness,HEALTHY_AND_WELLNESS,"{'$ref': 'Cogs', '$id': {'$oid': '5d9b4f591dda2c6225a284aa'}}",Phillips'®Digestive,False,PHILLIPS'®DIGESTIVE
+{'$oid': '6000b8c3be37ce321363c6c1'},511111919681,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '6000b8c3be37ce321363c6bf'}}",test brand @1610660035741,False,TEST BRANDCODE @1610660035741
+{'$oid': '6000b8c4be37ce321363c6c6'},511111719724,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '6000b8c4be37ce321363c6c5'}}",test brand @1610660036852,False,
+{'$oid': '5ff3842bbe37ce2c56dacbae'},511111018544,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ff3842bbe37ce2c56dacbad'}}",test brand @1609794603236,False,TEST BRANDCODE @1609794603237
+{'$oid': '5ff3842bbe37ce2c56dacbb1'},511111218579,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ff3842bbe37ce2c56dacbad'}}",test brand @1609794603367,False,TEST BRANDCODE @1609794603367
+{'$oid': '5ff3842bbe37ce2c56dacbb0'},511111718567,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ff3842bbe37ce2c56dacbad'}}",test brand @1609794603327,False,TEST BRANDCODE @1609794603327
+{'$oid': '5ff3842bbe37ce2c56dacbb2'},511111418580,Candy & Sweets,CANDY_AND_SWEETS,"{'$ref': 'Cogs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",test brand @1609794603941,False,TEST BRANDCODE @1609794603942
+{'$oid': '5ff73cf9be37ce1e961f3257'},511111918592,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ff73cf9be37ce1e961f3256'}}",test brand @1610038521409,False,TEST BRANDCODE @1610038521409
+{'$oid': '60019b82be37ce4f17e558d3'},511111419747,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '60019b82be37ce4f17e558d1'}}",test brand @1610718082601,False,TEST BRANDCODE @1610718082601
+{'$oid': '60019b83be37ce4f17e558d6'},511111619772,Candy & Sweets,CANDY_AND_SWEETS,"{'$ref': 'Cogs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",test brand @1610718083279,False,TEST BRANDCODE @1610718083279
+{'$oid': '60074261be37ce360be639f6'},511111319795,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '60074260be37ce360be639f5'}}",test brand @1611088480964,False,
+{'$oid': '60019b82be37ce4f17e558d5'},511111119760,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '60019b82be37ce4f17e558d1'}}",test brand @1610718082685,False,TEST BRANDCODE @1610718082685
+{'$oid': '60019b83be37ce4f17e558d8'},511111819783,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '60019b83be37ce4f17e558d7'}}",test brand @1610718083421,False,
+{'$oid': '60019b82be37ce4f17e558d4'},511111919759,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '60019b82be37ce4f17e558d1'}}",test brand @1610718082644,False,TEST BRANDCODE @1610718082644
+{'$oid': '5ff8b5febe37ce4a13986614'},511111319122,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ff8b5febe37ce4a13986613'}}",test brand @1610135038186,False,
+{'$oid': '5ff8b5fcbe37ce4a13986612'},511111119111,Candy & Sweets,CANDY_AND_SWEETS,"{'$ref': 'Cogs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",test brand @1610135036684,False,TEST BRANDCODE @1610135036684
+{'$oid': '5ffe2df8be37ce5e01754c20'},511111919193,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ffe2df8be37ce5e01754c1f'}}",test brand @1610493432606,False,
+{'$oid': '5ffe2e38be37ce5e01754c22'},511111519201,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ffe2e38be37ce5e01754c21'}}",test brand @1610493496943,False,TEST BRANDCODE @1610493496943
+{'$oid': '5ffe2ca1be37ce5e01754c0e'},511111219170,Candy & Sweets,CANDY_AND_SWEETS,"{'$ref': 'Cogs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",test brand @1610493089082,False,TEST BRANDCODE @1610493089082
+{'$oid': '5ff8b5fbbe37ce4a13986610'},511111019091,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ff8b5fbbe37ce4a1398660d'}}",test brand @1610135035614,False,TEST BRANDCODE @1610135035614
+{'$oid': '5ffe2ce0be37ce5e01754c17'},511111419181,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ffe2ce0be37ce5e01754c16'}}",test brand @1610493152468,False,
+{'$oid': '5ff8b5fbbe37ce4a13986611'},511111619109,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ff8b5fbbe37ce4a1398660d'}}",test brand @1610135035679,False,TEST BRANDCODE @1610135035679
+{'$oid': '5ff8b5fbbe37ce4a1398660f'},511111519089,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ff8b5fbbe37ce4a1398660d'}}",test brand @1610135035546,False,TEST BRANDCODE @1610135035546
+{'$oid': '5ffe2ca0be37ce5e01754c0a'},511111819134,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ffe2ca0be37ce5e01754c09'}}",test brand @1610493088286,False,TEST BRANDCODE @1610493088287
+{'$oid': '5ffe2ca0be37ce5e01754c0c'},511111519157,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ffe2ca0be37ce5e01754c09'}}",test brand @1610493088459,False,TEST BRANDCODE @1610493088459
+{'$oid': '5ffe2ca0be37ce5e01754c0b'},511111019145,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ffe2ca0be37ce5e01754c09'}}",test brand @1610493088421,False,TEST BRANDCODE @1610493088421
+{'$oid': '5ffe2ca0be37ce5e01754c0d'},511111719168,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ffe2ca0be37ce5e01754c09'}}",test brand @1610493088494,False,TEST BRANDCODE @1610493088494
+{'$oid': '5ff789d5be37ce786ba0f6a9'},511111819066,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ff789d5be37ce786ba0f6a8'}}",test brand @1610058197026,False,
+{'$oid': '5ff789c5be37ce786ba0f6a6'},511111119043,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ff789c5be37ce786ba0f6a2'}}",test brand @1610058181760,False,TEST BRANDCODE @1610058181760
+{'$oid': '5ff8b5fbbe37ce4a1398660e'},511111319078,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ff8b5fbbe37ce4a1398660d'}}",test brand @1610135035331,False,TEST BRANDCODE @1610135035332
+{'$oid': '5ff789c6be37ce786ba0f6a7'},511111619055,Candy & Sweets,CANDY_AND_SWEETS,"{'$ref': 'Cogs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",test brand @1610058182453,False,TEST BRANDCODE @1610058182453
+{'$oid': '5ff789c5be37ce786ba0f6a4'},511111419020,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ff789c5be37ce786ba0f6a2'}}",test brand @1610058181682,False,TEST BRANDCODE @1610058181682
+{'$oid': '5ff789c5be37ce786ba0f6a5'},511111919032,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ff789c5be37ce786ba0f6a2'}}",test brand @1610058181719,False,TEST BRANDCODE @1610058181719
+{'$oid': '5dc07bee1dda2c0ad7da64ac'},511111906285,Breakfast & Cereal,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f3e4b03c9a25efd0ae'}}",Hershey's™ Cereal,,HERSHEYS CEREAL
+{'$oid': '5f441280be37ce5dbe9b7c7f'},511111415787,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f441280be37ce5dbe9b7c7d'}}",test brand @1598296704728,,TEST BRANDCODE @1598296704728
+{'$oid': '58861c7e4e8d0d20bc42c4f5'},511111701347,Beverages,,"{'$ref': 'Cogs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",Amp Energy,False,AMP
+{'$oid': '5332f754e4b03c9a25efd112'},511111003755,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5ebe4b03c9a25efd0a8'}}",Fuze,,
+{'$oid': '5d66d6a2a3a018093ab34727'},511111905318,Magazines,,"{'$ref': 'Cogs', '$id': {'$oid': '5d5d4fd16d5f3b23d1bc7905'}}",Eat This Not That Magazine,,511111905318
+{'$oid': '592486bde410d61fcea3d120'},511111500940,Personal Care,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f6e4b03c9a25efd0b4'}}",AXE,False,AXE
+{'$oid': '5f493dabbe37ce64d0ae36bc'},511111116035,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f493dabbe37ce64d0ae36ba'}}",test brand @1598635435855,,TEST BRANDCODE @1598635435855
+{'$oid': '5fc54c0ebe37ce1911dbb3b6'},511111617907,Candy & Sweets,CANDY_AND_SWEETS,"{'$ref': 'Cogs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",test brand @1606765582946,False,TEST BRANDCODE @1606765582946
+{'$oid': '5332f712e4b03c9a25efd0f8'},511111503811,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f712e4b03c9a25efd0f9'}}",Kemps,,
+{'$oid': '5332f70ae4b03c9a25efd0f4'},511111203834,Beverages,,"{'$ref': 'Cpgs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",Barmen,,
+{'$oid': '5f7ba678be37ce23081c5297'},511111216933,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f7ba678be37ce23081c5296'}}",test brand @1601939064752,,
+{'$oid': '5c6d51d695144c607914426f'},511111806509,Breakfast & Cereal,,"{'$ref': 'Cogs', '$id': {'$oid': '5c6d516795144c607914426e'}}",alexa-o's,True,ALEXA-O'S
+{'$oid': '5332f5f4e4b03c9a25efd0af'},511111904014,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5f2e4b03c9a25efd0aa'}}",Frosted Mini-Wheats,,
+{'$oid': '5da607ef1dda2c3e1416ae89'},511111005704,Health & Wellness,,"{'$ref': 'Cogs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",Bayer® ASPRIN TAB/ CAPS/ CHEWS,,511111005704
+{'$oid': '5f99f720be37ce13da9eaded'},511111017172,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f99f720be37ce13da9eadec'}}",test brand @1603925792078,,
+{'$oid': '5d6417dda3a018514994f42a'},511111805069,Magazines,,"{'$ref': 'Cogs', '$id': {'$oid': '5d5d4fd16d5f3b23d1bc7905'}}",InStyle,,511111805069
+{'$oid': '57e581dfe4b0ac389136a30e'},511111402244,Beer Wine Spirits,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f709e4b03c9a25efd0f1'}}",Steel Reserve,False,STEEL RESERVE
+{'$oid': '5d603430a3a018514994f423'},511111904946,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",Pop Works & Company Popcorn,,POP WORKS & COMPANY
+{'$oid': '5a4d2489e4b0d5c3fd86b67a'},511111900498,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",SABRITONES,,SABRITONES
+{'$oid': '5d66def56d5f3b6188d4f052'},511111205456,Magazines,,"{'$ref': 'Cogs', '$id': {'$oid': '5d5d4fd16d5f3b23d1bc7905'}}",TIME Special Edition Magazine,,511111205456
+{'$oid': '5a5d1ef1e4b0db471c2d0426'},511111200314,Grocery,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",SURE-JELL,False,SURE-JELL
+{'$oid': '5a5d26c7e4b06ba572cf24a5'},511111500179,Beer Wine Spirits,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f709e4b03c9a25efd0f1'}}",Terrapin,,TERRAPIN
+{'$oid': '588ba164e4b02187f85cdadf'},511111501053,Frozen,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Smart Made,False,SMART MADE
+{'$oid': '5f872bd4be37ce66db5dd983'},511111417057,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f872bd3be37ce66db5dd982'}}",test brand @1602694099888,,
+{'$oid': '5d6415a26d5f3b23d1bc790b'},511111405023,Magazines,,"{'$ref': 'Cogs', '$id': {'$oid': '5d5d4fd16d5f3b23d1bc7905'}}",Coastal Living Magazine,,511111405023
+{'$oid': '5a8c5ee7e4b07f0a2dac8948'},511111404231,Personal Care,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f6e4b03c9a25efd0b4'}}",LOVE BEAUTY AND PLANET,False,LOVE BEAUTY AND PLANET
+{'$oid': '5daf2a6b1dda2c3e1416ae91'},511111005865,Health & Wellness,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f3e4b03c9a25efd0ae'}}",Protein One™,,PROTEIN ONE
+{'$oid': '5332f753e4b03c9a25efd110'},511111203766,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5ebe4b03c9a25efd0a8'}}",Sugar Free NOS,,
+{'$oid': '5d66e03f6d5f3b6188d4f054'},511111605492,Magazines,,"{'$ref': 'Cogs', '$id': {'$oid': '5d5d4fd16d5f3b23d1bc7905'}}",Yoga Journal Magazine,,511111605492
+{'$oid': '5ea07e02be37ce3e45b6a781'},511111414551,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5ea07defbe37ce3e45b6a780'}}",Show this Brand A,,
+{'$oid': '585a9707e4b03e62d1ce0e90'},511111501541,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",Smartfood Selects,,
+{'$oid': '5f99f71bbe37ce13da9eade8'},511111617136,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f99f71bbe37ce13da9eade6'}}",test brand @1603925787381,,TEST BRANDCODE @1603925787381
+{'$oid': '57ebc02be4b0ac389136a339'},511111002086,Beverages,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Kool-Aid,False,KOOL-AID
+{'$oid': '5332f5f5e4b03c9a25efd0b1'},511111203995,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5ebe4b03c9a25efd0a8'}}",Minute Maid,,
+{'$oid': '5f7ba645be37ce23081c528b'},511111416890,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f7ba644be37ce23081c5289'}}",test brand @1601939013241,,TEST BRANDCODE @1601939013241
+{'$oid': '58861c7d4e8d0d20bc42c4d7'},511111401438,Grocery,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Velveeta Shells,False,
+{'$oid': '5332f7b5e4b03c9a25efd141'},511111803447,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f7a7e4b03c9a25efd134'}}",Margaritaville,,
+{'$oid': '5f403232be37ce5f78d9ed1b'},511111615705,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f403232be37ce5f78d9ed1a'}}",test brand @1598042674677,,
+{'$oid': '5fb81ab9be37ce522e165cdc'},511111317715,Beer Wine Spirits,BEER_WINE_SPIRITS,"{'$id': {'$oid': '5fb6d381be37ce522e165cbd'}, '$ref': 'Cogs'}",Absolut® Citron,False,ABSOLUT® CITRON
+{'$oid': '5fb7fa35be37ce522e165cc9'},511111717522,Beer Wine Spirits,BEER_WINE_SPIRITS,"{'$id': {'$oid': '5fb6d381be37ce522e165cbd'}, '$ref': 'Cogs'}",Avion® R44,False,AVION R44
+{'$oid': '5332fa79e4b03c9a25efd227'},511111102984,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5ebe4b03c9a25efd0a8'}}",Caffeine-free Coca-Cola,,
+{'$oid': '5fd2a0bfbe37ce49eb72c0f2'},511111418146,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fd2a0bfbe37ce49eb72c0ef'}}",test brand @1607639231710,False,TEST BRANDCODE @1607639231710
+{'$oid': '53501d2ab9237fd7718f9e1b'},511111902812,,,"{'$ref': 'Cpgs', '$id': {'$oid': '53501d2ab9237fd7718f9e1a'}}",Screamin Sicilian,,
+{'$oid': '5a5d239de4b0db471c2d042a'},511111900269,Beer Wine Spirits,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f709e4b03c9a25efd0f1'}}",Miller Fortune,,MILLER FORTUNE
+{'$oid': '592486bee410d61fcea3d131'},511111900771,Personal Care,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f6e4b03c9a25efd0b4'}}",LEVER 2000,False,LEVER 2000
+{'$oid': '5da603a71dda2c3e1416ae82'},511111105558,Baby,BABY,"{'$ref': 'Cogs', '$id': {'$oid': '5d9b4f591dda2c6225a284aa'}}",A+D®,False,A+D
+{'$oid': '5db3288aee7f2d6de4248977'},511111312949,Baby,,"{'$ref': 'Cogs', '$id': {'$oid': '550b2565e4b001d5e9e4146f'}}",Pull-Ups,True,PULLUPS
+{'$oid': '5f5bc4f1be37ce17125ac0e7'},511111216582,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f5bc4f1be37ce17125ac0e6'}}",test brand @1599849713170,,
+{'$oid': '5fc54c0abe37ce1911dbb3b2'},511111817864,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fc54c0abe37ce1911dbb3b1'}}",test brand @1606765578434,False,TEST BRANDCODE @1606765578435
+{'$oid': '5332f5fbe4b03c9a25efd0bb'},511111003960,Beverages,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",Mountain Dew,False,MOUNTAIN DEW
+{'$oid': '57ebc12ce4b0ac389136a33c'},511111102052,Condiments & Sauces,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Kraft Mayo,False,
+{'$oid': '585a9720e4b03e62d1ce0e94'},511111101505,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",Sun Chips,,SUN CHIPS
+{'$oid': '5f4bf557be37ce0b4491554e'},511111716365,Candy & Sweets,CANDY_AND_SWEETS,"{'$ref': 'Cogs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",test brand @1598813527796,,TEST BRANDCODE @1598813527796
+{'$oid': '592486bfe410d61fcea3d138'},511111800712,Beverages,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f6e4b03c9a25efd0b4'}}",PURE LEAF Tea Leaves,False,PURE LEAF Tea Leaves
+{'$oid': '5887a320e4b02187f85cdad8'},511111201120,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Corn Nuts,False,CORN NUTS
+{'$oid': '57d95753e4b0ac389136a2b3'},511111702382,Dairy,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Breakstone's,False,BREAKSTONE'S
+{'$oid': '5a5d263ee4b06ba572cf24a4'},511111200192,Beer Wine Spirits,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f709e4b03c9a25efd0f1'}}",Sparks,False,SPARKS
+{'$oid': '5f4a7a5dbe37ce2d95e65ca2'},511111316275,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f4a7a5bbe37ce2d95e65c9f'}}",test brand @1598716509357,,TEST BRANDCODE @1598716509358
+{'$oid': '5887a143e4b02187f85cdad2'},511111301189,Beverages,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Maxwell House,False,MAXWELL HOUSE
+{'$oid': '5332f7b5e4b03c9a25efd142'},511111603436,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f7a7e4b03c9a25efd134'}}",Beck's,,
+{'$oid': '5f5bc4f2be37ce17125ac0ed'},511111516637,Candy & Sweets,CANDY_AND_SWEETS,"{'$ref': 'Cogs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",test brand @1599849714378,,TEST BRANDCODE @1599849714378
+{'$oid': '5f4a64e7be37ce17d23b317a'},511111716204,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f4a64e7be37ce17d23b3178'}}",test brand @1598711015496,,TEST BRANDCODE @1598711015496
+{'$oid': '5a5d2b20e4b0db471c2d0434'},511111800088,Canned Goods & Soups,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f6e4b03c9a25efd0b4'}}",Continental,,CONTINENTAL SOUP
+{'$oid': '5e3875f5ee7f2d697e835bcf'},511111213925,Beauty,,"{'$ref': 'Cogs', '$id': {'$oid': '5e28b81cee7f2d697e835bcd'}}",Garnier - Hair Color,,GARNIER - HAIR COLOR
+{'$oid': '5ec2dc5fbe37ce5234ec36b8'},511111114628,Health & Wellness,HEALTHY_AND_WELLNESS,"{'$ref': 'Cogs', '$id': {'$oid': '5d9b4f591dda2c6225a284aa'}}",AFRIN® NASAL SPRAY,False,AFRIN® NASAL SPRAY
+{'$oid': '5daf4867a60b87376833e35f'},511111605980,Dairy,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f3e4b03c9a25efd0ae'}}",Goodbelly® Probiotics,,GOODBELLY
+{'$oid': '592486bee410d61fcea3d134'},511111200758,Personal Care,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f6e4b03c9a25efd0b4'}}",NEXXUS,False,NEXXUS
+{'$oid': '5a8c3226e4b07f0a2dac8942'},511111004127,Beverages,,"{'$ref': 'Cogs', '$id': {'$oid': '5a734034e4b0d58f376be874'}}",V8,False,V8
+{'$oid': '55b630a4e4b0d8e685c1421c'},511111502654,,,"{'$ref': 'Cpgs', '$id': {'$oid': '55b62995e4b0d8e685c14213'}}",Dr. Pepper,,
+{'$oid': '5a5d2ac5e4b06ba572cf24a7'},511111300090,Condiments & Sauces,,"{'$ref': 'Cogs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",Colman's,,COLMAN'S
+{'$oid': '5a8c344ae4b0ccf165fac9e5'},511111704140,Condiments & Sauces,,"{'$ref': 'Cogs', '$id': {'$oid': '5a734034e4b0d58f376be874'}}",Prego,False,PREGO
+{'$oid': '5fc54c0bbe37ce1911dbb3b4'},511111517887,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fc54c0abe37ce1911dbb3b1'}}",test brand @1606765578985,False,TEST BRANDCODE @1606765578985
+{'$oid': '5e710e03ee7f2d0b35b2a194'},511111914105,Dairy & Refrigerated,DAIRY_AND_REFRIGERATED,"{'$ref': 'Cogs', '$id': {'$oid': '5e5ea9cc9c50da1291a6d074'}}",BRUMMEL & BROWN,,BRUMMEL & BROWN
+{'$oid': '5daf43251dda2c3e1416ae95'},511111705956,Dairy,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f3e4b03c9a25efd0ae'}}",YQ by Yoplait®,,YQ YOPLAIT
+{'$oid': '5d66d597a3a018093ab34726'},511111805298,Magazines,,"{'$ref': 'Cogs', '$id': {'$oid': '5d5d4fd16d5f3b23d1bc7905'}}",Diabetic Living Magazine,,511111805298
+{'$oid': '5d658ffa6d5f3b23d1bc7914'},511111205227,,,"{'$ref': 'Cogs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",Diabetic Living Magazine,,
+{'$oid': '5fa98944be37ce239d107102'},511111117285,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fa98944be37ce239d1070ff'}}",test brand @1604946244833,False,TEST BRANDCODE @1604946244833
+{'$oid': '5da6076f1dda2c3e1416ae88'},511111205661,Health & Wellness,,"{'$ref': 'Cogs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",ALKA SELTZER® PLUS COLD AND FLU TAB/ CAPS/ GEL,,ALKA SELTZER COLD AND FLU TAB/ CAPS/ GEL
+{'$oid': '5f19e055be37ce33f74a1673'},511111115151,Candy & Sweets,CANDY_AND_SWEETS,"{'$ref': 'Cogs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",test brand @1595531349206,,TEST BRANDCODE @1595531349206
+{'$oid': '5da60915a60b87376833e355'},511111905806,Health & Wellness,,"{'$ref': 'Cogs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",ONE A DAY® HEART HEALTH,,511111905806
+{'$oid': '5c4637ba87ff35681e840d57'},511111605058,Dairy,,"{'$ref': 'Cogs', '$id': {'$oid': '5c45f8b087ff3552f950f026'}}",Brand2,True,09090909090
+{'$oid': '5332f7afe4b03c9a25efd13e'},511111003472,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f7a7e4b03c9a25efd134'}}",Bud Light Lime,,
+{'$oid': '5da609621dda2c3e1416ae8f'},511111105831,Health & Wellness,,"{'$ref': 'Cogs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",ONE A DAY® PRENATAL AND PREGNANCY,,511111105831
+{'$oid': '5a7e0665e4b0aedb3b84afd4'},511111704140,,,"{'$ref': 'Cogs', '$id': {'$oid': '55b62995e4b0d8e685c14213'}}",Diet Chris Cola,,DIETCHRIS2
+{'$oid': '5332f73ee4b03c9a25efd108'},511111403791,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5ebe4b03c9a25efd0a8'}}",Dr Pepper,,
+{'$oid': '5ca6383b166eb32e98e0e450'},511111804765,Deli,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Bold Butcher,,BOLD BUTCHER
+{'$oid': '585a9686e4b03e62d1ce0e81'},511111601678,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",Lay's Original,True,LAY'S
+{'$oid': '585a96e0e4b03e62d1ce0e8a'},511111401599,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",Quaker Chewy,False,
+{'$oid': '592486bde410d61fcea3d121'},511111300939,Frozen,FROZEN,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f6e4b03c9a25efd0b4'}}",BEN & JERRY'S,True,BEN & JERRY'S
+{'$oid': '5f4a7a5dbe37ce2d95e65ca1'},511111816263,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f4a7a5bbe37ce2d95e65c9f'}}",test brand @1598716509304,,TEST BRANDCODE @1598716509304
+{'$oid': '5332fa7ae4b03c9a25efd22a'},511111202950,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5ebe4b03c9a25efd0a8'}}",Pibb Xtra,,
+{'$oid': '5c6c2f9295144c6db8fe1977'},511111106432,Beverages,,"{'$ref': 'Cogs', '$id': {'$oid': '5c6c2ee995144c6db8fe1976'}}","new-brand, of course",True,FRS920
+{'$oid': '5f403231be37ce5f78d9ed15'},511111615651,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f403231be37ce5f78d9ed14'}}",test brand @1598042673378,,TEST BRANDCODE @1598042673378
+{'$oid': '5bcdfc5990fa074576779a15'},511111804604,Beverages,,"{'$ref': 'Cogs', '$id': {'$oid': '5a734034e4b0d58f376be874'}}",V8 Hydrate,False,V8 HYDRATE
+{'$oid': '57d95805e4b0ac389136a2b5'},511111002369,Beverages,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Country Time,False,COUNTRY TIME
+{'$oid': '540f240768abd3c7065097d4'},511111102779,,,"{'$ref': 'Cogs', '$id': {'$oid': '56462469e4b0c05761111936'}}",Frito Lay,,
+{'$oid': '60074277be37ce360be63a00'},511111419815,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '60074277be37ce360be639fe'}}",test brand @1611088503732,False,TEST BRANDCODE @1611088503732
+{'$oid': '585a96ade4b03e62d1ce0e84'},511111401643,Beverages,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",Naked Juice,,NAKED JUICE
+{'$oid': '592486bde410d61fcea3d122'},511111800927,Frozen,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f6e4b03c9a25efd0b4'}}",BREYERS,True,BREYERS
+{'$oid': '5fa1c567be37ce402c4618f2'},511111817215,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fa1c567be37ce402c4618ef'}}",test brand @1604437351646,False,TEST BRANDCODE @1604437351646
+{'$oid': '5d66d4666d5f3b6188d4f046'},511111105275,Magazines,,"{'$ref': 'Cogs', '$id': {'$oid': '5d5d4fd16d5f3b23d1bc7905'}}",Country Gardens Magazine,,511111105275
+{'$oid': '5dc2dab01dda2c0ad7da64af'},511111906353,Breakfast & Cereal,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f3e4b03c9a25efd0ae'}}",Girl Scouts Cookie Cereal,,GIRL SCOUT CEREAL
+{'$oid': '53554c847a010fd9f8db0ed6'},511111802792,Beer Wine Spirits,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f709e4b03c9a25efd0f1'}}",Miller Lite,False,MILLER LITE
+{'$oid': '5a5d2727e4b0db471c2d042e'},511111000167,Beer Wine Spirits,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f709e4b03c9a25efd0f1'}}",Third Shift Brewing,,THIRD SHIFT
+{'$oid': '5db32879ee7f2d6de4248976'},511111112938,Baby,BABY,"{'$ref': 'Cogs', '$id': {'$oid': '55b62995e4b0d8e685c14213'}}",GoodNites,True,GOODNITES
+{'$oid': '5f513ea1be37ce21f1287c04'},511111116523,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f513ea0be37ce21f1287c01'}}",test brand @1599159969061,,TEST BRANDCODE @1599159969061
+{'$oid': '5fa1ba01be37ce402c4618e7'},511111217183,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",test brand @1604434433706,False,TEST BRANDCODE @1604434433706
+{'$oid': '5e387679ee7f2d697e835bd2'},511111413950,Beauty,,"{'$ref': 'Cogs', '$id': {'$oid': '5e28b81cee7f2d697e835bcd'}}",Maybelline,,MAYBELLINE
+{'$oid': '5daf693c1dda2c3e1416ae9d'},511111606093,Dairy,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f3e4b03c9a25efd0ae'}}",Yoplait®,False,YOPLAIT
+{'$oid': '5332f769e4b03c9a25efd122'},511111303664,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5ebe4b03c9a25efd0a8'}}",Odwalla,,
+{'$oid': '5f43faacbe37ce3ef3fd3719'},511111515753,Candy & Sweets,CANDY_AND_SWEETS,"{'$ref': 'Cogs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",test brand @1598290604214,,TEST BRANDCODE @1598290604214
+{'$oid': '5fcff304be37ce6d53dfc684'},511111417989,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fcff304be37ce6d53dfc683'}}",test brand @1607463684590,False,TEST BRANDCODE @1607463684591
+{'$oid': '5e387644ee7f2d697e835bd1'},511111913948,Beauty,,"{'$ref': 'Cogs', '$id': {'$oid': '5e28b81cee7f2d697e835bcd'}}",L’Oreal Paris - Hair Color,,L’OREAL PARIS - HAIR COLOR
+{'$oid': '5f9770c0be37ce03d08a2d8a'},511111917113,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f9770c0be37ce03d08a2d89'}}",test brand @1603760320553,,
+{'$oid': '5da606361dda2c3e1416ae84'},511111505594,Health & Wellness,,"{'$ref': 'Cogs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}","ALEVE® CAPLETS, TABLETS, AND GEL CAPS",,"ALEVE CAPLETS, TABLETS, AND GEL CAPS"
+{'$oid': '5332fa1ae4b03c9a25efd1e9'},511111103097,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",Roma,,
+{'$oid': '5d66d38ca3a018093ab34724'},511111605263,Magazines,,"{'$ref': 'Cogs', '$id': {'$oid': '5d5d4fd16d5f3b23d1bc7905'}}",Clean Eating Magazine,,511111605263
+{'$oid': '5f493682be37ce52f8314fcc'},511111415909,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f493682be37ce52f8314fcb'}}",test brand @1598633602226,,TEST BRANDCODE @1598633602226
+{'$oid': '5332f806e4b03c9a25efd16e'},511111503309,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f7ffe4b03c9a25efd16b'}}",Oikos,,
+{'$oid': '5fda3712be37ce09e351596e'},511111718352,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fda3711be37ce09e351596d'}}",test brand @1608136465926,False,
+{'$oid': '5fd7f2b3be37ce7339755869'},511111218296,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fd7f2b3be37ce7339755868'}}",test brand @1607987891733,False,TEST BRANDCODE @1607987891733
+{'$oid': '5a5d247ae4b06ba572cf24a2'},511111000235,Beer Wine Spirits,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f709e4b03c9a25efd0f1'}}",Saint Archer,,SAINT ARCHER
+{'$oid': '5887a1c8e4b02187f85cdad4'},511111601166,Dairy,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Philadelphia,False,PHILADELPHIA
+{'$oid': '5afda201e4b0c11cfecd49f7'},511111804482,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '5a734034e4b0d58f376be874'}}",Late July,False,LATE JULY
+{'$oid': '5fb823dfbe37ce522e165ce2'},511111417774,Grocery,GROCERY,"{'$ref': 'Cogs', '$id': {'$oid': '5fb6b608be37ce522e165cb9'}}",Freihofers,False,FREIHOFERS
+{'$oid': '5a5d28ade4b0db471c2d0431'},511111100133,Beer Wine Spirits,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f709e4b03c9a25efd0f1'}}",Tyskie,,TYSKIE GRONIE
+{'$oid': '5bd2013f965c7d66d92731ec'},511111904663,Household,,"{'$ref': 'Cogs', '$id': {'$oid': '550b2565e4b001d5e9e4146f'}}",Kleenex,False,KLEENEX
+{'$oid': '5f7760f0be37ce1d26d7b7a6'},511111016854,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f7760f0be37ce1d26d7b7a2'}}",test brand @1601659120870,,TEST BRANDCODE @1601659120870
+{'$oid': '5f7ba914be37ce2f290fb250'},511111416944,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f7ba914be37ce2f290fb24f'}}",test brand @1601939732269,,
+{'$oid': '5a4d1ec9e4b0bcb2c74ea77d'},511111900542,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",EL ISLENO,True,EL ISLENO
+{'$oid': '5fb822e4be37ce522e165ce0'},511111717751,Grocery,GROCERY,"{'$ref': 'Cogs', '$id': {'$oid': '5fb6b608be37ce522e165cb9'}}",Maiser's,False,MAISER'S 
+{'$oid': '5f7ba932be37ce2f290fb255'},511111816980,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f7ba932be37ce2f290fb251'}}",test brand @1601939762976,,TEST BRANDCODE @1601939762976
+{'$oid': '5bd201f090fa074576779a1a'},511111204718,Household,,"{'$ref': 'Cogs', '$id': {'$oid': '550b2565e4b001d5e9e4146f'}}",Viva,False,VIVA
+{'$oid': '5bd20188965c7d66d92731ed'},511111604686,Personal Care,,"{'$ref': 'Cogs', '$id': {'$oid': '550b2565e4b001d5e9e4146f'}}",Poise,False,POISE
+{'$oid': '5fd2a0bfbe37ce49eb72c0f3'},511111918158,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fd2a0bfbe37ce49eb72c0ef'}}",test brand @1607639231747,False,TEST BRANDCODE @1607639231747
+{'$oid': '5332f7a9e4b03c9a25efd138'},511111503538,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f7a7e4b03c9a25efd134'}}",Natural,,
+{'$oid': '57d96112e4b0ac389136a2b8'},511111102335,Frozen,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Ore-Ida,False,ORE-IDA
+{'$oid': '5d66d81a6d5f3b6188d4f048'},511111605331,Magazines,,"{'$ref': 'Cogs', '$id': {'$oid': '5d5d4fd16d5f3b23d1bc7905'}}",History Channel Special Edition Magazine ,,511111605331
+{'$oid': '5a5d1c77e4b06ba572cf249a'},511111300373,Grocery,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",BIAGLUT,False,BIAGLUT
+{'$oid': '5cdacd63166eb33eb7ce0fa8'},511111004790,Condiments & Sauces,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Bitten Dressing,,BITTEN
+{'$oid': '57ebc2dfe4b0ac389136a34a'},511111401926,Beverages,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Tang,False,TANG
+{'$oid': '5332fa58e4b03c9a25efd214'},511111603085,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332fa58e4b03c9a25efd215'}}",Edy's,,
+{'$oid': '5c7d9cb395144c337a3cbfbb'},511111707202,Baby,BABY,"{'$ref': 'Cogs', '$id': {'$oid': '5459429be4b0bfcb1e864082'}}",Huggies,True,HUGGIES
+{'$oid': '5a8c34d7e4b07f0a2dac8944'},511111204152,Baby,,"{'$ref': 'Cogs', '$id': {'$oid': '5a734034e4b0d58f376be874'}}",Plum Organics,False,PLUM ORGANICS
+{'$oid': '5fb805dbbe37ce522e165ccc'},511111917557,Beer Wine Spirits,BEER_WINE_SPIRITS,"{'$id': {'$oid': '5fb6d381be37ce522e165cbd'}, '$ref': 'Cogs'}",The Glenlivet® Caribbean Reserve,False,THE GLENLIVET CARIBBEAN RESERVE
+{'$oid': '5fb806b5be37ce522e165ccd'},511111117568,Beer Wine Spirits,BEER_WINE_SPIRITS,"{'$id': {'$oid': '5fb6d381be37ce522e165cbd'}, '$ref': 'Cogs'}",The Glenlivet® Founder's Reserve,False,THE GLENLIVET® FOUNDER'S RESERVE
+{'$oid': '5fb807bebe37ce522e165cce'},511111617570,Beer Wine Spirits,BEER_WINE_SPIRITS,"{'$id': {'$oid': '5fb6d381be37ce522e165cbd'}, '$ref': 'Cogs'}",The Glenlivet® 12 Year ,False,THE GLENLIVET® 12 YEAR 
+{'$oid': '5bd200fc965c7d66d92731eb'},511111204640,Baby,,"{'$ref': 'Cogs', '$id': {'$oid': '550b2565e4b001d5e9e4146f'}}",Goodnites,False,GOODNITES
+{'$oid': '588ba1c8e4b02187f85cdae1'},511111801030,Beverages,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Tassimo,False,TASSIMO
+{'$oid': '5dc2d9d4a60b873d6b0666d2'},511111206330,Breakfast & Cereal,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f3e4b03c9a25efd0ae'}}",Dippin Dots® Cereal,,DIPPIN DOTS
+{'$oid': '5887a290e4b02187f85cdad7'},511111701132,,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Stove Top,False,STOVE TOP
+{'$oid': '5fb82f4bbe37ce522e165ce7'},511111417828,Bread & Bakery,BREAD_AND_BAKERY,"{'$ref': 'Cogs', '$id': {'$oid': '5fb6b608be37ce522e165cb9'}}",Brownberry,False,BROWNBERRY
+{'$oid': '5f77274bbe37ce6b592e90ba'},511111216704,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f77274bbe37ce6b592e90b9'}}",test brand @1601644363663,,TEST BRANDCODE @1601644363664
+{'$oid': '5daf3eed1dda2c3e1416ae94'},511111205944,Dairy,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f3e4b03c9a25efd0ae'}}",Oui™ by Yoplait®,,OUI BY YOPLAIT
+{'$oid': '5a5d144ee4b0db471c2d041d'},511111500452,Beer Wine Spirits,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f709e4b03c9a25efd0f1'}}",Cerveza Aguila,,CERVEZA AGUILA
+{'$oid': '5f4a7a5dbe37ce2d95e65ca0'},511111616252,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f4a7a5bbe37ce2d95e65c9f'}}",test brand @1598716507601,,TEST BRANDCODE @1598716507602
+{'$oid': '5332f7a7e4b03c9a25efd133'},511111903574,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f7a7e4b03c9a25efd134'}}",Budweiser,,
+{'$oid': '5332f7b7e4b03c9a25efd144'},511111103424,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f7a7e4b03c9a25efd134'}}",Budweiser Black Crown,,
+{'$oid': '5f628215be37ce78e6e2efae'},511111916673,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f628214be37ce78e6e2efaa'}}",test brand @1600291349297,,TEST BRANDCODE @1600291349297
+{'$oid': '57e5823ce4b0ac389136a312'},511111702221,Beer Wine Spirits,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f709e4b03c9a25efd0f1'}}",Icehouse,False,ICEHOUSE
+{'$oid': '5a021582e4b00efe02b02a56'},511111900610,Beauty & Personal Care,,"{'$ref': 'Cogs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",FDS,,FDS
+{'$oid': '5a8c2eeee4b0ccf165fac9e2'},511111204084,Grocery,,"{'$ref': 'Cogs', '$id': {'$oid': '5a734034e4b0d58f376be874'}}",Bolthouse Farms,False,BOLTHOUSE FARMS
+{'$oid': '5a0218cae4b00efe02b02a59'},511111100577,Personal Care,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f6e4b03c9a25efd0b4'}}",Q-TIPS,False,Q-TIPS
+{'$oid': '58861c7f4e8d0d20bc42c4fa'},511111701293,Breakfast & Cereal,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",Quaker Granola,False,
+{'$oid': '588ba198e4b02187f85cdae0'},511111001041,Dairy,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Hoffman's,False,HOFFMAN'S
+{'$oid': '5332fa80e4b03c9a25efd231'},511111202882,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5ebe4b03c9a25efd0a8'}}",Coca-Cola Cherry Zero,,
+{'$oid': '5db9f97f1dda2c3e1416aea2'},511111606215,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f3e4b03c9a25efd0ae'}}",Fruit by the Foot™,,BETTY CROCKER FRUIT BY THE FOOT
+{'$oid': '5a5d28f1e4b0db471c2d0432'},511111600121,Beer Wine Spirits,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f709e4b03c9a25efd0f1'}}",Zumbida,,ZUMBIDA
+{'$oid': '5f441280be37ce5dbe9b7c81'},511111515807,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f441280be37ce5dbe9b7c7d'}}",test brand @1598296704794,,TEST BRANDCODE @1598296704794
+{'$oid': '5332f79ee4b03c9a25efd131'},511111103585,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5f3e4b03c9a25efd0ae'}}",Cinnamon Toast Crunch,,
+{'$oid': '58861c7f4e8d0d20bc42c4fc'},511111001270,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",Quaker Popped Crisps,False,
+{'$oid': '5fd29590be37ce38bbbefb29'},511111918080,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fd29590be37ce38bbbefb25'}}",test brand @1607636368759,False,TEST BRANDCODE @1607636368759
+{'$oid': '57c08257e4b0718ff5fcb034'},511111102496,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f7a7e4b03c9a25efd134'}}",Hoegaarden,,
+{'$oid': '58861c7f4e8d0d20bc42c4fe'},511111301257,Breakfast & Cereal,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",Quaker Real Medleys,False,
+{'$oid': '5332f757e4b03c9a25efd114'},511111303732,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5f2e4b03c9a25efd0aa'}}",gardenburger,,
+{'$oid': '5afda5a6e4b03bf01c2a2968'},511111304548,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '5a734034e4b0d58f376be874'}}",Krunches!,False,KRUNCHERS
+{'$oid': '5fcda494be37ce688e08b0cd'},511111017943,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5fcda494be37ce688e08b0cb'}}",test brand @1607312532218,False,TEST BRANDCODE @1607312532218
+{'$oid': '585a9661e4b03e62d1ce0e7d'},511111401711,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",Funyuns,True,FUNYUNS
+{'$oid': '5ab15456e4b0be0a89bb0b06'},511111904380,Canned Goods & Soups,,"{'$ref': 'Cogs', '$id': {'$oid': '5a734034e4b0d58f376be874'}}",Campbell's Spaghettios,False,CAMPBELLS SPAGHETTIOS
+{'$oid': '592486bde410d61fcea3d123'},511111600916,Dairy,,"{'$ref': 'Cogs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",BRUMMEL AND BROWN,,BRUMMEL AND BROWN
+{'$oid': '5f35a0babe37ce6853cff202'},511111315391,Candy & Sweets,CANDY_AND_SWEETS,"{'$ref': 'Cogs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",test brand @1597350074997,,TEST BRANDCODE @1597350074997
+{'$oid': '5f4a64ebbe37ce17d23b317d'},511111916239,Candy & Sweets,CANDY_AND_SWEETS,"{'$ref': 'Cogs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",test brand @1598711019491,,TEST BRANDCODE @1598711019491
+{'$oid': '5f4bf53dbe37ce0b44915541'},511111116318,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f4bf53dbe37ce0b44915540'}}",test brand @1598813501461,,
+{'$oid': '5332fa08e4b03c9a25efd1d9'},511111403128,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5f2e4b03c9a25efd0aa'}}",Raisin Bran,,
+{'$oid': '5d66e07da3a018093ab3472d'},511111205500,Beverages,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",Sierra Mist,,SIERRA MIST
+{'$oid': '5f4cff24a475f1050a66b56b'},511111016410,Candy & Sweets,CANDY_AND_SWEETS,"{'$ref': 'Cogs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",test brand @1598881572443,,TEST BRANDCODE @1598881572443
+{'$oid': '5f43faabbe37ce3ef3fd3718'},511111015741,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f43faabbe37ce3ef3fd3714'}}",test brand @1598290603646,,TEST BRANDCODE @1598290603646
+{'$oid': '5f513ea1be37ce21f1287c05'},511111616535,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f513ea0be37ce21f1287c01'}}",test brand @1599159969108,,TEST BRANDCODE @1599159969108
+{'$oid': '5332f769e4b03c9a25efd121'},511111803676,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5ebe4b03c9a25efd0a8'}}",Glaceau smartwater,,
+{'$oid': '5332f7afe4b03c9a25efd13c'},511111703495,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f7a7e4b03c9a25efd134'}}",LandShark,,
+{'$oid': '5fb82f87be37ce522e165ce8'},511111917830,Bread & Bakery,BREAD_AND_BAKERY,"{'$ref': 'Cogs', '$id': {'$oid': '5fb6b608be37ce522e165cb9'}}",Oroweat,False,OROWEAT
+{'$oid': '5332f7a8e4b03c9a25efd135'},511111403562,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f7a7e4b03c9a25efd134'}}",Bud Light,,
+{'$oid': '585a96eee4b03e62d1ce0e8c'},511111701576,Snacks,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",Rold Gold,,ROLD GOLD
+{'$oid': '60074277be37ce360be63a02'},511111119838,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '60074277be37ce360be639fe'}}",test brand @1611088503815,False,TEST BRANDCODE @1611088503815
+{'$oid': '5f872b80be37ce66db5dd979'},511111717034,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f872b7fbe37ce66db5dd975'}}",test brand @1602694015991,,TEST BRANDCODE @1602694015992
+{'$oid': '5f208daebe37ce7958c59521'},511111815174,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f208daebe37ce7958c59520'}}",test brand @1595968942895,,TEST BRANDCODE @1595968942896
+{'$oid': '5ab1314de4b0915382df761a'},511111104308,Beverages,,"{'$ref': 'Cogs', '$id': {'$oid': '5a734034e4b0d58f376be874'}}",V8 Splash,False,V8 SPLASH
+{'$oid': '5bd2016990fa074576779a18'},511111404675,Personal Care,,"{'$ref': 'Cogs', '$id': {'$oid': '550b2565e4b001d5e9e4146f'}}",Kotex,False,KOTEX
+{'$oid': '5d64191ea3a018514994f42b'},511111505082,Magazines,,"{'$ref': 'Cogs', '$id': {'$oid': '5d5d4fd16d5f3b23d1bc7905'}}",Midwest Living,,511111505082
+{'$oid': '58863e28e4b02187f85cdacf'},511111901211,Deli,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Oscar Mayer Carving Board,,
+{'$oid': '5d66df24a3a018093ab3472b'},511111405467,Beverages,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",Ocean Spray Juices,,OCEAN SPRAY
+{'$oid': '5da608f61dda2c3e1416ae8e'},511111305798,Health & Wellness,,"{'$ref': 'Cogs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",ONE A DAY® ESSENTIAL,,511111305798
+{'$oid': '57d95749e4b0ac389136a2b2'},511111202394,Frozen,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Bagel Bites,False,BAGEL BITES
+{'$oid': '5d658fca6d5f3b23d1bc7912'},511111405184,,,"{'$ref': 'Cogs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",Do It Yourself,,
+{'$oid': '57ebc2b7e4b0ac389136a347'},511111601951,Dairy,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Polly-O,False,POLLY-O
+{'$oid': '57ebbfa9e4b0ac389136a331'},511111202165,Beverages,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Gevalia Iced Coffee,False,
+{'$oid': '5a5d2c59e4b06ba572cf24a9'},511111900054,Beauty & Personal Care,,"{'$ref': 'Cogs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",Sunsilk,,SUNSILK
+{'$oid': '5887a051e4b02187f85cdad0'},511111401209,Baking,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Baker's,False,BAKER'S
+{'$oid': '5ab1528ce4b0915382df761c'},511111504344,Grocery,,"{'$ref': 'Cogs', '$id': {'$oid': '5a734034e4b0d58f376be874'}}",Ecce Panis,False,ECCE PANIS
+{'$oid': '5d66d6016d5f3b6188d4f047'},511111405306,Magazines,,"{'$ref': 'Cogs', '$id': {'$oid': '5d5d4fd16d5f3b23d1bc7905'}}",Do It Yourself Special Edition Magazine,,511111405306
+{'$oid': '5f21c54abe37ce7958c59528'},511111315230,Cleaning & Home Improvement,CLEANING_AND_HOME_IMPROVEMENT,"{'$ref': 'Cogs', '$id': {'$oid': '5f10c05cbe37ce238c6cabaf'}}",AIR WICK®,False,AIR WICK
+{'$oid': '5332f7fde4b03c9a25efd168'},511111903345,Beer Wine Spirits,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f709e4b03c9a25efd0f1'}}",Hamm's Beer,False,HAMM'S
+{'$oid': '57c08242e4b0718ff5fcb032'},511111202516,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f7a7e4b03c9a25efd134'}}",Corona,,
+{'$oid': '5f5bc4f1be37ce17125ac0e9'},511111716594,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f5bc4f1be37ce17125ac0e8'}}",test brand @1599849713740,,TEST BRANDCODE @1599849713740
+{'$oid': '5332fa12e4b03c9a25efd1e6'},511111703105,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",Bellatoria,,
+{'$oid': '5dc0351a1dda2c0ad7da64aa'},511111306238,Breakfast & Cereal,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f3e4b03c9a25efd0ae'}}",Monster's Cereal,,MONSTERS CEREAL
+{'$oid': '5d66e2d46d5f3b6188d4f056'},511111905523,Beverages,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",Tazo Bottled Teas,, TAZO BOTTLED TEAS
+{'$oid': '5a0219ede4b00d6a5ccb394e'},511111400554,Personal Care,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f6e4b03c9a25efd0b4'}}",TONI&GUY,False,TONI&GUY
+{'$oid': '5d66da306d5f3b6188d4f04c'},511111005377,Magazines,,"{'$ref': 'Cogs', '$id': {'$oid': '5d5d4fd16d5f3b23d1bc7905'}}",Modern Farmhouse Magazine,,511111005377
+{'$oid': '5d66dfe6a3a018093ab3472c'},511111905479,Magazines,,"{'$ref': 'Cogs', '$id': {'$oid': '5d5d4fd16d5f3b23d1bc7905'}}",Weight Watchers Special Edition Magazine ,,511111905479
+{'$oid': '5f3e9172be37ce5a0e01b955'},511111715559,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f3e9172be37ce5a0e01b952'}}",test brand @1597935986434,,TEST BRANDCODE @1597935986434
+{'$oid': '58b598dbe4b0857c2ddb7253'},511111101017,Beer Wine Spirits,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f709e4b03c9a25efd0f1'}}",Mickey's,False,MICKEY'S
+{'$oid': '57d95826e4b0ac389136a2b7'},511111302346,Beverages,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Crystal Light,False,CRYSTAL LIGHT
+{'$oid': '5a5d1bffe4b0db471c2d0423'},511111000396,Beer Wine Spirits,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f709e4b03c9a25efd0f1'}}",Coors Extra Gold,,COORS EXTRA GOLD
+{'$oid': '5fb82fe3be37ce522e165cea'},511111617853,Grocery,GROCERY,"{'$ref': 'Cogs', '$id': {'$oid': '5fb6b608be37ce522e165cb9'}}",D'Italiano,False,D ITALIANO
+{'$oid': '5332fa75e4b03c9a25efd221'},511111303015,,,"{'$ref': 'Cpgs', '$id': {'$oid': '5332f5ebe4b03c9a25efd0a8'}}",DASANI,,
+{'$oid': '5f628215be37ce78e6e2efab'},511111716648,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f628214be37ce78e6e2efaa'}}",test brand @1600291349042,,TEST BRANDCODE @1600291349043
+{'$oid': '585a96cbe4b03e62d1ce0e88'},511111501619,Beverages,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5fbe4b03c9a25efd0ba'}}",Pepsi Max,False,
+{'$oid': '5887a216e4b02187f85cdad5'},511111401155,Deli,,"{'$ref': 'Cogs', '$id': {'$oid': '559c2234e4b06aca36af13c6'}}",Claussen,False,CLAUSSEN
+{'$oid': '5332f709e4b03c9a25efd0f2'},511111403845,Beer Wine Spirits,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f709e4b03c9a25efd0f1'}}",Blue Moon,False,BLUE MOON
+{'$oid': '5f77274dbe37ce6b592e90c0'},511111116752,Baking,BAKING,"{'$ref': 'Cogs', '$id': {'$oid': '5f77274dbe37ce6b592e90bf'}}",test brand @1601644365844,,
+{'$oid': '5dc1fca91dda2c0ad7da64ae'},511111706328,Breakfast & Cereal,,"{'$ref': 'Cogs', '$id': {'$oid': '53e10d6368abd3c7065097cc'}}",Dippin Dots® Cereal,,DIPPIN DOTS CEREAL
+{'$oid': '5f494c6e04db711dd8fe87e7'},511111416173,Candy & Sweets,CANDY_AND_SWEETS,"{'$ref': 'Cogs', '$id': {'$oid': '5332fa12e4b03c9a25efd1e7'}}",test brand @1598639215217,,TEST BRANDCODE @1598639215217
+{'$oid': '5a021611e4b00efe02b02a57'},511111400608,Grocery,,"{'$ref': 'Cogs', '$id': {'$oid': '5332f5f6e4b03c9a25efd0b4'}}",LIPTON TEA Leaves,False,LIPTON TEA Leaves
+{'$oid': '6026d757be37ce6369301468'},511111019930,Baking,BAKING,"{'$id': {'$oid': '6026d757be37ce6369301467'}, '$ref': 'Cogs'}",test brand @1613158231643,False,TEST BRANDCODE @1613158231644
