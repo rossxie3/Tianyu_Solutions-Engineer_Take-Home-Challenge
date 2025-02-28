@@ -1,0 +1,92 @@
+Subject: Data Assets Findings, Questions, and Recommendations
+
+Hi Team,
+
+Below is a summary of our findings, questions, and recommendations regarding our data assets. Please review and provide guidance on the following issues.
+
+1. What questions do you have about the data?
+
+Data Time Range:
+- Our current dataset spans from 2020-10-30 to 2021-03-01.
+- Question: Do we have updated data for the past one or two months?
+
+Data Quality Issues Across All Files:
+- Missing Key Fields:  
+  Each file (Users, Brands, Receipts, ReceiptItems) contains many records with missing key fields.
+  - Question: How should we address or impute these missing fields?
+- Duplicate Data:  
+  Multiple duplicate records exist across files.
+  - Question: Should duplicates be automatically removed or flagged for manual review?
+
+Receipt Data Specific Concerns:
+- Many receipts are missing critical fields (e.g., brandCode or barcode), which may cause mapping inaccuracies.
+
+Receipt Status Discrepancies:
+- Observed statuses include FINISHED, SUBMITTED, FLAGGED, PENDING, and REJECTED.
+- The requirement mentions “Accepted” or “Rejected.”
+- Question: Should FINISHED be interpreted as Accepted, or is there an error in the requirements?
+
+User Reference Issues:
+- Some receipts reference user IDs not found in the Users table.
+- Question: Should these be treated as errors, or might they come from a secondary data source?
+
+Test Data in Brands:
+- The Brands data contains a lot of test data.
+- Question: Should test brands be completely removed or just flagged?
+
+Data Usage Considerations:
+- Questions: Which metrics and data quality dimensions are most critical? How frequently is the data updated and what is the expected growth rate?
+
+Mandatory Fields & Acceptable Ranges:
+- Questions: What are the defined mandatory fields for each table and the acceptable ranges for values (e.g., totalSpent, quantity, price)? What standardized formats and naming conventions should be enforced?
+
+2. How I Discovered the Data Quality Issues
+
+Initial Screening:
+- Performed preliminary cleaning of each file by checking for consistent time formats, missing key characters/fields, and duplicate records.
+
+Integration & SQL Checks:
+- Integrated the cleaned files into our structured model.
+- Developed SQL queries (using UNION to combine results) to check:
+  - Mandatory field issues (e.g., missing _id, createdDate, or role in Users).
+  - Foreign key inconsistencies (e.g., receipts referencing non-existent user IDs, receipt items with unmatched brand codes).
+  - Numeric anomalies (e.g., negative values for totalSpent or price, invalid quantities).
+
+Results:
+- Found 719 receipts with missing user references.
+- Found over 6,000 receipt items with unmatched brand codes.
+
+Ongoing Optimization:
+- Continuously refined the code and checks to incrementally improve data quality.
+
+3. What Do We Need to Know to Resolve the Data Quality Issues?
+
+- User Records Update Process: Is there a regular process for updating or correcting user records?
+- User Reference Expectations: Should we expect receipts to reference users not in our current Users table, or are these discrepancies errors?
+- Brand Data Completeness: Can we confirm that current brand information is complete and authoritative?
+- Additional Mapping Information: Is there secondary mapping data (e.g., additional fields in receipt items) that could help resolve missing brand codes?
+- Handling Missing/Invalid User References: How should receipts with missing/invalid user references be handled—excluded, flagged for review, or corrected using alternative sources?
+- Receipt Items Mapping Logic: For many unmatched brand codes in receipt items, should we refine our mapping logic or flag these records for investigation?
+- Acceptable Data Quality Thresholds: What are the acceptable tolerances for data quality issues (e.g., acceptable percentage of missing references)?
+- Detailed Business Rules for Critical Fields: What are the mandatory fields, acceptable numeric ranges, and standardized formats (for dates, role naming, etc.) for each table?
+
+4. What Other Information Would Help Optimize the Data Assets?
+
+- Data Collection & Update Process: Detailed documentation on how data is obtained, cleaned, and updated (including change logs and source details) to automate quality checks.
+- Business Requirements & KPIs: Clarity on specific business requirements and KPIs to focus on the most critical metrics.
+- Usage Patterns: Which queries and metrics are most frequently accessed by business users? This will help prioritize performance optimization (e.g., indexing, partitioning).
+- Data Growth & Update Frequency: Information on expected data growth and update frequency to plan for scalability (incremental loading, partitioning, indexing).
+- Additional Mapping Information: Extra fields or reference tables that could improve mapping between receipt items and brands (e.g., secondary keys).
+
+5. Performance and Scaling Concerns in Production
+
+- Current System Limitations: Our development environment uses SQLite, which may not scale with increased data volume or concurrent access. We might need to migrate to PostgreSQL, MySQL, or a cloud-based solution.
+- Query Performance: Complex joins between large tables (e.g., Receipts and ReceiptItems) might slow down queries. Indexes on key columns and partitioning strategies will be essential.
+- Incremental Data Loading: Implementing incremental load mechanisms with change tracking can avoid reprocessing the entire dataset during updates.
+- Monitoring & Automation: Automated data quality checks and performance monitoring tools (including scheduled alerts) will help us detect and resolve issues promptly.
+
+I appreciate your attention to these detailed questions and look forward to your feedback so we can effectively address these issues and optimize our data assets.
+
+Best regards,
+
+Tianyu
