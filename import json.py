@@ -17,12 +17,17 @@ def load_gzip_ndjson_to_df(gz_file):
         data = [json.loads(line) for line in f if line.strip()]
     return pd.DataFrame(data)
 
-DATA_PATH = "C:/Users/xty10/Desktop/Fetch Solutions Engineer_Take Home Challenge/data/"
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+DATA_PATH = os.path.join(BASE_DIR, "data")
+
+users_file = os.path.join(DATA_PATH, "users.json.gz")
+brands_file = os.path.join(DATA_PATH, "brands.json.gz")
+receipts_file = os.path.join(DATA_PATH, "receipts.json.gz")
 
 # Load the data
-df_users = load_tar_ndjson_to_df(f"{DATA_PATH}users.json.gz", "users.json")
-df_brands = load_gzip_ndjson_to_df(f"{DATA_PATH}brands.json.gz")
-df_receipts = load_gzip_ndjson_to_df(f"{DATA_PATH}receipts.json.gz")
+df_users = load_tar_ndjson_to_df(users_file, "users.json")
+df_brands = load_gzip_ndjson_to_df(brands_file)
+df_receipts = load_gzip_ndjson_to_df(receipts_file)
 
 # Save the data to CSV files
 df_users.to_csv(os.path.join(DATA_PATH, "users_raw.csv"), index=False)

@@ -5,7 +5,8 @@ import uuid
 import ast
 
 # File paths
-DATA_PATH = r"C:\Users\xty10\Desktop\Fetch Solutions Engineer_Take Home Challenge\data\cleaned"
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+DATA_PATH = os.path.join(BASE_DIR, "data", "cleaned")
 RECEIPTS_FILE = os.path.join(DATA_PATH, "receipts_cleaned.csv")
 BRANDS_FILE = os.path.join(DATA_PATH, "brands_cleaned.csv")
 OUTPUT_FILE = os.path.join(DATA_PATH, "receiptItems_cleaned.csv")

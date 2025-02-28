@@ -1,8 +1,8 @@
 import sqlite3
 import pandas as pd
-
-DB_PATH = r"C:\Users\xty10\Desktop\Fetch Solutions Engineer_Take Home Challenge\fetch_data.db"
-
+import os
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+DB_PATH = os.path.join(BASE_DIR, "fetch_data.db")
 queries = {
     "Q1: Top 5 brands by receipts scanned in the most recent month": """
         SELECT 

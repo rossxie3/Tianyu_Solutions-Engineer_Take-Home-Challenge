@@ -2,9 +2,10 @@ import os
 import pandas as pd
 from datetime import datetime
 
-# Ensure the data directory is correct
-data_path = "C:/Users/xty10/Desktop/Fetch Solutions Engineer_Take Home Challenge/data/"
-cleaned_data_path = "C:/Users/xty10/Desktop/Fetch Solutions Engineer_Take Home Challenge/data/cleaned"
+
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+data_path = os.path.join(BASE_DIR, "data")
+cleaned_data_path = os.path.join(data_path, "cleaned")
 
 # Load the raw users CSV file
 df_users = pd.read_csv(os.path.join(data_path, "users_raw.csv"))

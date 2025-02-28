@@ -3,8 +3,9 @@ import pandas as pd
 import sqlite3
 
 # Database file path
-DB_PATH = r"C:\Users\xty10\Desktop\Fetch Solutions Engineer_Take Home Challenge\fetch_data.db"
-DATA_PATH = r"C:\Users\xty10\Desktop\Fetch Solutions Engineer_Take Home Challenge\data\cleaned"
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+DB_PATH = os.path.join(BASE_DIR, "fetch_data.db")
+DATA_PATH = os.path.join(BASE_DIR, "data", "cleaned")
 
 # Connect to the SQLite database
 conn = sqlite3.connect(DB_PATH)
